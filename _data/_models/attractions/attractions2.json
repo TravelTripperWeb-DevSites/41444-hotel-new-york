@@ -1,11 +1,19 @@
 {
-    "name": "Joe's Coffee",
-    "sub_title": "Get caffeinated",
-    "featured": true,
-    "category": ["Restaurants", "Cafe"],
-    "description": "<p>Open early, stop by for your morning pick-me-up and local gossip.</p>",
-    "image": {"id":6,"name":"breakfast","file_name":"breakfast.jpg","file_type":"image/jpeg","tags":"","file_size":1349789,"width":1400,"height":933,"description":"","url":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/breakfast.jpg","url_large":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/large_breakfast.jpg","url_medium":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/medium_breakfast.jpg","url_small":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/small_breakfast.jpg","url_xsmall":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/xsmall_breakfast.jpg","url_thumb":"//cdn.traveltripper.io/stock-image-library/images/2018-01-23-121150/thumb_breakfast.jpg","created_at":"2018-01-23T12:11:52-05:00","updated_at":"2018-01-23T12:11:52-05:00"},
-    "latitude": 40.7517385,
-    "longitude": -73.97281210000002,    
-    "order": 1
+  "name": "google_attraction_1",
+  "file_name": "google_attraction_1",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-11-083246/unnamed.png",
+  "tags": "",
+  "description": "",
+  "date_added": "2018-07-11-083246",
+  "file_type": "image/jpeg",
+  "width": 960,
+  "height": 720,
+  "file_size": 375721,
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-11-083246/large_unnamed.png",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-11-083246/medium_unnamed.png",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-11-083246/small_unnamed.png",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-11-083246/xsmall_unnamed.png",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-11-083246/thumb_unnamed.png",
+  "order": 2,
+  "hidden": false
 }
