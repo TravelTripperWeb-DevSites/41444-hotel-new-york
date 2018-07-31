@@ -1,19 +1,29 @@
 {
-  "name": "Triomphe Restaurant",
-  "file_name": "Triomphe Restaurant",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050747/fish.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050747",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 668,
-  "file_size": 658855,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050747/large_fish.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050747/medium_fish.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050747/small_fish.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050747/xsmall_fish.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050747/thumb_fish.png",
-  "order": 14,
-  "hidden": false
+  "name": "Marea",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.76740849999999,
+  "longitude": -73.9808489,
+  "description": null,
+  "image": {
+    "name": "Marea",
+    "file_name": "Marea",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/unnamed.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033919",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 788,
+    "file_size": 838378,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/thumb_unnamed.png"
+  }
 }

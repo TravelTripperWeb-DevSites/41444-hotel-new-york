@@ -1,19 +1,31 @@
 {
-  "name": "Palm Restaurant: West Side",
-  "file_name": "Palm Restaurant: West Side",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050106/the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050106",
-  "file_type": "image/jpeg",
-  "width": 1024,
-  "height": 683,
-  "file_size": 1018169,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050106/large_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050106/medium_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050106/small_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050106/xsmall_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050106/thumb_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
-  "order": 7,
-  "hidden": false
+  "name": "The Polo Bar",
+  "category": [
+    "bar",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7617271,
+  "longitude": -73.9743529,
+  "description": null,
+  "image": {
+    "name": "The Polo Bar",
+    "file_name": "The Polo Bar",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/IMG_7866.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033330",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 1050,
+    "file_size": 2336430,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/large_IMG_7866.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/medium_IMG_7866.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/small_IMG_7866.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/xsmall_IMG_7866.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/thumb_IMG_7866.png"
+  }
 }

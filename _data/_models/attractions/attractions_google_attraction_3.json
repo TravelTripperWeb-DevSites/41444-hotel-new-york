@@ -1,19 +1,29 @@
 {
-  "name": "Hernan Valle",
-  "file_name": "Hernan Valle",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045743/2018-05-08.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-045743",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 1050,
-  "file_size": 2176084,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045743/large_2018-05-08.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045743/medium_2018-05-08.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045743/small_2018-05-08.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045743/xsmall_2018-05-08.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045743/thumb_2018-05-08.png",
-  "order": 3,
-  "hidden": false
+  "name": "SuperNova",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7627913,
+  "longitude": -73.9836565,
+  "description": null,
+  "image": {
+    "name": "SuperNova",
+    "file_name": "SuperNova",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/20160926-IMG_894541.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033015",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 933,
+    "file_size": 2081108,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/large_20160926-IMG_894541.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/medium_20160926-IMG_894541.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/small_20160926-IMG_894541.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/xsmall_20160926-IMG_894541.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/thumb_20160926-IMG_894541.png"
+  }
 }

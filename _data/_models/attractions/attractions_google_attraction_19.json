@@ -1,19 +1,31 @@
 {
-  "name": "ZAGAT",
-  "file_name": "ZAGAT",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051209/JKM_3605.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-051209",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 930,
-  "file_size": 1457235,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051209/large_JKM_3605.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051209/medium_JKM_3605.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051209/small_JKM_3605.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051209/xsmall_JKM_3605.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051209/thumb_JKM_3605.png",
-  "order": 19,
-  "hidden": false
+  "name": "Niles New York City",
+  "category": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7487667,
+  "longitude": -73.9920106,
+  "description": null,
+  "image": {
+    "name": "Niles New York City",
+    "file_name": "Niles New York City",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/2016-11-05.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-034326",
+    "file_type": "image/jpeg",
+    "width": 1200,
+    "height": 1600,
+    "file_size": 1946190,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/large_2016-11-05.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/medium_2016-11-05.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/small_2016-11-05.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/xsmall_2016-11-05.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/thumb_2016-11-05.png"
+  }
 }

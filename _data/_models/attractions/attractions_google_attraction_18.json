@@ -1,19 +1,29 @@
 {
-  "name": "Roshan Abbas",
-  "file_name": "Roshan Abbas",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051116/IMG_20170705_162014.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-051116",
-  "file_type": "image/jpeg",
-  "width": 1200,
-  "height": 1600,
-  "file_size": 1879444,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051116/large_IMG_20170705_162014.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051116/medium_IMG_20170705_162014.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051116/small_IMG_20170705_162014.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051116/xsmall_IMG_20170705_162014.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051116/thumb_IMG_20170705_162014.png",
-  "order": 18,
-  "hidden": false
+  "name": "Fogo de Chão Brazilian Steakhouse",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7611129,
+  "longitude": -73.97783679999999,
+  "description": null,
+  "image": {
+    "name": "Fogo de Chão Brazilian Steakhouse",
+    "file_name": "Fogo de Chão Brazilian Steakhouse",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/Fogo_NYC_1.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-034236",
+    "file_type": "image/jpeg",
+    "width": 750,
+    "height": 1125,
+    "file_size": 1414091,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/large_Fogo_NYC_1.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/medium_Fogo_NYC_1.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/small_Fogo_NYC_1.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/xsmall_Fogo_NYC_1.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/thumb_Fogo_NYC_1.png"
+  }
 }

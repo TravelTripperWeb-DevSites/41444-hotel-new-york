@@ -1,19 +1,30 @@
 {
-  "name": "MZ Ghatala",
-  "file_name": "MZ Ghatala",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045927/2018-07-26.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-045927",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 1050,
-  "file_size": 1403939,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045927/large_2018-07-26.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045927/medium_2018-07-26.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045927/small_2018-07-26.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045927/xsmall_2018-07-26.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045927/thumb_2018-07-26.png",
-  "order": 5,
-  "hidden": false
+  "name": "The Russian Tea Room",
+  "category": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7649476,
+  "longitude": -73.9794337,
+  "description": null,
+  "image": {
+    "name": "The Russian Tea Room",
+    "file_name": "The Russian Tea Room",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/RTR-Google-Plus-Cover.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033158",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 788,
+    "file_size": 2223629,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/large_RTR-Google-Plus-Cover.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/medium_RTR-Google-Plus-Cover.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/small_RTR-Google-Plus-Cover.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/xsmall_RTR-Google-Plus-Cover.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/thumb_RTR-Google-Plus-Cover.png"
+  }
 }

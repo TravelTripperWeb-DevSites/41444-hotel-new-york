@@ -1,19 +1,30 @@
 {
-  "name": "Mike Mannan",
-  "file_name": "Mike Mannan",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051021/2018-06-23.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-051021",
-  "file_type": "image/png",
-  "width": 882,
-  "height": 694,
-  "file_size": 1018586,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051021/large_2018-06-23.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051021/medium_2018-06-23.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051021/small_2018-06-23.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051021/xsmall_2018-06-23.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-051021/thumb_2018-06-23.png",
-  "order": 17,
-  "hidden": false
+  "name": "Grand Central Oyster Bar & Restaurant",
+  "category": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.75246569999999,
+  "longitude": -73.9773835,
+  "description": null,
+  "image": {
+    "name": "Grand Central Oyster Bar & Restaurant",
+    "file_name": "Grand Central Oyster Bar & Restaurant",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/G%2B.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-034147",
+    "file_type": "image/jpeg",
+    "width": 1060,
+    "height": 608,
+    "file_size": 1157666,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/large_G%2B.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/medium_G%2B.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/small_G%2B.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/xsmall_G%2B.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/thumb_G%2B.png"
+  }
 }

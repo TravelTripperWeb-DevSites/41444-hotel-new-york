@@ -1,19 +1,30 @@
 {
-  "name": "The Russian Tea Room",
-  "file_name": "The Russian Tea Room",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045834/RTR-Google-Plus-Cover.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-045834",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 788,
-  "file_size": 2223629,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045834/large_RTR-Google-Plus-Cover.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045834/medium_RTR-Google-Plus-Cover.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045834/small_RTR-Google-Plus-Cover.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045834/xsmall_RTR-Google-Plus-Cover.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045834/thumb_RTR-Google-Plus-Cover.png",
-  "order": 4,
-  "hidden": false
+  "name": "The Palm West Side",
+  "category": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.761899,
+  "longitude": -73.9855409,
+  "description": null,
+  "image": {
+    "name": "The Palm West Side",
+    "file_name": "The Palm West Side",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033109/the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033109",
+    "file_type": "image/jpeg",
+    "width": 1024,
+    "height": 683,
+    "file_size": 1018169,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033109/large_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033109/medium_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033109/small_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033109/xsmall_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033109/thumb_the_palm_nyc_palm_west_side-3_LOC_Filmstrip.png"
+  }
 }

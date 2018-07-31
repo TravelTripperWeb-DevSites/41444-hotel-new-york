@@ -1,19 +1,29 @@
 {
-  "name": "Lincoln Ristorante",
-  "file_name": "Lincoln Ristorante",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050341/Lincoln_DSC3882.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050341",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 932,
-  "file_size": 1675418,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050341/large_Lincoln_DSC3882.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050341/medium_Lincoln_DSC3882.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050341/small_Lincoln_DSC3882.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050341/xsmall_Lincoln_DSC3882.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050341/thumb_Lincoln_DSC3882.png",
-  "order": 10,
-  "hidden": false
+  "name": "Vitae",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.755621,
+  "longitude": -73.97846179999999,
+  "description": null,
+  "image": {
+    "name": "Vitae",
+    "file_name": "Vitae",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/2016-07-06.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033555",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 1047,
+    "file_size": 2162488,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/large_2016-07-06.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/medium_2016-07-06.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/small_2016-07-06.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/xsmall_2016-07-06.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/thumb_2016-07-06.png"
+  }
 }

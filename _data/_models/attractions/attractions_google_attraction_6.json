@@ -1,19 +1,29 @@
 {
-  "name": "Giulia Sampogna - Like Wanderlust",
-  "file_name": "Giulia Sampogna - Like Wanderlust",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050016/Asiate_em_Nova_York__4_.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050016",
-  "file_type": "image/jpeg",
-  "width": 1000,
-  "height": 664,
-  "file_size": 1202076,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050016/large_Asiate_em_Nova_York__4_.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050016/medium_Asiate_em_Nova_York__4_.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050016/small_Asiate_em_Nova_York__4_.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050016/xsmall_Asiate_em_Nova_York__4_.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050016/thumb_Asiate_em_Nova_York__4_.png",
-  "order": 6,
-  "hidden": false
+  "name": "Triomphe",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.755821,
+  "longitude": -73.982041,
+  "description": null,
+  "image": {
+    "name": "Triomphe",
+    "file_name": "Triomphe",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/fish.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033249",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 668,
+    "file_size": 658855,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/large_fish.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/medium_fish.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/small_fish.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/xsmall_fish.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/thumb_fish.png"
+  }
 }

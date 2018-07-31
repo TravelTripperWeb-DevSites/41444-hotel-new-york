@@ -1,19 +1,29 @@
 {
-  "name": "Mastro&#39;s Steakhouse",
-  "file_name": "Mastro&#39;s Steakhouse",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045654/unnamed.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-045654",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 788,
-  "file_size": 1508651,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045654/large_unnamed.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045654/medium_unnamed.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045654/small_unnamed.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045654/xsmall_unnamed.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045654/thumb_unnamed.png",
-  "order": 2,
-  "hidden": false
+  "name": "Mastro's Steakhouse",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7610374,
+  "longitude": -73.9802619,
+  "description": null,
+  "image": {
+    "name": "Mastro's Steakhouse",
+    "file_name": "Mastro's Steakhouse",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032927/unnamed.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-032927",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 788,
+    "file_size": 1508651,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032927/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032927/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032927/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032927/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032927/thumb_unnamed.png"
+  }
 }

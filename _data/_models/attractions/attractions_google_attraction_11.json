@@ -1,19 +1,29 @@
 {
-  "name": "Bryant Park Grill",
-  "file_name": "Bryant Park Grill",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050437/2a0bx8h.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050437",
-  "file_type": "image/jpeg",
-  "width": 1024,
-  "height": 681,
-  "file_size": 1842268,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050437/large_2a0bx8h.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050437/medium_2a0bx8h.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050437/small_2a0bx8h.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050437/xsmall_2a0bx8h.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050437/thumb_2a0bx8h.png",
-  "order": 11,
-  "hidden": false
+  "name": "Asiate",
+  "category": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7688396,
+  "longitude": -73.9830036,
+  "description": null,
+  "image": {
+    "name": "Asiate",
+    "file_name": "Asiate",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/Asiate_em_Nova_York__4_.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033649",
+    "file_type": "image/jpeg",
+    "width": 1000,
+    "height": 664,
+    "file_size": 1202076,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/large_Asiate_em_Nova_York__4_.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/medium_Asiate_em_Nova_York__4_.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/small_Asiate_em_Nova_York__4_.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/xsmall_Asiate_em_Nova_York__4_.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/thumb_Asiate_em_Nova_York__4_.png"
+  }
 }

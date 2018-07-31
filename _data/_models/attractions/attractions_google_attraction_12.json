@@ -1,19 +1,30 @@
 {
-  "name": "Michael Thomas",
-  "file_name": "Michael Thomas",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050555/2016-01-10.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050555",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 788,
-  "file_size": 1276695,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050555/large_2016-01-10.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050555/medium_2016-01-10.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050555/small_2016-01-10.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050555/xsmall_2016-01-10.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050555/thumb_2016-01-10.png",
-  "order": 12,
-  "hidden": false
+  "name": "Jean-Georges",
+  "category": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7690691,
+  "longitude": -73.9815601,
+  "description": null,
+  "image": {
+    "name": "Jean-Georges",
+    "file_name": "Jean-Georges",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/20120725_dine_109_1.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033739",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 933,
+    "file_size": 1583052,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/large_20120725_dine_109_1.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/medium_20120725_dine_109_1.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/small_20120725_dine_109_1.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/xsmall_20120725_dine_109_1.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/thumb_20120725_dine_109_1.png"
+  }
 }

@@ -1,19 +1,31 @@
 {
   "name": "Ocean Prime",
-  "file_name": "Ocean Prime",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050250/unnamed.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050250",
-  "file_type": "image/jpeg",
-  "width": 512,
-  "height": 288,
-  "file_size": 243624,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050250/large_unnamed.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050250/medium_unnamed.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050250/small_unnamed.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050250/xsmall_unnamed.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050250/thumb_unnamed.png",
-  "order": 9,
-  "hidden": false
+  "category": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.76184730000001,
+  "longitude": -73.9805453,
+  "description": null,
+  "image": {
+    "name": "Ocean Prime",
+    "file_name": "Ocean Prime",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/unnamed.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-033511",
+    "file_type": "image/jpeg",
+    "width": 512,
+    "height": 288,
+    "file_size": 243624,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/thumb_unnamed.png"
+  }
 }

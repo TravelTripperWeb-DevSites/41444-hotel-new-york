@@ -1,19 +1,30 @@
 {
-  "name": "Ruwan J",
-  "file_name": "Ruwan J.",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050831/2017-05-26.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-050831",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 1050,
-  "file_size": 1996602,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050831/large_2017-05-26.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050831/medium_2017-05-26.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050831/small_2017-05-26.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050831/xsmall_2017-05-26.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-050831/thumb_2017-05-26.png",
-  "order": 15,
-  "hidden": false
+  "name": "Trump Grill",
+  "category": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.7623675,
+  "longitude": -73.9739992,
+  "description": null,
+  "image": {
+    "name": "Trump Grill",
+    "file_name": "Trump Grill",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/2018-05-25.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-034005",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 788,
+    "file_size": 940879,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/large_2018-05-25.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/medium_2018-05-25.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/small_2018-05-25.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/xsmall_2018-05-25.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/thumb_2018-05-25.png"
+  }
 }
