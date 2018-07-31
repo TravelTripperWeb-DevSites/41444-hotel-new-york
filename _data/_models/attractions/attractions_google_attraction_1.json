@@ -1,19 +1,30 @@
 {
   "name": "The Modern",
-  "file_name": "The Modern",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045603/Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
-  "tags": "",
-  "description": "",
-  "date_added": "2018-07-30-045603",
-  "file_type": "image/jpeg",
-  "width": 1400,
-  "height": 706,
-  "file_size": 1266148,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045603/large_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045603/medium_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045603/small_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045603/xsmall_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-30-045603/thumb_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
-  "order": 1,
-  "hidden": false
+  "category": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "latitude": 40.761081,
+  "longitude": -73.976753,
+  "description": null,
+  "image": {
+    "name": "The Modern",
+    "file_name": "The Modern",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032233/Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-07-31-032233",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 706,
+    "file_size": 1266148,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032233/large_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032233/medium_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032233/small_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032233/xsmall_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-032233/thumb_Bar_Room_and_The_Modern_Empty_-_credit_Benjamin_Johnson.png"
+  }
 }
