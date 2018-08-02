@@ -1,30 +1,35 @@
 {
-  "name": "Grand Central Oyster Bar & Restaurant",
+  "name": "Aéropostale",
   "category": [
-    "bar",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.75246569999999,
-  "longitude": -73.9773835,
+  "latitude": 40.7491669,
+  "longitude": -73.9891134,
   "description": null,
   "image": {
-    "name": "Grand Central Oyster Bar & Restaurant",
-    "file_name": "Grand Central Oyster Bar & Restaurant",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/G%2B.png",
+    "name": "Aéropostale",
+    "file_name": "Aéropostale",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/2016-11-15.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-034147",
+    "date_added": "2018-08-02-033430",
     "file_type": "image/jpeg",
-    "width": 1060,
-    "height": 608,
-    "file_size": 1157666,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/large_G%2B.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/medium_G%2B.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/small_G%2B.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/xsmall_G%2B.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034147/thumb_G%2B.png"
+    "width": 1400,
+    "height": 1050,
+    "file_size": 1847445,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/large_2016-11-15.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/medium_2016-11-15.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/small_2016-11-15.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/xsmall_2016-11-15.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/thumb_2016-11-15.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9891134,
+    "vicinity": "901 6th Ave, New York",
+    "place_id": "ChIJ6zyw0a5ZwokRBAQDDRUROxg"
   }
 }

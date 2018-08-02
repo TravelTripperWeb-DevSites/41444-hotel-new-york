@@ -1,29 +1,37 @@
 {
-  "name": "Per Se",
+  "name": "LOFT",
   "category": [
-    "restaurant",
-    "food",
+    "shoe_store",
+    "jewelry_store",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7682407,
-  "longitude": -73.9829029,
+  "latitude": 40.7556676,
+  "longitude": -73.9870445,
   "description": null,
   "image": {
-    "name": "Per Se",
-    "file_name": "Per Se",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034051/2018-06-23.png",
+    "name": "LOFT",
+    "file_name": "LOFT",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/2018-01-22.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-034051",
-    "file_type": "image/png",
-    "width": 882,
-    "height": 694,
-    "file_size": 1018586,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034051/large_2018-06-23.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034051/medium_2018-06-23.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034051/small_2018-06-23.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034051/xsmall_2018-06-23.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034051/thumb_2018-06-23.png"
+    "date_added": "2018-08-02-033333",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 788,
+    "file_size": 1502868,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/large_2018-01-22.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/medium_2018-01-22.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/small_2018-01-22.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/xsmall_2018-01-22.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/thumb_2018-01-22.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9870445,
+    "vicinity": "1459 Broadway, New York",
+    "place_id": "ChIJ_SP4MqtZwokRU_zoHU2uQjQ"
   }
 }

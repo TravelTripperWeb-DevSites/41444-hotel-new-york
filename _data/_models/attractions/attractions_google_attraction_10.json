@@ -1,29 +1,37 @@
 {
-  "name": "Vitae",
+  "name": "LOFT",
   "category": [
-    "restaurant",
-    "food",
+    "shoe_store",
+    "jewelry_store",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.755621,
-  "longitude": -73.97846179999999,
+  "latitude": 40.7511429,
+  "longitude": -73.9759808,
   "description": null,
   "image": {
-    "name": "Vitae",
-    "file_name": "Vitae",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/2016-07-06.png",
+    "name": "LOFT",
+    "file_name": "LOFT",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/20180120_192720.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033555",
+    "date_added": "2018-08-02-032815",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 1047,
-    "file_size": 2162488,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/large_2016-07-06.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/medium_2016-07-06.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/small_2016-07-06.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/xsmall_2016-07-06.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033555/thumb_2016-07-06.png"
+    "width": 1200,
+    "height": 1600,
+    "file_size": 2377034,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/large_20180120_192720.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/medium_20180120_192720.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/small_20180120_192720.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/xsmall_20180120_192720.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/thumb_20180120_192720.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9759808,
+    "vicinity": "150 E 42nd St, New York",
+    "place_id": "ChIJ63s-twNZwokRQbZtT-tqzrc"
   }
 }

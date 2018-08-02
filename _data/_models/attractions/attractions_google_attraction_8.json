@@ -1,32 +1,35 @@
 {
-  "name": "La Vela Dining & Bar",
+  "name": "Old Navy",
   "category": [
-    "meal_delivery",
-    "bar",
-    "meal_takeaway",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7610809,
-  "longitude": -73.9978726,
+  "latitude": 40.7502869,
+  "longitude": -73.9901208,
   "description": null,
   "image": {
-    "name": "La Vela Dining & Bar",
-    "file_name": "La Vela Dining & Bar",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033423/2016-01-10.png",
+    "name": "Old Navy",
+    "file_name": "Old Navy",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/2017-11-02.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033423",
+    "date_added": "2018-08-02-032629",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 788,
-    "file_size": 1276695,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033423/large_2016-01-10.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033423/medium_2016-01-10.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033423/small_2016-01-10.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033423/xsmall_2016-01-10.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033423/thumb_2016-01-10.png"
+    "height": 945,
+    "file_size": 1908181,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/large_2017-11-02.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/medium_2017-11-02.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/small_2017-11-02.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/xsmall_2017-11-02.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/thumb_2017-11-02.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9901208,
+    "vicinity": "150 W 34th St, New York",
+    "place_id": "ChIJj1jppK5ZwokR2hcj3GDOOg4"
   }
 }

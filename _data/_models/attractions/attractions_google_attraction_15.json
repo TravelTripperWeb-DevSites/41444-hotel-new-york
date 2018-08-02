@@ -1,30 +1,35 @@
 {
-  "name": "Trump Grill",
+  "name": "Zara",
   "category": [
-    "bar",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7623675,
-  "longitude": -73.9739992,
+  "latitude": 40.7496259,
+  "longitude": -73.986615,
   "description": null,
   "image": {
-    "name": "Trump Grill",
-    "file_name": "Trump Grill",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/2018-05-25.png",
+    "name": "Zara",
+    "file_name": "Zara",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033241/2018-01-25.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-034005",
+    "date_added": "2018-08-02-033241",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 788,
-    "file_size": 940879,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/large_2018-05-25.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/medium_2018-05-25.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/small_2018-05-25.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/xsmall_2018-05-25.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034005/thumb_2018-05-25.png"
+    "height": 1050,
+    "file_size": 1662918,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033241/large_2018-01-25.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033241/medium_2018-01-25.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033241/small_2018-01-25.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033241/xsmall_2018-01-25.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033241/thumb_2018-01-25.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.986615,
+    "vicinity": "39 W 34th St, New York",
+    "place_id": "ChIJ4QozbalZwokR88tFRSL5lC8"
   }
 }

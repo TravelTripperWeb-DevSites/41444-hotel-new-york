@@ -1,29 +1,36 @@
 {
-  "name": "Asiate",
+  "name": "Abercrombie & Fitch",
   "category": [
-    "restaurant",
-    "food",
+    "clothing_store",
+    "shoe_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7688396,
-  "longitude": -73.9830036,
+  "latitude": 40.7625262,
+  "longitude": -73.97453949999999,
   "description": null,
   "image": {
-    "name": "Asiate",
-    "file_name": "Asiate",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/Asiate_em_Nova_York__4_.png",
+    "name": "Abercrombie & Fitch",
+    "file_name": "Abercrombie & Fitch",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/2017-08-06.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033649",
+    "date_added": "2018-08-02-032907",
     "file_type": "image/jpeg",
-    "width": 1000,
-    "height": 664,
-    "file_size": 1202076,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/large_Asiate_em_Nova_York__4_.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/medium_Asiate_em_Nova_York__4_.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/small_Asiate_em_Nova_York__4_.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/xsmall_Asiate_em_Nova_York__4_.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033649/thumb_Asiate_em_Nova_York__4_.png"
+    "width": 1400,
+    "height": 1050,
+    "file_size": 1940093,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/large_2017-08-06.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/medium_2017-08-06.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/small_2017-08-06.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/xsmall_2017-08-06.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/thumb_2017-08-06.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.97453949999999,
+    "vicinity": "720 5th Ave, New York",
+    "place_id": "ChIJsVBPZ_pYwokR7wTmH3SeAA8"
   }
 }

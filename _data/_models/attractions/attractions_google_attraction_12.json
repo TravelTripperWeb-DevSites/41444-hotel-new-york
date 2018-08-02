@@ -1,30 +1,35 @@
 {
-  "name": "Jean-Georges",
+  "name": "Banana Republic",
   "category": [
-    "bar",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7690691,
-  "longitude": -73.9815601,
+  "latitude": 40.7524095,
+  "longitude": -73.9777582,
   "description": null,
   "image": {
-    "name": "Jean-Georges",
-    "file_name": "Jean-Georges",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/20120725_dine_109_1.png",
+    "name": "Banana Republic",
+    "file_name": "Banana Republic",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/2018-06-20.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033739",
+    "date_added": "2018-08-02-033002",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 933,
-    "file_size": 1583052,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/large_20120725_dine_109_1.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/medium_20120725_dine_109_1.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/small_20120725_dine_109_1.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/xsmall_20120725_dine_109_1.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033739/thumb_20120725_dine_109_1.png"
+    "height": 1050,
+    "file_size": 1849807,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/large_2018-06-20.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/medium_2018-06-20.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/small_2018-06-20.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/xsmall_2018-06-20.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/thumb_2018-06-20.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9777582,
+    "vicinity": "107 E 42nd St, New York",
+    "place_id": "ChIJKc7rKgJZwokRRhLmTsoZxt4"
   }
 }

@@ -1,29 +1,36 @@
 {
-  "name": "SuperNova",
+  "name": "J.Crew",
   "category": [
-    "restaurant",
-    "food",
+    "clothing_store",
+    "shoe_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7627913,
-  "longitude": -73.9836565,
+  "latitude": 40.7591141,
+  "longitude": -73.97900729999999,
   "description": null,
   "image": {
-    "name": "SuperNova",
-    "file_name": "SuperNova",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/20160926-IMG_894541.png",
+    "name": "J",
+    "file_name": "J.Crew",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032209/2017-07-19.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033015",
+    "date_added": "2018-08-02-032209",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 933,
-    "file_size": 2081108,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/large_20160926-IMG_894541.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/medium_20160926-IMG_894541.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/small_20160926-IMG_894541.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/xsmall_20160926-IMG_894541.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033015/thumb_20160926-IMG_894541.png"
+    "width": 1200,
+    "height": 1600,
+    "file_size": 2507514,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032209/large_2017-07-19.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032209/medium_2017-07-19.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032209/small_2017-07-19.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032209/xsmall_2017-07-19.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032209/thumb_2017-07-19.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.97900729999999,
+    "vicinity": "30 Rockefeller Plaza, New York",
+    "place_id": "ChIJNZvR1v5YwokR8xZLn8p83Sk"
   }
 }

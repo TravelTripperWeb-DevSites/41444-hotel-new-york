@@ -1,29 +1,35 @@
 {
-  "name": "Triomphe",
+  "name": "Express",
   "category": [
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.755821,
-  "longitude": -73.982041,
+  "latitude": 40.7586139,
+  "longitude": -73.9848382,
   "description": null,
   "image": {
-    "name": "Triomphe",
-    "file_name": "Triomphe",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/fish.png",
+    "name": "Express",
+    "file_name": "Express",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/20180419_223217.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033249",
+    "date_added": "2018-08-02-032445",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 668,
-    "file_size": 658855,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/large_fish.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/medium_fish.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/small_fish.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/xsmall_fish.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033249/thumb_fish.png"
+    "height": 1050,
+    "file_size": 1899281,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/large_20180419_223217.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/medium_20180419_223217.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/small_20180419_223217.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/xsmall_20180419_223217.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/thumb_20180419_223217.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9848382,
+    "vicinity": "1552 North Broadway, New York",
+    "place_id": "ChIJmQJIxlVYwokRHu7tKzvxtM4"
   }
 }

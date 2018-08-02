@@ -1,29 +1,37 @@
 {
-  "name": "Morton's The Steakhouse",
+  "name": "LOFT",
   "category": [
-    "restaurant",
-    "food",
+    "shoe_store",
+    "jewelry_store",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7554075,
-  "longitude": -73.9789116,
+  "latitude": 40.7590255,
+  "longitude": -73.9807082,
   "description": null,
   "image": {
-    "name": "Morton's The Steakhouse",
-    "file_name": "Morton's The Steakhouse",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034417/20160822_163715.png",
+    "name": "LOFT",
+    "file_name": "LOFT",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033705/IMG_20151205_185738644.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-034417",
+    "date_added": "2018-08-02-033705",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 788,
-    "file_size": 1302947,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034417/large_20160822_163715.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034417/medium_20160822_163715.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034417/small_20160822_163715.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034417/xsmall_20160822_163715.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034417/thumb_20160822_163715.png"
+    "height": 1050,
+    "file_size": 2347679,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033705/large_IMG_20151205_185738644.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033705/medium_IMG_20151205_185738644.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033705/small_IMG_20151205_185738644.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033705/xsmall_IMG_20151205_185738644.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033705/thumb_IMG_20151205_185738644.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9807082,
+    "vicinity": "1230 6th Ave, New York",
+    "place_id": "ChIJHW68IflYwokR2otZOy7q8Ek"
   }
 }

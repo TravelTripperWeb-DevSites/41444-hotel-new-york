@@ -1,29 +1,35 @@
 {
-  "name": "Marea",
+  "name": "Express",
   "category": [
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.76740849999999,
-  "longitude": -73.9808489,
+  "latitude": 40.7491831,
+  "longitude": -73.9894514,
   "description": null,
   "image": {
-    "name": "Marea",
-    "file_name": "Marea",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/unnamed.png",
+    "name": "Express",
+    "file_name": "Express",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033151/2018-02-15.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033919",
+    "date_added": "2018-08-02-033151",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 788,
-    "file_size": 838378,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/large_unnamed.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/medium_unnamed.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/small_unnamed.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/xsmall_unnamed.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033919/thumb_unnamed.png"
+    "height": 1050,
+    "file_size": 1383509,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033151/large_2018-02-15.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033151/medium_2018-02-15.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033151/small_2018-02-15.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033151/xsmall_2018-02-15.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033151/thumb_2018-02-15.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9894514,
+    "vicinity": "901 6th Ave, New York",
+    "place_id": "ChIJ6-70LKlZwokRaYeUJnTa2RU"
   }
 }

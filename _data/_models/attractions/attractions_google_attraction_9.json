@@ -1,31 +1,35 @@
 {
-  "name": "Ocean Prime",
+  "name": "Gap",
   "category": [
-    "night_club",
-    "bar",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.76184730000001,
-  "longitude": -73.9805453,
+  "latitude": 40.7494988,
+  "longitude": -73.9876031,
   "description": null,
   "image": {
-    "name": "Ocean Prime",
-    "file_name": "Ocean Prime",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/unnamed.png",
+    "name": "Gap",
+    "file_name": "Gap",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/IMG_20170522_131819291.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033511",
+    "date_added": "2018-08-02-032723",
     "file_type": "image/jpeg",
-    "width": 512,
-    "height": 288,
-    "file_size": 243624,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/large_unnamed.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/medium_unnamed.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/small_unnamed.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/xsmall_unnamed.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033511/thumb_unnamed.png"
+    "width": 1400,
+    "height": 788,
+    "file_size": 1647535,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/large_IMG_20170522_131819291.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/medium_IMG_20170522_131819291.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/small_IMG_20170522_131819291.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/xsmall_IMG_20170522_131819291.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/thumb_IMG_20170522_131819291.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9876031,
+    "vicinity": "60 W 34th St, New York",
+    "place_id": "ChIJ2RqLC6lZwokRZv42LWPtitA"
   }
 }

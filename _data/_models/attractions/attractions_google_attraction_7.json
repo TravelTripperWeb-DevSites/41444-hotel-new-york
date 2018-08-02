@@ -1,31 +1,36 @@
 {
-  "name": "The Polo Bar",
+  "name": "J.Crew",
   "category": [
-    "bar",
+    "clothing_store",
+    "shoe_store",
     "store",
-    "restaurant",
-    "food",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7617271,
-  "longitude": -73.9743529,
+  "latitude": 40.7545001,
+  "longitude": -73.97776950000001,
   "description": null,
   "image": {
-    "name": "The Polo Bar",
-    "file_name": "The Polo Bar",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/IMG_7866.png",
+    "name": "J",
+    "file_name": "J.Crew",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/2018-04-21.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033330",
+    "date_added": "2018-08-02-032538",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 1050,
-    "file_size": 2336430,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/large_IMG_7866.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/medium_IMG_7866.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/small_IMG_7866.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/xsmall_IMG_7866.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033330/thumb_IMG_7866.png"
+    "width": 1200,
+    "height": 1600,
+    "file_size": 2017507,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/large_2018-04-21.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/medium_2018-04-21.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/small_2018-04-21.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/xsmall_2018-04-21.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/thumb_2018-04-21.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.97776950000001,
+    "vicinity": "347 Madison Ave, New York",
+    "place_id": "ChIJOzk9Hf5YwokRIPdcqXT8xDw"
   }
 }

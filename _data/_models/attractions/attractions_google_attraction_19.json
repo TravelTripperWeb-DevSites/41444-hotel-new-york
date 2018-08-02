@@ -1,31 +1,35 @@
 {
-  "name": "Niles New York City",
+  "name": "Superdry™",
   "category": [
-    "night_club",
-    "bar",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7487667,
-  "longitude": -73.9920106,
+  "latitude": 40.7493924,
+  "longitude": -73.98608569999999,
   "description": null,
   "image": {
-    "name": "Niles New York City",
-    "file_name": "Niles New York City",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/2016-11-05.png",
+    "name": "Superdry™",
+    "file_name": "Superdry™",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/2018-04-28.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-034326",
+    "date_added": "2018-08-02-033615",
     "file_type": "image/jpeg",
-    "width": 1200,
-    "height": 1600,
-    "file_size": 1946190,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/large_2016-11-05.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/medium_2016-11-05.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/small_2016-11-05.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/xsmall_2016-11-05.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034326/thumb_2016-11-05.png"
+    "width": 1400,
+    "height": 1050,
+    "file_size": 1487317,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/large_2018-04-28.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/medium_2018-04-28.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/small_2018-04-28.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/xsmall_2018-04-28.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/thumb_2018-04-28.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.98608569999999,
+    "vicinity": "21-25 W 34th St, New York",
+    "place_id": "ChIJ6cHAdKlZwokRz-_LnrfX5wU"
   }
 }

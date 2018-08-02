@@ -1,29 +1,35 @@
 {
-  "name": "Pera Mediterranean Brasserie",
+  "name": "Brooks Brothers",
   "category": [
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7522858,
-  "longitude": -73.9794598,
+  "latitude": 40.754291,
+  "longitude": -73.9784282,
   "description": null,
   "image": {
-    "name": "Pera Mediterranean Brasserie",
-    "file_name": "Pera Mediterranean Brasserie",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033828/2017-09-04.png",
+    "name": "Brooks Brothers",
+    "file_name": "Brooks Brothers",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/IMG_20171229_110026.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033828",
+    "date_added": "2018-08-02-033051",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 928,
-    "file_size": 1930973,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033828/large_2017-09-04.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033828/medium_2017-09-04.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033828/small_2017-09-04.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033828/xsmall_2017-09-04.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033828/thumb_2017-09-04.png"
+    "height": 1050,
+    "file_size": 2473198,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/large_IMG_20171229_110026.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/medium_IMG_20171229_110026.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/small_IMG_20171229_110026.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/xsmall_IMG_20171229_110026.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/thumb_IMG_20171229_110026.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9784282,
+    "vicinity": "East 44th Street, 346 Madison Ave, New York",
+    "place_id": "ChIJ03wD4AFZwokRb3-OTvb81cs"
   }
 }

@@ -1,29 +1,36 @@
 {
-  "name": "Fogo de Chão Brazilian Steakhouse",
+  "name": "Anthropologie",
   "category": [
-    "restaurant",
-    "food",
+    "clothing_store",
+    "home_goods_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7611129,
-  "longitude": -73.97783679999999,
+  "latitude": 40.759289,
+  "longitude": -73.97857599999999,
   "description": null,
   "image": {
-    "name": "Fogo de Chão Brazilian Steakhouse",
-    "file_name": "Fogo de Chão Brazilian Steakhouse",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/Fogo_NYC_1.png",
+    "name": "Anthropologie",
+    "file_name": "Anthropologie",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033523/2018-05-30.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-034236",
+    "date_added": "2018-08-02-033523",
     "file_type": "image/jpeg",
-    "width": 750,
-    "height": 1125,
-    "file_size": 1414091,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/large_Fogo_NYC_1.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/medium_Fogo_NYC_1.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/small_Fogo_NYC_1.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/xsmall_Fogo_NYC_1.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-034236/thumb_Fogo_NYC_1.png"
+    "width": 1400,
+    "height": 1050,
+    "file_size": 1655475,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033523/large_2018-05-30.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033523/medium_2018-05-30.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033523/small_2018-05-30.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033523/xsmall_2018-05-30.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033523/thumb_2018-05-30.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.97857599999999,
+    "vicinity": "Rockefeller Plaza, 50 Rockefeller Center, New York",
+    "place_id": "ChIJ55dWS_lYwokRwDNH4TFWuHI"
   }
 }

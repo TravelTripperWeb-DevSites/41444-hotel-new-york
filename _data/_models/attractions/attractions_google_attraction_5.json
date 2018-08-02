@@ -1,30 +1,35 @@
 {
-  "name": "The Russian Tea Room",
+  "name": "Express",
   "category": [
-    "bar",
-    "restaurant",
-    "food",
+    "clothing_store",
+    "store",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7649476,
-  "longitude": -73.9794337,
+  "latitude": 40.7585309,
+  "longitude": -73.9748939,
   "description": null,
   "image": {
-    "name": "The Russian Tea Room",
-    "file_name": "The Russian Tea Room",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/RTR-Google-Plus-Cover.png",
+    "name": "Express",
+    "file_name": "Express",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/2016-12-12.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-07-31-033158",
+    "date_added": "2018-08-02-032351",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 788,
-    "file_size": 2223629,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/large_RTR-Google-Plus-Cover.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/medium_RTR-Google-Plus-Cover.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/small_RTR-Google-Plus-Cover.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/xsmall_RTR-Google-Plus-Cover.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-07-31-033158/thumb_RTR-Google-Plus-Cover.png"
+    "width": 1200,
+    "height": 1600,
+    "file_size": 2291443,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/large_2016-12-12.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/medium_2016-12-12.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/small_2016-12-12.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/xsmall_2016-12-12.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/thumb_2016-12-12.png"
+  },
+  "location": {
+    "latitude": null,
+    "longitude": -73.9748939,
+    "vicinity": "477 Madison Ave, New York",
+    "place_id": "ChIJcRHhe_xYwokRciDc-jsZywA"
   }
 }
