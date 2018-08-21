@@ -12,24 +12,25 @@
   "image": {
     "name": "Bonobos",
     "file_name": "Bonobos",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032022/unnamed.png",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063238/unnamed.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032022",
+    "date_added": "2018-08-21-063238",
     "file_type": "image/jpeg",
     "width": 1400,
     "height": 1081,
     "file_size": 1591824,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032022/large_unnamed.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032022/medium_unnamed.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032022/small_unnamed.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032022/xsmall_unnamed.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032022/thumb_unnamed.png"
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063238/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063238/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063238/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063238/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063238/thumb_unnamed.png"
   },
   "location": {
-    "latitude": null,
+    "latitude": 40.75903,
     "longitude": -73.9750122,
     "vicinity": "488 Madison Ave #99, New York",
-    "place_id": "ChIJnW4fdvxYwokRh71bfGi6DfA"
+    "place_id": "ChIJnW4fdvxYwokRh71bfGi6DfA",
+    "google_place": "https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJnW4fdvxYwokRh71bfGi6DfA&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY"
   }
 }

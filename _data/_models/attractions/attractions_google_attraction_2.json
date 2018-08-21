@@ -12,24 +12,25 @@
   "image": {
     "name": "Gap",
     "file_name": "Gap",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032116/2017-11-02.png",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063452/2017-11-02.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032116",
+    "date_added": "2018-08-21-063452",
     "file_type": "image/jpeg",
     "width": 1400,
     "height": 1050,
     "file_size": 1680582,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032116/large_2017-11-02.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032116/medium_2017-11-02.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032116/small_2017-11-02.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032116/xsmall_2017-11-02.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032116/thumb_2017-11-02.png"
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063452/large_2017-11-02.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063452/medium_2017-11-02.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063452/small_2017-11-02.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063452/xsmall_2017-11-02.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-063452/thumb_2017-11-02.png"
   },
   "location": {
-    "latitude": null,
+    "latitude": 40.7584628,
     "longitude": -73.9812311,
     "vicinity": "1212 6th Ave, New York",
-    "place_id": "ChIJU-vWFP9YwokRrVzm0qa5YLg"
+    "place_id": "ChIJU-vWFP9YwokRrVzm0qa5YLg",
+    "google_place": "https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJU-vWFP9YwokRrVzm0qa5YLg&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY"
   }
 }
