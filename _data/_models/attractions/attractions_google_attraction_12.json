@@ -1,35 +1,295 @@
 {
-  "name": "Banana Republic",
+  "name": "The Westin New York at Times Square",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7524095,
-  "longitude": -73.9777582,
+  "latitude": 40.75762400000001,
+  "longitude": -73.989125,
   "description": null,
+  "photo_reference": "CmRaAAAAebdF0wuuXr3Gxpb1i4YfoJETb8_Ajg-SkMIPjJYYZdii_rP2yqV70_BJ1BVXnKI_k6LDh2Ce5BpdT3Qe66Y1KZv6gtoQROM6Np-m4nl7dyxN2XUkjQbwxfSN_CGLItPrEhBjvfi3E5UoUHlXPcOXYclbGhSXJoxsO8_orhA1Ef2R-M54QASKDA",
+  "location": {
+    "latitude": 40.75762400000001,
+    "longitude": -73.989125,
+    "vicinity": "270 West 43rd Street, New York",
+    "place_id": "ChIJheoaY1NYwokRpkXrShShXe8",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "270",
+          "short_name": "270",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 43rd Street",
+          "short_name": "W 43rd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">270 W 43rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "270 W 43rd St, New York, NY 10036, USA",
+      "formatted_phone_number": "(212) 201-2700",
+      "geometry": {
+        "location": {
+          "lat": 40.75762400000001,
+          "lng": -73.989125
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7590567302915,
+            "lng": -73.98772966970849
+          },
+          "southwest": {
+            "lat": 40.75635876970851,
+            "lng": -73.9904276302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "a6c599b4378a2dbe5a99494a6df66a07730a95b9",
+      "international_phone_number": "+1 212-201-2700",
+      "name": "The Westin New York at Times Square",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA80b8Q6b2KUunR3qoqXwLq8xkvkL3kuH8gDqPuZs4U8x9NwqMXA-1RimULPYzFwOxoDyBkw4UU15yn3kLPsnjl8caLWQGJ4f_pfiAaUYNFEztA-WRPILFexCESBQ_NTbHEhCvlNbLP1gBkJp21a-uxccMGhSANcxf7zAUKPrdUjYGm5Dge-fl9g",
+          "width": 2048
+        },
+        {
+          "height": 1575,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAARR2dPLAx9jsMLnl5X8CHp69VFwPYN1_8cD6a-Yyw8iI-YOmqF9ZqGtqXfROguLzsMz16FnijJVULVptcGeyzxFhjlFdF_KDMnRMiYEQzBkc2T6uyE6bmGM9_BYCoz4nmEhBK_ZGvQrtnQntUBC8dVnQrGhS6Pif988GhQ0uiFhG6zSzIvGyIIw",
+          "width": 2100
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109485026026456470473/photos\">Ladislau Horwath Jr.</a>"
+          ],
+          "photo_reference": "CmRaAAAAqUgiFj0a9ayQHFT2sL18_shJjZS4ByqDFs326oLHwQl-f8MJ-233MF9NnJmK3wgkebF44prkuya9yXJm7kVNYoeYy6ulDINRBzde8T7mtjsUX9NfdZEFZODiLMwJOa-cEhBQLID8yoKuCYs5cSiqcD5LGhQ0CLWBj6mSrrFJOMBPyGcjgTAAng",
+          "width": 2048
+        },
+        {
+          "height": 2339,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAALA7lCZ-eRb-Zmh0zVxDGbyiu4vvMgpdRW3HJ6M3sJCRm6DeZ0MEiTsWwqLHOmazpDM0LZsOXjqe2A2M7il_GGMDeBSH30e7WpHHUl52KfagTokW5ZMiIza8e9OT0My8cEhDua1hozrc_Rl_qfDOCvezVGhR80c7gvXyvDhuELQsLDGbifooK9w",
+          "width": 3500
+        },
+        {
+          "height": 2465,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA9fEP17vrjyqSKsXZG7Ocu8IZiqfT89_09yRvntHQX9Y2Xr_CN4OotywlsDfjdMmddijURdAce21i94WoA1IE22egNfUADN_UdBe77g6ziOMVARAe9zde3MCPffIOi5A_EhDzEiRW3b-L1EIVTOcFKIXCGhRMR8D72aXUMhgnWyV71WsGuyIfMw",
+          "width": 3800
+        },
+        {
+          "height": 2549,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAARYzcZL2ODLReFcX7rYXHeaAWinvW7hb4w6-sUkL2b0UGXZf6goPnMuQuCw3VhoLe3D3vrfblYGLyjlWLhcLFTP6RzCzIO6mzp-YUn31a7oYbfxX9deK2H_Yw_SEI3KJDEhBZnfU1T6-D4_0ZhxZa3NtxGhQlySNKmKQzBbnC5OqyFo1vbAXHVg",
+          "width": 3800
+        },
+        {
+          "height": 2396,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAABjXFP-b8LAJXsH-r9uq11o6PBxtZIGLYLCImU9oJnoaQZ7D2_2iATPTQHyfWVbWc258PfntO_I7CDdDr2Sw21EFwjDiEHh5lEzbHLCE04xNxFFLYkEQvQ3BL-JwqvY2tEhAjBSJAT8BHmawq1JVY2-t8GhS9LH8OryDxoBkVTiIvGF3Gjm6eYA",
+          "width": 3594
+        },
+        {
+          "height": 2520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAHXlVxppPAsVUWf04RbGDto-pHTg35iz9mqKt6jlC7aZjtt7nw49N1Pu0QebLqiClHT545QuGl_RoTlINbHd92mBLHuRBxAX1xDaZPA_l9x0-Ep2tTE8fQFjbMwFfmO7EEhDrcsllwazxEj1JkCUtpsqrGhRHlNOYfU6nGIbWYAFRM5YFyGhnAA",
+          "width": 3800
+        },
+        {
+          "height": 2333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAt37KP2gd8LqNumXdWvx_qdunf0Nn2k6SY1pSb7t_JuRX_fa2ItXY6Vxxd1qResjE3bK2jUg1MKjmAxZXfJLtJSbrGfkttPIWoVzsB7VQHrScRiYnviofuQwkk5tbh_z5EhC0JuZMiqcbEEqg_RXNXB66GhRyJUO3TFUc3ywj0bMQZMIRHWLhaw",
+          "width": 3500
+        },
+        {
+          "height": 922,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115846471979068298271/photos\">The Westin New York at Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAeuYnNfsqvDsO__omy5g4cCECvdZAB9ymzJZ5mYaoBCOD1Eotm34sC3py7ErzePRsTtrtFHshwRkFWd0GkYs3djpAsM3io4lpWRkxLaV7Iuy6TnyJUUD9c6TbHmdGCH8mEhDbTjvkJy7ZamdhhyjKqGh5GhRGvZt9DdFd6jOFFww8aoUHtwUK6Q",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJheoaY1NYwokRpkXrShShXe8",
+      "plus_code": {
+        "compound_code": "Q256+28 New York, United States",
+        "global_code": "87G8Q256+28"
+      },
+      "rating": 4.2,
+      "reference": "CmRSAAAA8f1kHg8OD61iyWsg0glpA32hOLPQeB4mg1IZ6dkuRjFS12Q9LwFDctL7eI7o3l0j7U0bVt0Vybi_wuEf9O31ETPiELYxBPWr2YUjYtuqk9ZKIV63_ok_mRRDHJPJDcExEhAcGBYq95EZJOzVg6NsU5qZGhTCP_jMuprKRkQBwtnd-mgWlIQzfw",
+      "reviews": [
+        {
+          "author_name": "Meqren AL-Mutairi",
+          "author_url": "https://www.google.com/maps/contrib/108829313747370739256/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-WIDLEeNr3bk/AAAAAAAAAAI/AAAAAAAAAE8/6sh0uQ15zfY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "Just back from a 5 day stay at the Westin Times Square.  The staff are friendly and helpful, the room was clean and the beds, extremely comfortable.  There is a great selection of food at breakfast ( cereal, cooked food, oatmeal, bagels, toast, smoked salmon, yogurt, fresh fruit, pastries, pancakes, waffles and fresh fruit and nuts.  With coffee and orange juice.  \nThe hotel is ideally situated for all popular tourist attractions and transport links.  I will return here for sure.",
+          "time": 1535348396
+        },
+        {
+          "author_name": "Annmarie Guthrie",
+          "author_url": "https://www.google.com/maps/contrib/110945203181712894545/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-GErxhWkrd4A/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNzSGmi_GpXc9BPqm44U3PNIh7dgA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Just back from a 5 day stay at the Westin Times Square.  The staff are friendly and helpful, the room was clean and the beds, extremely comfortable.  There is a great selection of food at breakfast ( cereal, cooked food, oatmeal, bagels, toast, smoked salmon, yogurt, fresh fruit, pastries, pancakes, waffles and fresh fruit and nuts.  With coffee and orange juice.  \nThe hotel is ideally situated for all popular tourist attractions and transport links.  I will return here for sure.",
+          "time": 1534356386
+        },
+        {
+          "author_name": "Oscar Leon",
+          "author_url": "https://www.google.com/maps/contrib/108090827843319591155/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-rpwcDdloLYo/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNvsyHdah643wrhR6gl_plulopJvw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Stayed for 1 night. Loved it!. Hotel is modern and huge. Love the decor and the customer service was great. I was upgraded to a premier king room and it was beautiful. It was on the 43rd floor with an incredible view. It had a beautiful bathroom and shower. It's in the middle of everything. Would definitely stay again without a doubt.",
+          "time": 1534895917
+        },
+        {
+          "author_name": "Trevor John",
+          "author_url": "https://www.google.com/maps/contrib/113824408920741538990/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-4DnzGcyrAeE/AAAAAAAAAAI/AAAAAAAAwxc/2jyQ-sgCvZc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "in the last week",
+          "text": "Just finished a stay at the Westin with the family. The location of the hotel is great and just steps away from Times Square. Staff are extremely friendly and hospitable. Rooms were clean and decent sized. The beds were comfortable but the pillows were no the greatest- sorry just my preference. The in house restaurant is not bad, however would recommend walking on 8th to find many little diners with great food and reasonable prices.  Overall would certainly recommend this hotel.",
+          "time": 1535045131
+        },
+        {
+          "author_name": "Ryan Schlivert",
+          "author_url": "https://www.google.com/maps/contrib/115598145596659251976/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-vzbf9Q1YtGs/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOku742A2IFAdNfgrolACmaJqGxww/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "The Westin New York at Times Square is near a transportation hub for tourism making it very easy to get anywhere within Manhattan. The rooms provide all the needs of comfort and the staff ensures you have everything you need and excels at customer satisfaction. Check-in was very smooth when arriving from Ontario after a long journey by car. Parking is offered at a discounted rate located right across from the hotel. Check-out was also made easy by the polite and helpful staff. Everything in between was more than enjoyable, with room service and restaurant staff being prompt and friendly and the food offered delicious. Thank-you very much Westin from the four of us, we will be very likely to recommend you to our friends and family!",
+          "time": 1531017311
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=17248119256427218342",
+      "utc_offset": -240,
+      "vicinity": "270 West 43rd Street, New York",
+      "website": "https://www.marriott.com/hotels/travel/nycsw-the-westin-new-york-at-times-square/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2"
+    }
+  },
   "image": {
-    "name": "Banana Republic",
-    "file_name": "Banana Republic",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/2018-06-20.png",
+    "name": "The Westin New York at Times Square",
+    "file_name": "The Westin New York at Times Square",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045111/wes1380ex-189397-Exterior_-_Street_View.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-033002",
+    "date_added": "2018-08-29-045111",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 1050,
-    "file_size": 1849807,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/large_2018-06-20.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/medium_2018-06-20.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/small_2018-06-20.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/xsmall_2018-06-20.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033002/thumb_2018-06-20.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9777582,
-    "vicinity": "107 E 42nd St, New York",
-    "place_id": "ChIJKc7rKgJZwokRRhLmTsoZxt4"
+    "height": 934,
+    "file_size": 2328770,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045111/large_wes1380ex-189397-Exterior_-_Street_View.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045111/medium_wes1380ex-189397-Exterior_-_Street_View.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045111/small_wes1380ex-189397-Exterior_-_Street_View.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045111/xsmall_wes1380ex-189397-Exterior_-_Street_View.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045111/thumb_wes1380ex-189397-Exterior_-_Street_View.png"
   }
 }

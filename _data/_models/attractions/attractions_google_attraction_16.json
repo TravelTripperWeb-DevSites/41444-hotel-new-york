@@ -1,37 +1,275 @@
 {
-  "name": "LOFT",
+  "name": "The Pearl Hotel New York",
   "category": [
-    "shoe_store",
-    "jewelry_store",
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7556676,
-  "longitude": -73.9870445,
+  "latitude": 40.76136169999999,
+  "longitude": -73.98558129999999,
   "description": null,
+  "photo_reference": "CmRaAAAAZMqx6hsxR5sRqPK9n-sWU10TFwRRawTq4MriHrOU9JBRK90loCw4DJlEFvRctiaxALOxzNL9QKgN7iKMbg1GjwhJTYDQBiIWgX2YhXzVp6gc03LIFy5LCPuiS_5DNTj-EhC_ifFyeyJos_dBeYFn2vkqGhTLZcYJ3L5N6OJuQrF5b64Ykq5hLQ",
+  "location": {
+    "latitude": 40.76136169999999,
+    "longitude": -73.98558129999999,
+    "vicinity": "233 West 49th Street, New York",
+    "place_id": "ChIJz1fgZlZYwokRHsV8DDTh-aM",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "233",
+          "short_name": "233",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 49th Street",
+          "short_name": "W 49th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10019",
+          "short_name": "10019",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">233 W 49th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "233 W 49th St, New York, NY 10019, USA",
+      "formatted_phone_number": "(212) 245-4000",
+      "geometry": {
+        "location": {
+          "lat": 40.76136169999999,
+          "lng": -73.98558129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7626664302915,
+            "lng": -73.98426461970848
+          },
+          "southwest": {
+            "lat": 40.7599684697085,
+            "lng": -73.98696258029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "c7d9832ea386db1c58d88ee9a3f0171c71a1b7b5",
+      "international_phone_number": "+1 212-245-4000",
+      "name": "The Pearl Hotel New York",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116038428730851387520/photos\">Dmitry Maranik</a>"
+          ],
+          "photo_reference": "CmRaAAAAf7euqvFHXAsGCRIXZka_wHHvWJSz0Wz2V1IGT8zK8Wcbq74h3yn1vF0S7SovVAi0cvrYMPuJWQUs8xvBbhZPfcq-sXx28o7SIK_dm57cuiHfYF4cEXGvDWOliHin4K7qEhDF1LtBOdnl4tq9_6KjtViWGhQoFag0vlb69Z8urQJtksjMGsMRNg",
+          "width": 4032
+        },
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110099476210608439743/photos\">The Pearl Hotel New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA63Y_U_3LakfZvPxPxuEGKvwUbGZw6gH8hGsyAF64BEd7TD3smQDufDylIvpra7XLSwB11OudCO8Tlraccpu85y-2NxDT5EiIxj6sXW8VUDz8VzNHcy3sIXx9sCBxmBCqEhCQ0YcAR30Lh311HiFDOXEcGhScZTWuZRc76D-SUx2Gdl_fpWEP5Q",
+          "width": 600
+        },
+        {
+          "height": 693,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117031197970592736537/photos\">Ben SouDa ViNeS</a>"
+          ],
+          "photo_reference": "CmRaAAAA6td_x-_eQd-xOHfqXI5UGJIH5Vr6EEZwk1sZiqpEJ-1XqpLiilO1NwUPaK4BnguIj8u0AcRTLmABAJKI9GbBGZXuoZs03hFgnv5tf_85EcXnUlZaiCFlYUva2kty0vWaEhAfDOCD5bzzlAnof34PJU3DGhRPzQUjD3RKGxx3Wxqfdqzq5JSgmQ",
+          "width": 1000
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110099476210608439743/photos\">The Pearl Hotel New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAzvOSwsBZ9Mb7MZd6yk_MXCAddFP5FezjZVeGK_dP4iy4YbQd05XKdg6jEi0Y4es3aqVpNIoVdz8NFGpZvZRRVwxhv9aq-J0yKGnGw1VgQiF73_owxKRg638-ps0jH5SlEhCAXOUJlGwV0GmiLHrLYyYXGhRmbE_O0lPXoa8yu-yLU461CN6XKw",
+          "width": 400
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108526702802308372030/photos\">Antonin Maillet</a>"
+          ],
+          "photo_reference": "CmRaAAAAILi9g_M5lYv_J1L6fLlSLg8WChOmVoXmyMfMhcNfGAafIrC3GDWm3vSZxUJ-P6ifcWedxL-RIo8aoyftNkdPMX9UNYOmjLUCsdqb1luAesHMnRTrFVPlGAzrc-Pe4YVnEhBDuFEiHYLS1Zg0iw7JTn3lGhQ4bZ0h1wElk6d1Xf_fX8tmDzQ0hw",
+          "width": 4032
+        },
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110099476210608439743/photos\">The Pearl Hotel New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAzsbYgo9Uaf3pOsFnHaCy0N6E2l3lwIGNo7_PfgVOdYaDdt-aW20NCy3FMcIycfEBUvDIYn1kzO-XPMQomelwf7IHO534w9v3KBPyOwGCaWjBCytgnPBbV8Me8a81dP0FEhCpbmLhKAgGnRSVCMN67ky7GhRiVSMyaz-8QJY4UHD0hJbncdFSQw",
+          "width": 600
+        },
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110099476210608439743/photos\">The Pearl Hotel New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA27xrIiy4t3StQ72OlCFpX2y9Aybu7RT27TI1nZgm6JHqWpMD3q00mnc39bO1pAA0MVaEdWHRN5s0rSGCr1nkS-rXPPyMtWTU-PGpxO6WpvabS_VVaQjg_XTithHSO7HREhCzEEZYdxN0u6Swp_yrffjoGhTNowtkpnZIQWF3vGN6bckE4Jsg9Q",
+          "width": 600
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110099476210608439743/photos\">The Pearl Hotel New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_3VKIJ4Q4rKObkP2oWbgMUYncFBigf2YrlHWPqyyco2vc7L-_ytUzC_4VSnPXjSDJzBBKCN6ogyd0Ceflpqv_WTzUDUp44746Qyub0LkMvauhr_KfTrAroOyOH40plgEhBC1m7zt3pP3dSWXYLG4AMzGhR1I0xH72fSaKpnA2QG4Cs5icS0fw",
+          "width": 400
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110099476210608439743/photos\">The Pearl Hotel New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA1bydUmWoy-lAhdmeTJSYdZnB_E5R-o4hGtec909pKDl98UMCeviTWGoLcSGFXBJRgjGRuEGauv-P9mDXYnBbnsGFBfHPubV1h9AC_qRmWixlGKrj42A-EgZm1Rfritm0EhCgvzhnC0v--M2WGgr-0sRvGhSGIQJDcZj_pDrTCSBp_TIdHDa_Lw",
+          "width": 400
+        },
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112945948979049872571/photos\">Paul St. John</a>"
+          ],
+          "photo_reference": "CmRaAAAA-iwU7h6r4IyfDkmugy4H-Q-nAnacoQ5X3aUr5NJlvA1bOdyYA4ko7OG3lT9-xTnYr6r5s7mgb1Vyerd3bilPb5VoC58jPMxReMFx4wKIHEzuqvcWd-zBq7dJZ7n5n01HEhBiYZYiXcAaUfCiH5pO7P9zGhTb59d9mSM0EQJ3QpaX5vyB60GQaw",
+          "width": 2576
+        }
+      ],
+      "place_id": "ChIJz1fgZlZYwokRHsV8DDTh-aM",
+      "plus_code": {
+        "compound_code": "Q267+GQ New York, United States",
+        "global_code": "87G8Q267+GQ"
+      },
+      "rating": 4.6,
+      "reference": "CmRSAAAAZ8DaocAiraoSSSS_RcyT9032KxcNtbHrvTJjntt-kTcr9fJXrd_mk4ao_eMSnT48G2TPx-Rs0b9KZWjT4-3Gh0cc3TKkwRBOqZVGkUuy4N4xl2JY1ztXqFCn3DXhqLDxEhCHIOqdYaCz3b5UsvsFd6A0GhQOorN4F4_1SWdlQq-ggh5T49UIgQ",
+      "reviews": [
+        {
+          "author_name": "Ashley Yamoah",
+          "author_url": "https://www.google.com/maps/contrib/116662447232113461042/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-vvau4JwzfVs/AAAAAAAAAAI/AAAAAAAAi0g/-yeJmbofoy8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Great hotel experience! We were celebrating and when we arrived there was a bottle of champagne and a nice note in our room. We had our 18 month old with us and there was also a crib in the room for us when we arrived. Breakfast was complimentary and included a nice spread of pastries, fruits, cereal, bagels, coffee, juice, and tea. Every afternoon there is complimentary wine and cheese which also includes fruit and veggies along with other snacks. Hotel staff was extremely friendly and helpful. The location is perfect for being able to easily explore many main tourist attractions. Everything was clean and the room was surprisingly big for a Manhattan hotel. We had a difficult time finding a hotel in the city that offered a single king bed but found it here. We will definitely stay at The Pearl again.",
+          "time": 1531850806
+        },
+        {
+          "author_name": "Euclid Antunes",
+          "author_url": "https://www.google.com/maps/contrib/107284989807425080944/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-FVI9XaJr8hM/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNX0w-7zAuXcyKRqVrGSg2uC2LjZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 weeks ago",
+          "text": "I was pleasantly surprised that it was very clean. \nThey upgraded our room from double bed to King the room. The room was very good size for city standards.  \nFrom front desk to door men all we're ready to help. \nThey also had Continental breakfast. The best was all the toasters worked!",
+          "time": 1534009359
+        },
+        {
+          "author_name": "Michelle Liu",
+          "author_url": "https://www.google.com/maps/contrib/102817377039232340504/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-yejTeXA5P5U/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMqptREnH5EUnL2H4mdZ5jx5VZt3g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 weeks ago",
+          "text": "I escaped from the Stewart Hotel after a horrendous experience (review soon to come) . I quickly booked a room at The Pearl Hotel for my entire trip after spending only 3 hours at the Stewart Hotel.\n\nI was greeted warmly first by William, then the very courteous and professional Ali and Ignacio at the front desk. After learning what had happened to us earlier in the night, they made sure that I enjoy my stay at The Pearl.\n\nThe deluxe queen room was tidy, clean and tastefully decorated. Bathroom was clean and equipped with all the necessities. A small TV was mounted for your viewing pleasure. The spacious balcony was an added bonus!\n\nAli and Ignacio explained everything in detail and never once did they seem to be bothered or showed any signs of impatience. In addition to a wonderful boutique hotel, the staff elevated the experience at The Pearl. \n\nBravo The Pearl! I will undoubtedly stay again next time I'm in NYC.",
+          "time": 1533047057
+        },
+        {
+          "author_name": "Lori Hagen",
+          "author_url": "https://www.google.com/maps/contrib/115842383593616613119/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-fnZUKZCswi8/AAAAAAAAAAI/AAAAAAAADpI/gtS13e85XK4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "We just stayed at this hotel for a week and loved it! It is very near a couple of different subway entrances and Broadway is right at the end of the block.  We had one of the suite rooms that had two queen beds and then a small separate room between the bathroom and bedroom with a single pull out sofa. That worked great so our two teens didn’t have to share a bed!  The beds are very comfortable and the bathroom is very nice and roomy! The hotel was clean and quiet and the staff were all extremely helpful and friendly! The breakfast included is very nice and we enjoyed it each day. We would most definitely stay here again!",
+          "time": 1532232553
+        },
+        {
+          "author_name": "Alex Bennett",
+          "author_url": "https://www.google.com/maps/contrib/114247634181006813030/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-LcrBgcvGfGQ/AAAAAAAAAAI/AAAAAAAAps4/rGffrfkfZec/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "Stayed here for 4 nights and love this place. The  location is perfect. Right near times square with excellent subway links. The hotel has a great continental breakfast included. The rooms are clean and of a good size for New York. Would definitely stay here again if we are back in New York. Thanks for making my Birthday celebrations special. Highly recommend the Pearl",
+          "time": 1524912079
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=11815722711047259422",
+      "utc_offset": -240,
+      "vicinity": "233 West 49th Street, New York",
+      "website": "http://www.pearlhotelnyc.com/"
+    }
+  },
   "image": {
-    "name": "LOFT",
-    "file_name": "LOFT",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/2018-01-22.png",
+    "name": "The Pearl Hotel New York",
+    "file_name": "The Pearl Hotel New York",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045358/20180624_130253.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-033333",
+    "date_added": "2018-08-29-045358",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 788,
-    "file_size": 1502868,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/large_2018-01-22.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/medium_2018-01-22.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/small_2018-01-22.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/xsmall_2018-01-22.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033333/thumb_2018-01-22.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9870445,
-    "vicinity": "1459 Broadway, New York",
-    "place_id": "ChIJ_SP4MqtZwokRU_zoHU2uQjQ"
+    "height": 1050,
+    "file_size": 2327285,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045358/large_20180624_130253.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045358/medium_20180624_130253.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045358/small_20180624_130253.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045358/xsmall_20180624_130253.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045358/thumb_20180624_130253.png"
   }
 }

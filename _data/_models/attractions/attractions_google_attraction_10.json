@@ -1,37 +1,295 @@
 {
-  "name": "LOFT",
+  "name": "Hilton Garden Inn Times Square",
   "category": [
-    "shoe_store",
-    "jewelry_store",
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7511429,
-  "longitude": -73.9759808,
+  "latitude": 40.7612054,
+  "longitude": -73.9865068,
   "description": null,
+  "photo_reference": "CmRaAAAAHgntCi7qipSDBTWWjgXrehu_5fEHs545KMzezhHLsMQM-cCfZ4vteLYQPW_9pts9Zw2AggzA7VoYuBQDx6yOMrN251R9geZDz61OwdnHH14WRL9CBavhB6iT5c2s_RKsEhAi8APL7-jgrOaYSPePl_1NGhTZrciIKGRYZUZXD6JauqXNsGzMgw",
+  "location": {
+    "latitude": 40.7612054,
+    "longitude": -73.9865068,
+    "vicinity": "790 8th Avenue, New York",
+    "place_id": "ChIJI1vLm1ZYwokRBinvjuB-HiE",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "790",
+          "short_name": "790",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "8th Avenue",
+          "short_name": "8th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10019",
+          "short_name": "10019",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">790 8th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "790 8th Ave, New York, NY 10019, USA",
+      "formatted_phone_number": "(212) 581-7000",
+      "geometry": {
+        "location": {
+          "lat": 40.7612054,
+          "lng": -73.9865068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76262803029149,
+            "lng": -73.98529791970849
+          },
+          "southwest": {
+            "lat": 40.7599300697085,
+            "lng": -73.98799588029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "c143df09f91b4ca73b5afbbde6812e9bbb593b77",
+      "international_phone_number": "+1 212-581-7000",
+      "name": "Hilton Garden Inn Times Square",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAYcrc-wsZAbjS6bnrb22kCCARiXteYtUG2fwjEOKhgXnn9O_pkBS8C3kmtaktsKmck7jmT0ia3EzGsh1Q_U66_aGM_5acO76YWTiBXP8lPTlrQEIgR7jimo7sHVv1iEn_EhAFD1exFQtvH08IfCn1nYBOGhRQjeQwYiy8iSBgDt_2z_BDc9geBA",
+          "width": 3888
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAep_8bF5L51IlLIx9sTdCpP5gAiszYbFlheE4zjenRXO2BwqphRnqGLL15RSyx6qGmIHbErZ72-5a9owG-KIJA0_ZS4UBUAgka1NmCoLMNN0b0tniIQzlGfp55Ma0E-vNEhBoqTgi9eOBsEXkkwuNdQErGhTSEeG4g35SuW-yyKBAL9BwnN9o3g",
+          "width": 3888
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAArwzyn87OgmHtEiwV8_iKAxo3UoVO92Vy957uV9d2eOojcYxX90BPgyqMf5KzoiX3lBYxbxlIKD7Nli-i2y9Ks2meFo0_WZt2PGLQqJhJyerAMrTNJ1GriP_R_rng4oqQEhChNMeP6zx81NdAtQYiSOfqGhQugKr3CPrrW2bRtC9e0u94AYgdqw",
+          "width": 3888
+        },
+        {
+          "height": 2577,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAEeBZSlEIshX1Ncllx7HMbTUHLI8Z3UbKnkIV6oB3ekJdSANrhOmA57qTZ6bTTedG_ZAEoTWtQGM-xfHq42pvH9jdeNq09GRzTf1BSnnM343uJBXA_otsLLa5Ill9L0frEhBohE4pHaet2hN5Ws-o2UCaGhT9pwd48p7jgNK4_4fvmuSmSvSLcQ",
+          "width": 3814
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA_BHzCEL3wBY13E7pZ1n-2BjFjGdH-FA528Vrr_hSm1Hy_KwXeFx5aj-AmnTI6BTboFea5VtcytU_i31VnqCJBY48wMWgKF-_ZvZ8R1ddJJkDlmqWQql0vsSRpN5B-xsgEhCmS1oIZUyzPk7rBATrA7HPGhSavEuI3fc0eTR0OvVZGP-a85AiAg",
+          "width": 3888
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAwJSZYWhun81asgl6TWg3e702sIRSbieMMetu6r3VzzZyp-ruRBi3pMKA8WosvpHRX3CsWrj5yfrJ7k8tSw9dZqCNCYiSgtFYLbpByZXW54LwyRbEhgq8HW3nfC2XUJ12EhBK5TWt7Df_CAxV5p6PGa4qGhS4HEoQB8mnw9Z7nz2R4XGeVxdKiA",
+          "width": 3888
+        },
+        {
+          "height": 1501,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAhWGxc9QTZ9avUBAKkwrZrmFxsvOClIwNY60A6mkCQnUVQpnugrqIEyVKyj59eOvW-vTdqtU8F3Wg0Zy0BRluUHpQT5BsDUL7O9VMqXX_AX7V-2GE2dhLuA2IDJOXdOdmEhBPPkOc3AeYINGXHtN85K1yGhQBB8MeqQdBs_B6peiOaQWxfiuqTg",
+          "width": 2260
+        },
+        {
+          "height": 3001,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAARRNtzdd59dPt2fC3fYMwa-7cOZb7AtKls3dw63DGNlpb7mhpn6JfVkYIy7Q_Mg9K9ooaH9PvVQwTmodKAsbTlMFFdrBAOmxYFJnju2iK37WPfKkpFUK6c2v88Awr9zUKEhDRrs47O7l3PNjooeuwqS7EGhRdKekpFCbJ8lznhYPJN1iDCIcYuw",
+          "width": 4518
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAUKVRLIn5OLrKyu4UVBgkA9sI1VUnJnbFwwXATnoD04jfRHha70fhyETn9M8mcAU918U91a-nMkAKZY9vfjGGFNUFy-8yg3UnFmw34wbEHIojpB-Fs9XDXt-jPOF2Gg0wEhC0BcL_a0v7ZDOMH5upW5Y7GhQoDzt5Vcw2hd7LG-7R3_t2qW1jqw",
+          "width": 3888
+        },
+        {
+          "height": 1501,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103884087456534080147/photos\">Hilton Garden Inn Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAVgWRX42-EBZ08FYQxYhRF1JL7zkwfcpK0swE21mIt1eLNibHxYJZrNw2osL-6OHJ7gNetH9FP3m0noDa8CZhYnoX2VVxxTRGROZlUZmNTsWnHkp9rxu79R7Rx1bKdxSAEhB8dVNeJQP7OdLofOEKo4FLGhSZuEhlnwuRBCLgz3tOYWxXMBIyiQ",
+          "width": 2260
+        }
+      ],
+      "place_id": "ChIJI1vLm1ZYwokRBinvjuB-HiE",
+      "plus_code": {
+        "compound_code": "Q267+F9 New York, United States",
+        "global_code": "87G8Q267+F9"
+      },
+      "rating": 4.2,
+      "reference": "CmRRAAAAqprbxpuzUNpHvRRM5Ukdd3s7kG-r7s60RptEO8jNgY4_bs9VbgNfKGfAs5kPQcU-VJ9UMxXqb7SPmCv24xfoI8OJdr-UTjl5dRczrHYiTXmxQEcDZqssx7XVGG99gA0MEhCU_QAb6TGkEDTDgLi5b645GhTcBfHlyHAbzzuyQmL_N2UngvrqLA",
+      "reviews": [
+        {
+          "author_name": "Meqren AL-Mutairi",
+          "author_url": "https://www.google.com/maps/contrib/108829313747370739256/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-WIDLEeNr3bk/AAAAAAAAAAI/AAAAAAAAAE8/6sh0uQ15zfY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "Stayed here for 5 nights whilst exploring the big Apple. The rooms are surprisingly large when compared to that of other NYC hotels, from what we were told and having visited relatives in another hotel nearby. \n\nThe room itself was nice and clean, as was the bathroom. The reception area was bright and welcoming and we didn’t struggle as a result of the facilities on hand. \n\nWe would have liked to have experienced the roof bar a little more, the one occasion we did go up there we were sent away soon after as there was a private event on, but to be fair it’s New York we didn’t struggle to find a bar! \n\nThe best assets for this hotel is its staff and it’s location. The staff are very friendly and helpful and it’s great being so close to Times Square without being too submerged in all of the craziness. You can literally step in and step out as you choose. \n\nI would definitely return.",
+          "time": 1535348431
+        },
+        {
+          "author_name": "LiquidmetaIman",
+          "author_url": "https://www.google.com/maps/contrib/111790002856966639996/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-7Gwsli2RXz8/AAAAAAAAAAI/AAAAAAAAAB4/yZajp1jNj7I/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Stayed here for 5 nights whilst exploring the big Apple. The rooms are surprisingly large when compared to that of other NYC hotels, from what we were told and having visited relatives in another hotel nearby. \n\nThe room itself was nice and clean, as was the bathroom. The reception area was bright and welcoming and we didn’t struggle as a result of the facilities on hand. \n\nWe would have liked to have experienced the roof bar a little more, the one occasion we did go up there we were sent away soon after as there was a private event on, but to be fair it’s New York we didn’t struggle to find a bar! \n\nThe best assets for this hotel is its staff and it’s location. The staff are very friendly and helpful and it’s great being so close to Times Square without being too submerged in all of the craziness. You can literally step in and step out as you choose. \n\nI would definitely return.",
+          "time": 1534512504
+        },
+        {
+          "author_name": "Eva Mazzeno",
+          "author_url": "https://www.google.com/maps/contrib/115889483484781292165/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-1zhuHHBb368/AAAAAAAAAAI/AAAAAAAABks/NbHwkkJHJ0w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "Stayed two nights for a family trip to New York.  The location could not have been better, as we were within short walking distance of both Times Square and the theater district.  We came with a member in a wheelchair, and the staff was very accommodating.  Both our rooms (one with wheelchair access, one without) had plenty of space and were neatly cleaned before and during our trip.  The small cafe in the lobby was very convenient for small breakfasts and had plenty to choose from.  We had no issues with the staff or other guests, and really enjoyed our stay.",
+          "time": 1533528297
+        },
+        {
+          "author_name": "Moaaz Ahmad",
+          "author_url": "https://www.google.com/maps/contrib/109992968902388903888/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-cxj1fkKp0zY/AAAAAAAAAAI/AAAAAAAAIww/AaFyPkfgZ5Y/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "Stayed here overnight. Perfect hotel in Manhattan, close enough to most tourist sites. The check-in and check-out process was quick and efficient. We arrived earlier than check-in time so had to wait a little bit until our room was ready, but we had to visit a few places so it wasn't a problem.\n\nThe room was spacious and clean. The bathroom was decent as well. There was a refrigerator, coffee, and coffee machine as well.\n\nThe staff was great and helpful when we told them that we'd forgotten something in the room after checking out.",
+          "time": 1533540557
+        },
+        {
+          "author_name": "Kathy Lewis",
+          "author_url": "https://www.google.com/maps/contrib/110063007932568384373/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-6a4Z5yMMERI/AAAAAAAAAAI/AAAAAAAAAC0/L0blQoH5HMU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "Staff is friendly and the location is perfect. Rooms are clean, nicely appointed and significantly larger than anticipated. Located directly next to the parking garage - you pull in and attendant meets you and parks your vehicle for you, so no stress trying to find a spot. We're in town to see Hamilton and the theater is a 2 minute walk - literally around the corner. Pizza, diners, street vendors galore.  Will absolutely stay here for our next visit!",
+          "time": 1535206260
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=2386484355488753926",
+      "utc_offset": -240,
+      "vicinity": "790 8th Avenue, New York",
+      "website": "http://hiltongardeninn3.hilton.com/en/hotels/new-york/hilton-garden-inn-times-square-NYCMWGI/index.html"
+    }
+  },
   "image": {
-    "name": "LOFT",
-    "file_name": "LOFT",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/20180120_192720.png",
+    "name": "Hilton Garden Inn Times Square",
+    "file_name": "Hilton Garden Inn Times Square",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044927/2018-08-03.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032815",
+    "date_added": "2018-08-29-044927",
     "file_type": "image/jpeg",
-    "width": 1200,
-    "height": 1600,
-    "file_size": 2377034,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/large_20180120_192720.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/medium_20180120_192720.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/small_20180120_192720.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/xsmall_20180120_192720.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032815/thumb_20180120_192720.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9759808,
-    "vicinity": "150 E 42nd St, New York",
-    "place_id": "ChIJ63s-twNZwokRQbZtT-tqzrc"
+    "width": 1400,
+    "height": 934,
+    "file_size": 1388549,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044927/large_2018-08-03.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044927/medium_2018-08-03.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044927/small_2018-08-03.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044927/xsmall_2018-08-03.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044927/thumb_2018-08-03.png"
   }
 }

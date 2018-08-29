@@ -1,35 +1,282 @@
 {
-  "name": "Gap",
+  "name": "The Skyline Hotel",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7494988,
-  "longitude": -73.9876031,
+  "latitude": 40.7645117,
+  "longitude": -73.992333,
   "description": null,
+  "photo_reference": "CmRZAAAAdgYfsNhUXW2Mh9VIY70Al-5N9ZSqI1lhPFW3fr9kKtcrT3omjSOFdJjAz2D4b7g2f84gLILiHtxaL2WXA0IP6CDsbL2pOGXR_IIzOo1rmujcugwZAvuBycCxJUzEZlGaEhD_HkvEGcKfiWNNi8szZSo7GhRnl4YXLeYXuEjKcUZWR1gv1Efjbg",
+  "location": {
+    "latitude": 40.7645117,
+    "longitude": -73.992333,
+    "vicinity": "725 10th Avenue, New York",
+    "place_id": "ChIJB6n99VBYwokRrgHxooXkoKc",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "725",
+          "short_name": "725",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "10th Avenue",
+          "short_name": "10th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10019",
+          "short_name": "10019",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7103",
+          "short_name": "7103",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">725 10th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019-7103</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "725 10th Ave, New York, NY 10019, USA",
+      "formatted_phone_number": "(212) 586-3400",
+      "geometry": {
+        "location": {
+          "lat": 40.7645117,
+          "lng": -73.992333
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7657491802915,
+            "lng": -73.9908520197085
+          },
+          "southwest": {
+            "lat": 40.76305121970851,
+            "lng": -73.9935499802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "fd6053cb7a96b523ee0f9e632753f84bbe78f58b",
+      "international_phone_number": "+1 212-586-3400",
+      "name": "The Skyline Hotel",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109998915402810074693/photos\">Arthur Young</a>"
+          ],
+          "photo_reference": "CmRZAAAASc4t9rBVoLed-txtD5_5hWqR2OWCjR3x1MCLRqBcKtKByksjFSZV8Nlol4ID53alnn8P44o0TIrMiFKxQz6prQ12x9fpF7TjL6O9dRC0yYvB7q4pV0LNgKeO5W7RXCySEhCj32LmtulCPxMld-coT5JlGhQXc45h_HkXXE_zMczPW-qPv7ZVcA",
+          "width": 5333
+        },
+        {
+          "height": 486,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109119729978017099698/photos\">The Skyline Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAABEJNAXfmOe7ZQO-7ahmO-bRZL2R6fZm81A58H9AaGQk4YpsyT7rfSJQzSnK3hnh3A_eMdwr75taBCVdwIcAJEOkOUZd1hn9McfRWooFsyN4IAnsFUIo8rN8IArCrjIXhEhAsKhqjeRlHg9YgZUezsW9fGhRbdxdYFfa0PNGdiaAOG954dJm6Hw",
+          "width": 724
+        },
+        {
+          "height": 369,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109119729978017099698/photos\">The Skyline Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAOIcnEJQrF08klmOn5Q-osFKg7KuBrgjuYCICN28oX8fBuDk9-dDG2TbTF4I4qxS_VlPP1p1Lm7DErSWe5NaWnnlJdLtChDqsyyPmF-pWCJf5A_qtzTOeD-qMo31NCK4JEhBtNWBRTeZOMwOIXH0A232GGhQUFCAGYjG9EtYVmwfb1IRXlxO0YA",
+          "width": 518
+        },
+        {
+          "height": 3928,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111080489908315004074/photos\">Connie Hsu</a>"
+          ],
+          "photo_reference": "CmRaAAAAH5eYs1cdNxv3-f1hx-ytBy76tdD6PjU9HIdR9aUB8udBq3Q0cza3IwyjaPYylleGCFhQiEIsHZrV4CsZB_32dHuObRd1p5wxEC5uIyNU74ptQhEV_qC5yglmQKxkxFcEEhB3SqG73u8MIRmfi_t4lNyeGhRIItt0vYUnPsok6cRFi2sVFbjsSg",
+          "width": 2208
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108566042087043981611/photos\">Chad Bursiek</a>"
+          ],
+          "photo_reference": "CmRaAAAAItNMW-g4q1Zo6ThQ80G-Sbk957mhaTfMKzmqvMtKhGZCiLuI32jxcc8Sx05wIC7CjyYs-jl6_5nBWFVR8DPklwlAsg10vU_zK9wMua30DVweVlGsiDaazyLycMss2SFCEhAkBjIKCvVeSCKlL2Ka3ymbGhQrRqJ_tF6n73MUvAAb7aET0c9cMg",
+          "width": 2048
+        },
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111080489908315004074/photos\">Connie Hsu</a>"
+          ],
+          "photo_reference": "CmRaAAAAWgdpSuXs6PKYlJGVBQaIgBiaucmaSpoSM-KjAtAb-tJ2FBw5PdauCfqc0xwXOpP5iflZfoHeP4CiTYuC9pnWrWpvotX8GWb_csT6VZJQlvddz2IWeqSuKZe07dvB23nKEhCoCQP6YZY0FecJ6kwQhWJbGhQWCy023x16DQ43J8bIYIKay3cn2g",
+          "width": 3928
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101467854374602623802/photos\">Sami Alajaji</a>"
+          ],
+          "photo_reference": "CmRaAAAAZQ5nl8dwPVbL5WdlfBe806d7TOKHHcNpw9d8Zpnev3y9Ukho2pNkWo4pst2ud2Zyon_6hAFmLLKl2GWqvkOl-tKlD56GCTm79bCPmFM3VIBKX98YKhzSMzsPTf0LxcWNEhDPmtvgkfiY55MCrhkAb0XdGhRKrwMrqFlQXiA1CURJFSSSpKybGg",
+          "width": 5312
+        },
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111080489908315004074/photos\">Connie Hsu</a>"
+          ],
+          "photo_reference": "CmRaAAAAYA1lRJpPM-LIp0oSErNLDBbqLy63clP3sleHgnwhNY0e2Unismk9BTbVYeKg2K-RTN4ydHSutFZYFiLk3q1U0XGEov5fLYsLL2DKK6Hp_0if3pFqUMpSM1n-ZOUkX79NEhBnWhZj8MVVg6SiQ_UDGSO8GhSyEfxPvx7ph20hZrCfi5x-ps6gfA",
+          "width": 3928
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103757303212115678032/photos\">Mayumi Slazas</a>"
+          ],
+          "photo_reference": "CmRaAAAAQRPTUknu10wdkC3CBM9dFXUKBch4pYrW2CWMb03BwhZSo9o_5KH1UXzUB_rUNPUqkPVy8hQd7TCnyQQPPc3vEuDV-FhkBoVkQlm6tk3By7XuDo7g_8HCL-0-2Q8JBqQ6EhDJHdZJuIInRHiFjTRLoKK2GhQc3IP3pMFIR5T4ylPw3-j6ge1bGw",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118273345517771779112/photos\">Jose Espinal</a>"
+          ],
+          "photo_reference": "CmRaAAAAbomfsscM-FNlVE1qa73yefxFzBdXkTUN4sVPgIN5_-iuIPbhCTMErsbDXK-dQej11H5iB2S2ibQnDGAfi4M3CNHQxeDprA6k_U_AZiTeBYu77nE89soO2Dm-W6Dlv_F3EhCjw-uAdOe6TW1jOqw5btq2GhQGDPEkVZYOsS-XWmreKRxcIEMKAQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJB6n99VBYwokRrgHxooXkoKc",
+      "plus_code": {
+        "compound_code": "Q275+R3 New York, United States",
+        "global_code": "87G8Q275+R3"
+      },
+      "rating": 3.9,
+      "reference": "CmRSAAAARck0Wyt5hwkKwFgllZVJTEH7zb850WwnaQJ8Azd45T4pouFo3shHMnvC7XowL7kTB4eBJqVw3imT2ty6mp0HeVDPmCX2q3ZLhgfaOnzQRKiFwhZWCFelLHjO6YlTKKCaEhAa-3EWfCTeqG4E8QvMA9XWGhQr7_fRQPNSYAfWoB4oVlv35AZBjQ",
+      "reviews": [
+        {
+          "author_name": "Meqren AL-Mutairi",
+          "author_url": "https://www.google.com/maps/contrib/108829313747370739256/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-WIDLEeNr3bk/AAAAAAAAAAI/AAAAAAAAAE8/6sh0uQ15zfY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "The location of the skyline is great! It's a short walk to Times Square and Central Park. Staff was very helpful and nice. Rooms were clean and beds were comfortable. Asked for a city view for my daughter and that's what they gave us..it was a beautiful! The view from the pool was also amazing! Another perk with this hotel is the parking you cannot find anywhere else in New York to park for the price and it is very convenient! Definitely will stay at the skyline again and would recommend it to everyone.",
+          "time": 1535349086
+        },
+        {
+          "author_name": "Dean Laslo",
+          "author_url": "https://www.google.com/maps/contrib/116069738177794915066/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-DD0FHoFpKJ4/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaM8vOXdCXETEY_wTc4-CflzC6UIgw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "So far so good. Better than expected actually. Normally stay at chain hotels typically Hyatt,, but very happy here. Nice staff and clean room. Quiet hotel and the Tex Mex restaurant next door has really good food, though a limited menu. Will definitely come back.",
+          "time": 1530243311
+        },
+        {
+          "author_name": "Jonas free",
+          "author_url": "https://www.google.com/maps/contrib/103638390094491038389/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-xLCnVzXC-_w/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMKz9H28-ykeYP1YTIayUGDedPnug/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 weeks ago",
+          "text": "Excellent hotel in midtown Manhattan, ten to 15 minutes from Times Square. We had a clean and large room with two very comfortable beds. I loved staying here!",
+          "time": 1533765415
+        },
+        {
+          "author_name": "Melissa hearold",
+          "author_url": "https://www.google.com/maps/contrib/104331516170437799747/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-sVlguwFOTfM/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNYJsuvvm1fqMOvk3Pbs-Ul0ZOs3A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "The location of the skyline is great! It's a short walk to Times Square and Central Park. Staff was very helpful and nice. Rooms were clean and beds were comfortable. Asked for a city view for my daughter and that's what they gave us..it was a beautiful! The view from the pool was also amazing! Another perk with this hotel is the parking you cannot find anywhere else in New York to park for the price and it is very convenient! Definitely will stay at the skyline again and would recommend it to everyone.",
+          "time": 1526412735
+        },
+        {
+          "author_name": "Saurav Gandhi",
+          "author_url": "https://www.google.com/maps/contrib/109134329168594037585/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-7yTAFWxRVBA/AAAAAAAAAAI/AAAAAAAAHwU/TiGXVfFZ6PQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 months ago",
+          "text": "I overall enjoyed my visit at the skyline hotel. I will break down my experience What I liked: they opened a Mexican restaurant down below the skyline hotel and the food was really good. I really enjoyed the quality an do the variety of food they had to offer. The room temperature, service, AC, heater, and overall service was good. The concierge was nice and have us a lot of good tips and tricks. What I didn't like: the wifi was not free so we had to pay for it. It was 10 bucks a day which was quite expensive. Additionally, if you wanted water it I've, you had to go all the way down to the restaurant. They did not have today services on the floor.",
+          "time": 1529028438
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=12078905463223157166",
+      "utc_offset": -240,
+      "vicinity": "725 10th Avenue, New York",
+      "website": "http://www.skylinehotelny.com/"
+    }
+  },
   "image": {
-    "name": "Gap",
-    "file_name": "Gap",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/IMG_20170522_131819291.png",
+    "name": "The Skyline Hotel",
+    "file_name": "The Skyline Hotel",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044832/DSC_0362.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032723",
+    "date_added": "2018-08-29-044832",
     "file_type": "image/jpeg",
     "width": 1400,
     "height": 788,
-    "file_size": 1647535,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/large_IMG_20170522_131819291.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/medium_IMG_20170522_131819291.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/small_IMG_20170522_131819291.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/xsmall_IMG_20170522_131819291.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032723/thumb_IMG_20170522_131819291.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9876031,
-    "vicinity": "60 W 34th St, New York",
-    "place_id": "ChIJ2RqLC6lZwokRZv42LWPtitA"
+    "file_size": 1944595,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044832/large_DSC_0362.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044832/medium_DSC_0362.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044832/small_DSC_0362.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044832/xsmall_DSC_0362.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044832/thumb_DSC_0362.png"
   }
 }

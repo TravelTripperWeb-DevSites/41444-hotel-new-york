@@ -1,35 +1,282 @@
 {
-  "name": "Gap",
+  "name": "414 Hotel",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7609766,
-  "longitude": -73.97569299999999,
+  "latitude": 40.761291,
+  "longitude": -73.991736,
   "description": null,
+  "photo_reference": "CmRaAAAAoYfd2Y9EGOhpm1AJoprQamYzlC9b2y1khIQTZLlkoImfIAHb74_rX3JsS-IBWfTJgcOS4Ryvfm5qy1B0KuXDfQhmf98J2KGDpAQIkas38uPwW1NkBcekVYabOhSnTq9rEhDjIodM19PGM6_wXvfPGhSOGhTg7M5r5-kl2ebtJo1ivJtWB4SrnQ",
+  "location": {
+    "latitude": 40.761291,
+    "longitude": -73.991736,
+    "vicinity": "414 West 46th Street, New York",
+    "place_id": "ChIJhwBD1VNYwokR7eKcshuz914",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "414",
+          "short_name": "414",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 46th Street",
+          "short_name": "W 46th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3505",
+          "short_name": "3505",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">414 W 46th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-3505</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "414 W 46th St, New York, NY 10036, USA",
+      "formatted_phone_number": "(212) 399-0006",
+      "geometry": {
+        "location": {
+          "lat": 40.761291,
+          "lng": -73.991736
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7626780302915,
+            "lng": -73.9903585697085
+          },
+          "southwest": {
+            "lat": 40.7599800697085,
+            "lng": -73.99305653029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "453a14393e69abc039312d4ba71d86165f660ffe",
+      "international_phone_number": "+1 212-399-0006",
+      "name": "414 Hotel",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA_Jx4DzdV4fTFEHHLcSSGhUhnFtNY0G1pGh5dWBd3c53eWL9H0kpVQwbpXBFMVO_tLlNuLTppVRcEslC4qZ4p7YrYSfDrX5mF_J-YMtQw82frxjKYtOBOAvT-aPCpiObkEhDXEOP7LBURGdzCcve8taIGGhSuDgVg8BpUERQOSvSUg5qygrQyzA",
+          "width": 720
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAALYSBnijO8ovg2vJq1ukBTq1BvY2N01QJkx3H569Ek52mY9o1BUMFfqrjntRJwiASITZP6oPR9H5AZF8FbI1uk2pRlhe8zpUnR1YEmtvc3pReg0VLt-q2mp2BntxY27kGEhBN7CmHbaGxm-x8seaw1oj-GhSGFjb8qyHO6NRidHWegrwo5F59IA",
+          "width": 960
+        },
+        {
+          "height": 5344,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110088157912163066707/photos\">John Wheby</a>"
+          ],
+          "photo_reference": "CmRaAAAAQjZtVZ_aQ64OiuyvJTR0YoaTuZ4iUU8oNOrtY4RYRYelBw3CKYRHXJhGxgQ1wGfW1OFbpcpJdj9MCpGhyfKU0F59FMOhjEc2W29_9P_MSjJXVTFpaIvjrD2aQ0dLTtvvEhAKzjy5w8T4yb2P4iC3is8BGhS22E8t5VgoO4pNQfETHv2qSGTghg",
+          "width": 3006
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAAPf3CPDK7NSx93CKMI5nfiWPWXlaZierde-l0DSF5C_oGvEPH-HuQazzMW0MkySf16jcDUQrZppn-HvnBzsOuNEFqZn0-1i_FBQUlaVnqSegixk884mxdw9R-Czr6IwqEhDZBtma7lHPL6LOsKdoZNvkGhTVxF2dwuN3hGx4w07QcruzvkdNTA",
+          "width": 960
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ_1qLW6SJBhsTGjlWp7se6HVDV9CyQf47BqxW7bGhQM73fFaAnx3aIwP0Y3nOBjk-sbhq6cXVybFEXioVJyWO1QUi3DEzZCGvtM7hyIyXYXehz9no0V8cTvcNY8KTBexEhBWgAbDckpDP5VKYvPKRIXQGhTeqyxcaRrgNtU_bpjE9uhz5I_baQ",
+          "width": 2048
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAd1F3_NXSJTQiQ7aaPqflBuiUtF2QRjslqD4OBXqOeH3FMtrCAgizafHUcU4IsczyKMZSAAySC7z06ZHw1mRKnfQrXaAK5pe_Ll5yKWjUF_JwN-T6o8uwrdEm1ATpEp6KEhAwCQ3NNFarTrUzp2fCb-cFGhTetqecXAjzVfFaj0eEiOaT_cqmiw",
+          "width": 960
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAfEb7OuEzdvnLEq7sGjaqOjNhsUHscP0gqhJYJXnmjhFTJV_z2DDG0o4Vu3BkuS1fQkLVsh1enSYFF-57Ter8T33Q-I9ZkNJqHTr1L8lXUXUo7s0AXTa5-UCEmfhZ3FHmEhB1VGW5pWrv-AYbhhI9ANZxGhQFNIAJ79L0EUlmEqobgMQ-gfS-YQ",
+          "width": 960
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAdblUOXaPqF_McUjUVFkZQE5dXFV69riuq3Vs-Z1BgJgKC_wtmbubR6QjSFmOJOsE8WxUNhavAcDvbI_gbJsMZZUb_r3F8MFGTjlwFLZwGjJEqWD9HCaZfUOpkVn3-MHZEhDxmVIuGzCeghpvSoI4dec3GhRZkvu0P2IC3ecvN5ZZbraB8MLgjQ",
+          "width": 1441
+        },
+        {
+          "height": 315,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA0ymogkfIG1ceCPpFGovScuIN30DXzkUN4rsKaqiPpBEkuQp052gDKZCOU9J9aB_jviTagy231YJD1QGKMw4fLWi-lvWxa7Jd1ywAj7T5IneJv7vV630uCpIqm7Wnqvd_EhBWRuOcBozIGpzsRb77LiqcGhTZ0g80bTvW0KkVRgh2xNW8VwBfYg",
+          "width": 851
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114986206626718888907/photos\">414 Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAA8-wmLV1rca0jRqfGSL53fLT0gq47ixfBQ2bMtbKa8LTB6m-_RXPvc_tzB5231AE0Rkq9vNYoiZ0ASd1DR6OpkOI1wfL6xAbE10pdLnt7cfnn61frH_3cN3K5TtTl-dbiEhAsu5kRwVu99VTTVjSGLM_YGhSJa-Ov4Ng6F-1yave-AV3wzM7XVw",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJhwBD1VNYwokR7eKcshuz914",
+      "plus_code": {
+        "compound_code": "Q265+G8 New York, United States",
+        "global_code": "87G8Q265+G8"
+      },
+      "rating": 4.6,
+      "reference": "CmRRAAAAbaXS-uowSoWueC6NHnTPnamr03_F5WtakjLxQk3I2XNnp_quv0K_BIKk9qaSJZKFxJLhWWLVxjOPnGTcLCHrTrA7oFrchwFLrxnjr-tXzUi78UEvlziOG-1ew3v9U_jpEhDOZXYiFaLN16CJ_HvHijubGhSTSrJogZdh8d5k2fSGHRkCouhgiQ",
+      "reviews": [
+        {
+          "author_name": "Richard Brown",
+          "author_url": "https://www.google.com/maps/contrib/107695242143657637067/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-l4tPqIURvVE/AAAAAAAAAAI/AAAAAAAAAC0/uOymN0DryiQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "The 414 Hotel is a great place to stay in NYC. Prompt easy check in and check out. Its very quaint, charming, intimate. Very clean and thoughtfully decorated. We stayed in 304, street side. Super quite the entire time. Day or night we could not hear the street. The bed was very comfortable and the AC works great. The water pressure in the shower is amazingly strong and water is very very hot. The QTips and cotton balls and pads are nice subtle touch in the bathroom. After staying at the Edison the last 14 times, I have a found a new home in NYC. Love the 414 Hotel......",
+          "time": 1535377299
+        },
+        {
+          "author_name": "Rachel Meyer",
+          "author_url": "https://www.google.com/maps/contrib/109003533853034216369/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-eabgD9XUJ9A/AAAAAAAAAAI/AAAAAAAAACQ/VLiV5EbiuqU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "Coming from a NYC local, I live on this block and my family stays here every time they visit me. The staff is VERY friendly and the rooms are clean and cozy. It’s a great vibe right away when your walk into the lobby, there is a fun happy hour where guests can chat, have a glass of wine (or whiskey!), and enjoy a laid back moment in the busy city. They truly care about their guests. Definitely recommend.",
+          "time": 1524507884
+        },
+        {
+          "author_name": "Julian Lange",
+          "author_url": "https://www.google.com/maps/contrib/116576970302161797001/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-Dldo8HtYUa4/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMO0M2fyXsBZvuI6jytOFhySMrEMA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 weeks ago",
+          "text": "Above average rooms for NYC that look neater than the usual hotel room, friendly staff, quiet side street",
+          "time": 1534016048
+        },
+        {
+          "author_name": "CY Chin",
+          "author_url": "https://www.google.com/maps/contrib/114704692449189099133/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-LbJ3BL96pBE/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMMyUnjK6sXD7ZFC_s9bA4kS2OQ2w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "5 months ago",
+          "text": "Great location, very accommodating staff. Incredibly affordable for NYC.",
+          "time": 1521191636
+        },
+        {
+          "author_name": "Mark Strauss",
+          "author_url": "https://www.google.com/maps/contrib/106016449097198509875/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-MEgiE8RhM0M/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOn9KbTQC0wuS_2tw3uRQjr0aHWsg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "6 months ago",
+          "text": "Small hotel in great location on West 46th near theater district; Pro's: good value for the money. Staff very helpful and friendly, wine/cheese in the afternoon; continental breakfast in the AM, clean. Cons: small rooms, fairly basic furnishings, no elevator (not a real problem).",
+          "time": 1517440365
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=6843135090354873069",
+      "utc_offset": -240,
+      "vicinity": "414 West 46th Street, New York",
+      "website": "http://www.414hotel.com"
+    }
+  },
   "image": {
-    "name": "Gap",
-    "file_name": "Gap",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032300/20161012_160948.png",
+    "name": "414 Hotel",
+    "file_name": "414 Hotel",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044351/unnamed.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032300",
+    "date_added": "2018-08-29-044351",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 788,
-    "file_size": 1544815,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032300/large_20161012_160948.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032300/medium_20161012_160948.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032300/small_20161012_160948.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032300/xsmall_20161012_160948.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032300/thumb_20161012_160948.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.97569299999999,
-    "vicinity": "680 5th Ave, New York",
-    "place_id": "ChIJeyg9uPtYwokRYcWFtuu9kp8"
+    "width": 720,
+    "height": 480,
+    "file_size": 743927,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044351/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044351/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044351/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044351/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044351/thumb_unnamed.png"
   }
 }

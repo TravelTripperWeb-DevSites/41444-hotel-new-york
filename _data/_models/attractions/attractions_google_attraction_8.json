@@ -1,35 +1,295 @@
 {
-  "name": "Old Navy",
+  "name": "InterContinental New York Times Square",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7502869,
-  "longitude": -73.9901208,
+  "latitude": 40.758573,
+  "longitude": -73.989548,
   "description": null,
+  "photo_reference": "CmRaAAAAO94LVM9Wz2UUwyuoRUMCp5j1mW3HxLjyQmLV5O3BzK3jmW6kElKtL_EYnKeoLh92Abb3nIE_7kPzAQzLu7H3QgeqN-xsM8axYh2cHGU-Ge7NlGgx-nlV3Y8Dayhd7qzvEhDr4JRhresi49upPOYv3lMyGhQdOIlw_enohVNfQMMFK8G4zX5NCQ",
+  "location": {
+    "latitude": 40.758573,
+    "longitude": -73.989548,
+    "vicinity": "300 West 44th Street, New York",
+    "place_id": "ChIJmR9pnVNYwokRqHaZ7QNK4fE",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "300",
+          "short_name": "300",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 44th Street",
+          "short_name": "W 44th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">300 W 44th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "300 W 44th St, New York, NY 10036, USA",
+      "formatted_phone_number": "(212) 803-4500",
+      "geometry": {
+        "location": {
+          "lat": 40.758573,
+          "lng": -73.989548
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7600079302915,
+            "lng": -73.98808936970849
+          },
+          "southwest": {
+            "lat": 40.7573099697085,
+            "lng": -73.99078733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "f08bbb3195e4467682c9f22315ef1deed5058e1d",
+      "international_phone_number": "+1 212-803-4500",
+      "name": "InterContinental New York Times Square",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA9DGTUfENFMHzv8XeT98IwJhRwjvfRyVpKifREEAZmNR4DYwWajd8inO-Uvk_M98Cy94Ql0M5JczpbpHrRqKw7IrljbvWBXrYGCDdbdZJoq8d6pmx_i_hpDZTtwr8PdvWEhCWYXKI48kArej3pvSqGVr9GhT0y6OVPx8hUraBxQzL8NZhR-kGSw",
+          "width": 4000
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAABdO9_IN2J4aHaPx7iLYV3coSYH_g6eq70hkyh1-RvD7gn3p4ey7fGwqk4L_JJJCqxT5WmQEMfGmONzyF2zkq_h38zyo8Qh9K4QC0C2GZ0szP3LGOr2f10BfMYbZZf0oDEhCJ-WQ3EMA7-wud55b5uM35GhRU8ex5xBnbuS8eQgkQ1Z6UGWTv8Q",
+          "width": 4000
+        },
+        {
+          "height": 2570,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAt1_FhvYvSFlD1w89Y38SyFlWr1_cDqyRevcTkqqm8rAchpL-08Ph5CeVa40e4wNuBIiRNs87r9sVj02exfOeLGmMDGM-GWuIjGxGQ7-y-uz-UHWdTLq0N7vupcmOkqgAEhCPrtz3KnNGOTRG-PadTOAJGhTh3NcfThls3-lxl5kNPh8080Ej0g",
+          "width": 4000
+        },
+        {
+          "height": 2543,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAWoxogPn1Ov8E4cbIlqpHFeBKS7AUqoHkWrqpE8hup1Mg7HvXFrFC3ctun2lsT7TeH9jjbhnlfEHKM4_suwpAaOfkmsBJJ6lJfhHvoX5DhXCoHFw54QbSuHWB0CPQxwqsEhAA3_k2X0HmRaO0Sikf0_0QGhS5RNL4s05t9u8E4RtT3qQ0Ys1Awg",
+          "width": 4000
+        },
+        {
+          "height": 2666,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAH9noc1y_xKuQVfthEIgOHdZLZhVcDxsIZ_Ng4jJLGuOYqSUCNhWCwxdsdfkSnKhjNNg26cu5NUB_v46sK5gEHunOzBuK8jOmCw3hxd95JW7RphV3VgzFYfG6wmDgn44IEhBaxhUwJDiw_Zk27LtEWECEGhQcomxEP9Lv7aVAVztipm7s-_LO6Q",
+          "width": 4000
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA9W4s4xdFUhrk5lgyZPgABPB44IvAsGM0ujFGHOGgUmgwZqa73xVBwGGRgaOKnSlub73-5UqCHgNjTnsaJyK3Gmt-CCcrIyqFLIAsE7D4ZFUcRl0a5zuHJujI02KE7OczEhB0qiMlawD4pEOs5w0nLAt-GhQQWuDqtbL-PxYPiaD9Jiyv7vJgYw",
+          "width": 4000
+        },
+        {
+          "height": 2697,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAgHr81dPIXTMSXA0JVhHFZUHrxb4Ie6_znsln-VKNQZh1n3n8d0D999j7sLjpF1_1tB-5nen67PZYvw8DSQyXPEyux16H8bAYR3Kz3jrPzGq_huLR506PwT1SlIT7DTcGEhDkEFBbjUYq4JGTDlLVB1XMGhTYXsEdLtK64bgojH1Oc0zRrjFWSA",
+          "width": 4000
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAANy4dAWUTlx1rcisStsxs4eUwfz9kOYGcZ0yTBiILlFGNkJQOb6rUX14DvxrYsUfts_khqvU8_XpAZb5jS8-4j4xukGM-gTZdoLwyf5MBJC4MXqYFjimxDDi-HNFxudYdEhB7bxHAluFy9HIOhq6zrKxxGhRn_gvbmATsQZ43tJldViI_t4h4HA",
+          "width": 4000
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAArMkXv4RtNK7hHjljdxqQkhoGPBEOtE5ZljEn0Cg9S2Nxqrd4jonfQHySjosNe6glqNqsBgdwrQjCGqK9GD6c-5d1VfHDHF_L_BO72BQxI09rT84dCgiq0UQhbiINvbH_EhCbYqGqWgqoEo1Uo78wjP-HGhSrRsAXnBlgsHpgv-4eohO85-d-mw",
+          "width": 4000
+        },
+        {
+          "height": 2534,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101790954121098555924/photos\">InterContinental New York Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAl8ebWGKprij1zzEtECFo0MSASGquGfNnheiaz4E2w2jyvJsuJVSSYFXdCzF8uS13xKI70Of2swaxkIbCQq63StHO3bnhf21BdOnmFB_N0sLh2GGSyu_Hzw9gkCSIayH3EhDj5wzqELsSnXQOlju2eXs5GhQ5prpSK6DAZ7Hd_MHzPsnqSoSORA",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJmR9pnVNYwokRqHaZ7QNK4fE",
+      "plus_code": {
+        "compound_code": "Q256+C5 New York, United States",
+        "global_code": "87G8Q256+C5"
+      },
+      "rating": 4.3,
+      "reference": "CmRSAAAAU6O_zwQr_SronFtpnXKpoZg9R5iV_Iq3NeJXCRSIEV3JjT-fL1JxBy5KUInxTrHhoMgBZYPHXFZj-kjVRp9-aJeeMQuqHPevHfIg7zQajTXnOg967HYvInvZOtVPbvqNEhCHt4kYF3ZiE92g5cXgrnAwGhQXwrAYs2CUjxLY-Dp119bHm7d2Hg",
+      "reviews": [
+        {
+          "author_name": "Mike Baines",
+          "author_url": "https://www.google.com/maps/contrib/114731784751783708975/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-_XCai21Rdrg/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOu7F4Lecil9tQnlnxkri8LnVvjLw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "in the last week",
+          "text": "Nice hotel.  Nice room.  Eighth Avenue is really a garbage dump.  Filthy.  The $35 destination fee pushes me over the edge for some reason.  I basically paid $55 for a plate of scrambled eggs.  I would have paid $80 for the eggs but they allowed me to use the $25 food credit on the day I checked out.  Sorry.  Just the way I feel about it.  Otherwise the hotel is nice if you don't mind the destination fee.",
+          "time": 1535300183
+        },
+        {
+          "author_name": "Jayesh Amin",
+          "author_url": "https://www.google.com/maps/contrib/102574917175033247956/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-l3v7aTq8t2I/AAAAAAAAAAI/AAAAAAAADyU/rIUBmYCXBiw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "I was here for a business trip and I am really impressed. You can explore best of new york city just in walking distance from this hotel. This is really expensive hotel but it is really worth it. Views from the rooms are best and rooms are very clean. Customer service is good as well. Just one thing i did not notice was that they charge for all the items available in the room. Not their fault though! I never went to Gym but my friends told me it was great as well. Definitely consider this if you have some money to spend!",
+          "time": 1534699256
+        },
+        {
+          "author_name": "Iryna Parfyonova",
+          "author_url": "https://www.google.com/maps/contrib/116113419895211916514/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-8nOiAqaSFOY/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMzkvX8fl9KZAlkmY-HtiXJWzWjKQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "Amazing location. Great rooms. Friendly.and hospitable staff. Unfortunately breakfast buffet is overcrowded due to limited available space and food options need improvements.  Overall great place for family vacation. Easy access to mostly everything. Great value of money",
+          "time": 1534884586
+        },
+        {
+          "author_name": "Glen Williams",
+          "author_url": "https://www.google.com/maps/contrib/100356476246311111718/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-zkPzhXR7NdA/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaO7FhASFIlAAensTOPZ_tDvdsqGZw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 weeks ago",
+          "text": "Good clean hotel with a mid sized conference area.  Very close to the action, but not noisy.  You're within walking distance of most of the Broadway shows and 100's of restaurants.  Even a short walk to Central Park if you're adventurous.  Staff was very friendly and did their best to accommodate an early check-in as we caught an earlier flight and arrived before noon.",
+          "time": 1533567275
+        },
+        {
+          "author_name": "Duncan Roberts",
+          "author_url": "https://www.google.com/maps/contrib/111891714502398175152/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-4_ZPpbxmNRQ/AAAAAAAAAAI/AAAAAAAARBw/5r9kMiOEE_Y/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a week ago",
+          "text": "Great hotel, good location. Easy walking distance to a majority of attractions. The staff are helpful and the rooms are spacious. The bar is good and a nice spot to grab a drink of you are waiting around. Breakfast is excellent of a little on the pricey side.",
+          "time": 1534881046
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=17429293413632145064",
+      "utc_offset": -240,
+      "vicinity": "300 West 44th Street, New York",
+      "website": "https://www.ihg.com/intercontinental/hotels/us/en/new-york/nychc/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-US-_-NYCHC"
+    }
+  },
   "image": {
-    "name": "Old Navy",
-    "file_name": "Old Navy",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/2017-11-02.png",
+    "name": "InterContinental New York Times Square",
+    "file_name": "InterContinental New York Times Square",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044736/unnamed.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032629",
+    "date_added": "2018-08-29-044736",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 945,
-    "file_size": 1908181,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/large_2017-11-02.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/medium_2017-11-02.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/small_2017-11-02.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/xsmall_2017-11-02.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032629/thumb_2017-11-02.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9901208,
-    "vicinity": "150 W 34th St, New York",
-    "place_id": "ChIJj1jppK5ZwokR2hcj3GDOOg4"
+    "height": 934,
+    "file_size": 1865553,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044736/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044736/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044736/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044736/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044736/thumb_unnamed.png"
   }
 }

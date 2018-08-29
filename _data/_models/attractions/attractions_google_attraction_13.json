@@ -1,35 +1,295 @@
 {
-  "name": "Brooks Brothers",
+  "name": "Washington Jefferson Hotel",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.754291,
-  "longitude": -73.9784282,
+  "latitude": 40.763309,
+  "longitude": -73.986814,
   "description": null,
+  "photo_reference": "CmRaAAAAbKTwvRqdZsSjbMjXi9bPAuodnOjkgbq8xQ1PNc3NpMYsvWPG6CpJk7MOJsKOuA121axUJyu3465nvVOlGufS7NtneWr1gc-wvBGoUdG5pGTxGUAatYK-JV15itgOhGrVEhAgfQdHovHHg_bw8IojCOihGhSurhx0TzRJ_IR3eM1-FU3dK29lYQ",
+  "location": {
+    "latitude": 40.763309,
+    "longitude": -73.986814,
+    "vicinity": "318 West 51st Street, New York",
+    "place_id": "ChIJmZ57HFdYwokRzZhnLwoZMf4",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "318",
+          "short_name": "318",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 51st Street",
+          "short_name": "W 51st St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10019",
+          "short_name": "10019",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">318 W 51st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "318 W 51st St, New York, NY 10019, USA",
+      "formatted_phone_number": "(212) 246-7550",
+      "geometry": {
+        "location": {
+          "lat": 40.763309,
+          "lng": -73.986814
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7646991302915,
+            "lng": -73.9854393697085
+          },
+          "southwest": {
+            "lat": 40.7620011697085,
+            "lng": -73.98813733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "ac82ed974da06f0a32a34ff3f3e97a5fec725e08",
+      "international_phone_number": "+1 212-246-7550",
+      "name": "Washington Jefferson Hotel",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAn7X6GS7jHD-LTSEjBq9TQQ9TirR-j1aDLxY1tgNDKYlF-0s-XKJVAPenESaULm9EcY8WBAqqvDMfX7t8gWp7DcncO9C1kM8-ygzKq0_3FVpwVmF33x33P38PS6v7eJ8dEhBz9AuzatpqRTOKkpV10lgyGhS9lBG8lUtMJ4hntWtPCLE_D-9dXg",
+          "width": 847
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAW5vgV4zmik7OLEIXUH83qJFSWHdCI7DEs_9fbe1oDg8RoZlzIpWM5dTe9SoE25MYxB_IvTpNN7uelOMdycNU8G8AToT8AFH_qE8EvSP1wmi9MAuGx_4Gw3YZjIgnjr8WEhDcMIbJ61wJAIWoAu1l_Mt8GhRBlvTZGmaHaA6qspBuGPYpnmrv1g",
+          "width": 1920
+        },
+        {
+          "height": 2504,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106553935581871466053/photos\">Daniel Schierl</a>"
+          ],
+          "photo_reference": "CmRaAAAAplHf8HZ1TT2eSuVODxUSuBIlEOKaD54tay92sFUBrL_UMgKPFmJFKe_VFjEX4zI2b4OEk26BI8QOvdtHmaLODcJCTV6vocPOKy6IiDBug0N1irsdXbU_IPrE3MJ62542EhBH27HNEQmO7u1f4AyL1LeVGhQ4W5UR8mp8q3hNm1yKoTGQblD5-Q",
+          "width": 6389
+        },
+        {
+          "height": 665,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAPYbGL1W1QfloJvcqT0vQOZSaoSwD8FX0vZxcq3B2cuqkuX6gIc_pODghh0uMgkuDwXGwaKY43v8UmKJhyfMOtcwYta-zuOAvjeccjDGiX0A7FxPIB9CqGmQZVOr4KoHGEhDO6AsP8vVe2dhC2irmpaKgGhSnHGKclgNJAEAh_y2R263u-2JZVw",
+          "width": 1000
+        },
+        {
+          "height": 1244,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAACQ_nZlH4mF3UXTJv9KQMpRKsjddSz_CQbIXaA_Sj5xri34mfTm-8Bkwx9oGSTckN7GkwJJpqIyxzaQ_A1darQ_3DgfzaMInieVpTyzBvmtPWdnhIOw4SqjlZnwe8R5M_EhDiOezIxYhi1aVMh5hyshkpGhSn5nWSFlNJ6is8Viw4XFrjcVFSgw",
+          "width": 2525
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAQOPj1x66Ub7Q5nxospbzNpAZiAmsPnlKRMrG0-XOMjmWLsvZaXuo_Ha1asPgHTwxWIsS3-yQOqB-5097f4j309MnBeouz1IHNh6rQ9MyMNGyxJdGnD2gbVK1hswRyoTwEhBQFSPLVSQ_OO17MeeSpvPqGhTO5ot6TVhl3jXqOmwrPmDuHrc6gQ",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAb-DYsGzuHS-z68rZnYtF5_23Gss-I0gZuOLHbqGbnxyhb5LPSZ5JZjOQPJEUENsHzjf6ue5NXNN4nbes6sfoYiDrm6QI54IfSRdFjmYHcjJ-shOH5hOTzRzZgVQoWcCLEhB_DsgnAnvAQnJ_68DXmm4uGhQcTRzL-SzQVu02HSrQLEc9tc2uhw",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAATO6qu9v05sg_cYEQACnwJR043JujU3UbQQFsa2L1QPL5SffTDriJjuG3TVpkUfQsZQv8cq8gD21Noj-3K-W04Vzb1vsQhqWR-Io4TlKyneh-6pCHXGuCdOKnWrGEMmYOEhDu7dGKksEccRBHiY3W_hZDGhQwidrBFs1Yonjblm4fwDsSLFY1Pg",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAzvfUws1VLq0WlRrBNjogEIYFR3_5VTciQKbqrETwlHQYAoP9J3Jp1ISIWKr3TbwK3oOP78FxV-uv6bEXL-YjGdOEio_lzEzxuAMGb5MoyUmIP62bZQGgIMmHdtE3j13gEhD60kegrzwn51D6ziIc3O-mGhS7klcp1NPog0L1SuqE3b-MSqqAQA",
+          "width": 1920
+        },
+        {
+          "height": 665,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116455943502058505511/photos\">Washington Jefferson Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAldaWFclU7fT3NDXNNbuDwn5n9veYKvNZQgoQlw0a92TZYJ8sD31Am2YXQ5R0u2mK9_7tYSiBxm5QznvC7fe2EmJAASQGFg0SK3gzzKF17H19MBov3y0E9feZafG6JDnEEhDWQNJe1jE1ilhnvQdNddQcGhSUafzHFY0H0B-RQh16jN4yAdyfsg",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJmZ57HFdYwokRzZhnLwoZMf4",
+      "plus_code": {
+        "compound_code": "Q277+87 New York, United States",
+        "global_code": "87G8Q277+87"
+      },
+      "rating": 3.7,
+      "reference": "CmRSAAAAYPvxrVNVC_-ZvmIPilJ3e2hRdah3-qhRhwo5tsjJdI5b7UdQTMZPtcjEoPpxZXPlzwwKVm4o8M5C7KArLmxh8fZ8B2k7A-w0Q6eGn4TYCUiWVg592DIuzo0FblnFI2FAEhAlAqJ_NUb00gCHpX7Rtvf9GhQIm9RGgEUJ-T1PKt_gMQVlvVcG1A",
+      "reviews": [
+        {
+          "author_name": "William Southerland",
+          "author_url": "https://www.google.com/maps/contrib/105340329707737432679/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-loGY_DizhnU/AAAAAAAAAAI/AAAAAAAATIY/4hzMMjRyqns/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "The hotel's rez agent worked with me for almost an hour to find accommodations in my price range. Super cute tiny twin bed room! Just the perfect size for one person. Really nice toiletries, nicely appointed amenities, recently renovated and great contemporary decor. Staff is quick to respond and extremely helpful. Sadly, the actual mattress in the twin suite is really uncomfortable, more like a dorm room bed than a hotel quality mattress.",
+          "time": 1532639494
+        },
+        {
+          "author_name": "Silvia Zardi",
+          "author_url": "https://www.google.com/maps/contrib/117397070317149624108/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-_HKyPkKmmxk/AAAAAAAAAAI/AAAAAAAAAZY/dHsjDT3NGXI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "a week ago",
+          "text": "At almost $200 a night, I think breakfast should be included or at least be given as an option, but there is no breakfast room, so I think a kettle and tea/coffee should be in every room, but there wasn't any.\nThere was also no mini fridge and that would have been helpful.\nThe fixtures of the bathroom were old and the tap in the sink was not even attached to the sink.\nThe room was also very dark and not well sound proof, but the bed was comfy.\nThe TV was really small.",
+          "time": 1534775857
+        },
+        {
+          "author_name": "Lindsey Welsh",
+          "author_url": "https://www.google.com/maps/contrib/114014574517543516080/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-8T61ElQ0NLo/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOSxmmQfCr9hu1fo17n7mm2ZBZ8DQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 months ago",
+          "text": "+ friendly staff , comfortable bed, 8 out of 10 for cleanliness, great location. \n- neighbourhood was very noisy and windows where shut but sounded like they were open. No tea or coffee facilities in room. Tea and coffee available down stairs 7am to 9am but only on Monday to Friday!!! Not on a weekend seems a bit mean with the price of the hotel.\nSmall room very small bathroom. \n= overall what we expected and we were happy.",
+          "time": 1526807908
+        },
+        {
+          "author_name": "Mark Shred",
+          "author_url": "https://www.google.com/maps/contrib/104046012741211380151/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-bKVR5zpYIRQ/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPFGpO5ZTvYyZKnNSpwCoovE1sRIA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "Awesome hotel as always. Stayed here quite a few times over the last 10 years. Always a great stay. Very good location for getting around the whole of NYC.",
+          "time": 1528762294
+        },
+        {
+          "author_name": "Emilie Castaldo",
+          "author_url": "https://www.google.com/maps/contrib/103000425744965426442/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-1WM9djO5T4o/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOBKCanMMZs-Twn1g-zbwxQxBb98g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "5 months ago",
+          "text": "Location is great for my travel purposes and subway lines are nearby. Front desk staff has been extremely helpful and friendly, check-in was quick and easy. Room was clean, but as other reviewers said, our queen room was quite small (not really a big deal to us). Toiletries are nice! Our biggest issue was something that the hotel can't do anything about - there is a lot of noise from the street. Every night were woken up multiple times between 1am and 5am by (homeless?) people yelling and/or fighting in the street. This is probably not a problem in the back of the hotel, but is a big annoyance in a street-facing third floor room.",
+          "time": 1522015576
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=18316448691028203725",
+      "utc_offset": -240,
+      "vicinity": "318 West 51st Street, New York",
+      "website": "https://www.wjhotel.com/"
+    }
+  },
   "image": {
-    "name": "Brooks Brothers",
-    "file_name": "Brooks Brothers",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/IMG_20171229_110026.png",
+    "name": "Washington Jefferson Hotel",
+    "file_name": "Washington Jefferson Hotel",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045208/Full_49_1211-5fe8989469264d5a33576eecd50aad93.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-033051",
+    "date_added": "2018-08-29-045208",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 1050,
-    "file_size": 2473198,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/large_IMG_20171229_110026.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/medium_IMG_20171229_110026.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/small_IMG_20171229_110026.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/xsmall_IMG_20171229_110026.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033051/thumb_IMG_20171229_110026.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9784282,
-    "vicinity": "East 44th Street, 346 Madison Ave, New York",
-    "place_id": "ChIJ03wD4AFZwokRb3-OTvb81cs"
+    "width": 847,
+    "height": 1080,
+    "file_size": 1511540,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045208/large_Full_49_1211-5fe8989469264d5a33576eecd50aad93.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045208/medium_Full_49_1211-5fe8989469264d5a33576eecd50aad93.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045208/small_Full_49_1211-5fe8989469264d5a33576eecd50aad93.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045208/xsmall_Full_49_1211-5fe8989469264d5a33576eecd50aad93.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045208/thumb_Full_49_1211-5fe8989469264d5a33576eecd50aad93.png"
   }
 }

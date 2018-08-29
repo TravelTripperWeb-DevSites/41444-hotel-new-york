@@ -1,36 +1,281 @@
 {
-  "name": "J.Crew",
+  "name": "New York Inn",
   "category": [
-    "clothing_store",
-    "shoe_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7545001,
-  "longitude": -73.97776950000001,
+  "latitude": 40.7603197,
+  "longitude": -73.9877785,
   "description": null,
+  "photo_reference": "CmRaAAAAGx6wQBj3-mcP55M0rA-wtaKusohW-pIRn4dWj0xaB8Q59kYOZkiG0lkqSsgnhcp6aJ4efxkHHIydNnrHmnuYKtsrNsxunoWbSjmZ0IzgBYSeNIEdsnmB12msfy3_MDFyEhDxb-goPzUqGf3-gaR24mqBGhRg8ETkLmRg5e3AYmIwwxzO8FwYSw",
+  "location": {
+    "latitude": 40.7603197,
+    "longitude": -73.9877785,
+    "vicinity": "765 8th Avenue, New York",
+    "place_id": "ChIJuVnVHlRYwokRYyfYgd3o_9M",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "765",
+          "short_name": "765",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "8th Avenue",
+          "short_name": "8th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7005",
+          "short_name": "7005",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">765 8th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-7005</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "765 8th Ave, New York, NY 10036, USA",
+      "formatted_phone_number": "(212) 541-4674",
+      "geometry": {
+        "location": {
+          "lat": 40.7603197,
+          "lng": -73.9877785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7616224302915,
+            "lng": -73.98633861970849
+          },
+          "southwest": {
+            "lat": 40.7589244697085,
+            "lng": -73.9890365802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "e215a4c2035b12b48a785fffd15e7a6569bde31a",
+      "international_phone_number": "+1 212-541-4674",
+      "name": "New York Inn",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115625056886314082092/photos\">Glyn Lowe Photo YourSpace</a>"
+          ],
+          "photo_reference": "CmRaAAAAswMbpZptPT4W5_2anGkC_o7U9N-p03_fvsAktRsbaO7fdywnS2WRiz2pCVYPuAWdvP66mejgJdhYWM-6fGx2_ja5oI3LvZRaqpb91M6lCMRjR08lP0ds-sZOEw3Es8E5EhC2NC9RCAh6djw_-umFRNpnGhTb5I6fqn5CCBUT088HyAQmGPswLA",
+          "width": 1299
+        },
+        {
+          "height": 421,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104710793639205240949/photos\">Roy Sasson</a>"
+          ],
+          "photo_reference": "CmRaAAAA0mpLVxEtGXjHutJdZkU6saRcKxwcfswkHxw7NqnixnnSgmWE_LEIt3A5TXBVSXHjNqD1dfaHfZOa2BCyLddvKELGUqILiOF17TfZUNB87j0V-ksWQ8sT1TgmOl9G7TLQEhBpOsoEf51wdyY5jQqaWPRWGhRV-boj3vm5Nl5AmIh6OTl26KQPPg",
+          "width": 640
+        },
+        {
+          "height": 350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104710793639205240949/photos\">Roy Sasson</a>"
+          ],
+          "photo_reference": "CmRaAAAAYGrLy39_GnGxGx2gGxJ2g41cBoik9NweA1_Z3pt3vvwG9ej_iobwbbBuXht92Dmt4GTMCLSyFTrYvg_eEoA5S0wgBZGsj0_dkiX7StAUcwGgU1ZAmIUWgFWJdRCUyeRUEhCxupZoz7BVvIJYx0jmSiHMGhTib9Ovc-pwAChswghykCqkgiXC9A",
+          "width": 500
+        },
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104710793639205240949/photos\">Roy Sasson</a>"
+          ],
+          "photo_reference": "CmRaAAAA4zMMa6M-4TY2rHvhKpBy2bxQPppv8VTQYKqo_cI_hzMJC8fXVgWIVhiRmvA84kUFi-cS5HfU_6ocFCn8FCJP9xt3zPp8DjotzeTID-RKd34qHXbrKOEKO3oVpBBaUa0zEhBxBxVFEG8KSLAh_dmWYNZiGhTbu88T4kj5EdekUAwKvW-rcS25tA",
+          "width": 534
+        },
+        {
+          "height": 559,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104710793639205240949/photos\">Roy Sasson</a>"
+          ],
+          "photo_reference": "CmRaAAAATBfP93clsyVcOI9yiM0wC6zVoi3IaS5jfUkdVcH3s05rEX0Zd0Tk9Tp7WOeFmBZ8FJ9qc1WdONMkPa2QofmdtCtwf5cT7pOEsH0dU2oQ3aXdFNb4POTKG5Blz7eJzlWQEhBLofTerJ6V6ftOL9nrfEJwGhTiq3qqIujvKqm1fxGvtbrxXmakaQ",
+          "width": 800
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104710793639205240949/photos\">Roy Sasson</a>"
+          ],
+          "photo_reference": "CmRaAAAAHsOoeQtK0XPdFuN9nAf2p2H49N2hYzD0tPUNPsVmTTvQKzi9_lPoA8YR4nEGGX7SSavEZSIyAqQzeC23LbQF5XHa3PVjSoRMIsBVD44tBAhLm7ag10ZjYZI51RIkE16yEhAo2eIk5kKtMmAntxlN5PcqGhSrzIDImgZXFqu2k79cGKsVHO-vWQ",
+          "width": 427
+        },
+        {
+          "height": 443,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115309139533936350178/photos\">Hans Straub</a>"
+          ],
+          "photo_reference": "CmRZAAAAk0MoFfuWPuWTRtupWUfGXGdXSg9BKNm-CETm04zz1CmJ4zd5SfQ-qLIQaOjHmWaX7wHgroqlv419KDlbcB2VLgXQgDnBcLtJkh1oIpdlD0cgOEE4SpYKWc1Dnublj4BWEhB4mj_U9_c_T-k8IOf-MwMuGhSU5L_4IjKh09Bl-IgQEdv0a0Qd2w",
+          "width": 1000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109573105574806398331/photos\">Sonya Phillips</a>"
+          ],
+          "photo_reference": "CmRaAAAAW8ecwD0LDzH_-G5lSMxvCkiRoqkHsDOztCKXbuMrQOoklScc6N95ChT5VyFN7NPJjfcMk0DAtdvRjjLmIc-wyIDUqngYRCcpxGlP38wnJKpgiHkbEYS5g2bzYu-9a1YmEhDEoh8efz77tFB2ocpWMhGlGhSqfMBE-hHt9u-xZYFAtYXOyByzsg",
+          "width": 5312
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111605147249996500350/photos\">Carlos Fernandez</a>"
+          ],
+          "photo_reference": "CmRaAAAAez3JeI-s1exAML72CC1as6A6xXPiVmSzOxMV8zWQoObDyKDkycofa16AqXnEDJJr5KW-sP8fph75Sy8ZF3MjxgOPnM0O-XfCsc9CRh2YQT6B_GTRsZWwaxzqKkOcUpFkEhAgcZqJI-uYi_V_jc0vpYHoGhTVTLZUcqn3y6k33uJEH_ySvUdvaw",
+          "width": 1944
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117509037085271197980/photos\">Tomas Hokr</a>"
+          ],
+          "photo_reference": "CmRaAAAAh-P9fn61tljQI-UPNEO6BvZK1RrQ0si9MwQz8w9PxPeG4O1HeZ34XIvyY1LHjp_BMPSxbBSyigAyLUZlC-EWzoQQc9BZUMZbsgADvyNDXra45gyTG-6qF1Pv_XOXVYCWEhDp6qmWMTFbW2d1Di9EiEIJGhRj_LSrmiUnRcGZDeYk-JPl_oD82A",
+          "width": 1840
+        }
+      ],
+      "place_id": "ChIJuVnVHlRYwokRYyfYgd3o_9M",
+      "plus_code": {
+        "compound_code": "Q266+4V New York, United States",
+        "global_code": "87G8Q266+4V"
+      },
+      "rating": 2.4,
+      "reference": "CmRSAAAAr67Gaocx4IYuHtY3nn4vB3_PDzMfchVnxwhx6m1BhLOE4X7UD4uEGLLv2QZt4gozu9P90TcvduzghkJRfW1PvWM6_23mer_ZC6uQz-kpqPc90CLdeuLMn1qH5eWFVFA9EhA_iZBjkA5Q3zKT-h4B0yZcGhSIZQMGfjeCjo543NNcMZPLcRISPQ",
+      "reviews": [
+        {
+          "author_name": "Laveda George",
+          "author_url": "https://www.google.com/maps/contrib/106037191576758091004/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-5aBIyDIuEO4/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPvu8tUWzFxjz4ZAtFNsUjw88tS4w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "2 years ago",
+          "text": "This is the worst Hotel I've ever stayed in. The condition of not only the room, but the hotel itself is terrible. The hotel should be condemned. My first night I noticed my TV had sound, but no picture. I called the front desk and all they could say is we can give you another room. The next morning I tried to book somewhere else, but with short notice all the surrounding hotels were booked. So I was stuck there- I received another room. The condition of this room was no better. While ironing my clothes on the bed because they don't have ironing boards- the TV fell off the wall. I called to inform them about this. It took the attendant over 30 minutes to come check the room. Again they offered me another room- I moved to another room: still very dissatisfied with this room. This time the TV sat on top of the microwave and a small refrigerator. Just a horrible experience. I asked to speak with management and the response I got was you can reach him between 8am and 2:00pm. I've called 2x since check out & still no return call. I would not recommend this Hotel under no circumstances...",
+          "time": 1470066774
+        },
+        {
+          "author_name": "cristobal cardona",
+          "author_url": "https://www.google.com/maps/contrib/101621160615095421062/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-ED4b6oZhK7c/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNeWRPIal_hAJIV9I0RhqWc-C2Pww/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "a month ago",
+          "text": "Good Location!",
+          "time": 1532794349
+        },
+        {
+          "author_name": "Dean O'Hagan",
+          "author_url": "https://www.google.com/maps/contrib/106348032584652303068/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-IcEOQozZc8o/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOImPO37x1_l5NcPLdWlvKiRQzSXw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "12 months ago",
+          "text": "Mice at my Chocolate that was left on bag on floor. Nothing worse coming back drunk and hungry and see that a mouse had got there first.",
+          "time": 1504230504
+        },
+        {
+          "author_name": "Ankit Singh",
+          "author_url": "https://www.google.com/maps/contrib/113011798946455576380/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-yQ-O4-Odqaw/AAAAAAAAAAI/AAAAAAAAQn4/NjsWevkVZYU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a year ago",
+          "text": "Place is good for short stay with Indian manager and good for a travel budget hotel stay. ",
+          "time": 1502444418
+        },
+        {
+          "author_name": "marlene kougblenou",
+          "author_url": "https://www.google.com/maps/contrib/108617739487541359469/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-9y42gfEuQD4/AAAAAAAAAAI/AAAAAAAAKwA/VosPkOxUwlk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "a year ago",
+          "text": "The pictures only look nice but going there i was so mad because this hotel look nothing like the pictures. The hotel look like an homeless shelter. With dirty sheets. I was so horrified that i had to cancel my reservation and go to an other hotel ",
+          "time": 1485225524
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=15276184499127854947",
+      "utc_offset": -240,
+      "vicinity": "765 8th Avenue, New York"
+    }
+  },
   "image": {
-    "name": "J",
-    "file_name": "J.Crew",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/2018-04-21.png",
+    "name": "New York Inn",
+    "file_name": "New York Inn",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044638/2016-04-30.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032538",
+    "date_added": "2018-08-29-044638",
     "file_type": "image/jpeg",
-    "width": 1200,
+    "width": 1039,
     "height": 1600,
-    "file_size": 2017507,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/large_2018-04-21.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/medium_2018-04-21.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/small_2018-04-21.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/xsmall_2018-04-21.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032538/thumb_2018-04-21.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.97776950000001,
-    "vicinity": "347 Madison Ave, New York",
-    "place_id": "ChIJOzk9Hf5YwokRIPdcqXT8xDw"
+    "file_size": 2994638,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044638/large_2016-04-30.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044638/medium_2016-04-30.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044638/small_2016-04-30.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044638/xsmall_2016-04-30.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044638/thumb_2016-04-30.png"
   }
 }

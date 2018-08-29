@@ -1,36 +1,295 @@
 {
-  "name": "Abercrombie & Fitch",
+  "name": "Travel Inn Hotel",
   "category": [
-    "clothing_store",
-    "shoe_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7625262,
-  "longitude": -73.97453949999999,
+  "latitude": 40.7602963,
+  "longitude": -73.9959627,
   "description": null,
+  "photo_reference": "CmRaAAAAtzuwcUq3AOWdNOdkqg3SsasmqsZHITcNJywdZ3rewzp3B3rOPNFYyRPtpJllxj9pWZrRrDOAipapKecFzWW37tuzNcopDbF1bPBW8_PtOTuC2LSWan_gdff18GjXM6uREhB3mLhBhJZdlous8_UE3-E_GhRHLUUYXexzQtbYAZA_kYmLDrp7Fw",
+  "location": {
+    "latitude": 40.7602963,
+    "longitude": -73.9959627,
+    "vicinity": "515 West 42nd Street, New York",
+    "place_id": "ChIJF7GMl01YwokRmRIs_AxP9r0",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "515",
+          "short_name": "515",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 42nd Street",
+          "short_name": "W 42nd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">515 W 42nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "515 W 42nd St, New York, NY 10036, USA",
+      "formatted_phone_number": "(212) 695-7171",
+      "geometry": {
+        "location": {
+          "lat": 40.7602963,
+          "lng": -73.9959627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7614751802915,
+            "lng": -73.9947346697085
+          },
+          "southwest": {
+            "lat": 40.7587772197085,
+            "lng": -73.99743263029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "74af8a7adade96761adb7b53043926c084802a5e",
+      "international_phone_number": "+1 212-695-7171",
+      "name": "Travel Inn Hotel",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100732522343317730040/photos\">Travel Inn Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAvlJ9ZtkfXK2Bu0XcnmF7Zfi7dJfbrRDNb5HMZyS4EDl5gjAnTGQzZMeBb0X_YmGr2bm91v7FTzsWLkXHiNlpTUcLktsVKGi9plRKhQbg12oUkLOTg4zH_N4ejSWrjA5KEhA5gPLmGNh6PM1Z2pc1rAT5GhQCdNjFvFmmI2fegPUH9gcP1vdXPQ",
+          "width": 683
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112159544387738884733/photos\">Al Gol</a>"
+          ],
+          "photo_reference": "CmRaAAAAmfFrCunDBjTLa75ubJ7-hOPl9LFxUx4u4DBzAYKsbQX73dLyt8AMDEiYjbh8uxJd8FiMfI8HO842a4L-goDzmAHkWQMBoxcMeXecgQ3QOy-vTbl6lZuMX78gERnD_j8xEhCfJo7F5dlvWuZKy5DB42r2GhQeESH9xF5HBMdODESIv0OCKksx1w",
+          "width": 4032
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103290652652533952055/photos\">Darren Foster</a>"
+          ],
+          "photo_reference": "CmRaAAAAf7LEi0eCTxLqaWKFpkq1z5MVmF7QrIjYvJCjFgDln_AuXnnkiTtaqJ3Jy8TNZj25hN3EE-2fuIFtVVNemK-oW7mrQIRXYetIV2fChKHt6GneTLVNrh8JuaaWvylXgSqEEhA-YYE3paAOkhvoYv_9OyXHGhTJyw7X_nCXCWzLJ0uTdtys5ZdVOQ",
+          "width": 4128
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108366790890034834585/photos\">Sebastian A</a>"
+          ],
+          "photo_reference": "CmRaAAAApyEG6_pYBQeswG9ZhPRXTfNrIjUx_7BnIaYljtYi1RMn1u3UUtCfztyKoXhUL69Uqqk0IvET9g3wXMi-Vn0xpEaXPwa7vvkBB5BI2Pt4uyCNLwhlSEOe0cvqHH8yK3U7EhB8pNKgT5-S202FkkUaaOfNGhTmPQyBpj3QjqcxE8hXTB9lqpYqKA",
+          "width": 4032
+        },
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100732522343317730040/photos\">Travel Inn Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAAnhAGMJhG90c32lScopLK2s1qb4Jmsk2V2KeqSvmlFZQV4_HisoNBDBwquDT15FcnkOpEwvtq8aKaLU8CbiUS-bn3eqKR-JmglFz9IORRIL_ctxztfel7I6yWZzLkeFcVEhDikO5Q46C9o0fnIVGl3R78GhSiiLXdWU7fsafuvf1p2HstmkB8PA",
+          "width": 1024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102882858763501870911/photos\">Evelyn Colon</a>"
+          ],
+          "photo_reference": "CmRaAAAAuzipmlcJntw1SzrKhKZbfdBSRNxskmBtzJKQLgvkMUVNpqmZPoeDNYPDYdF746H55l1U6Yf4AaFnxFb912utFOJm1-Q9TFwFnyX4Z1aZo0yFMw9nPzUXwdlRdv4oFkQVEhBFYiagmND-dGl1sMVm46xfGhSl2qvxUY44AFCmuvoWMqB-7KIFZw",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104955182501758512061/photos\">Judith Flibotte</a>"
+          ],
+          "photo_reference": "CmRaAAAANLtsFLA1cyIQO4i9qV0AKOJEhXyWqOiKZ1T-PPKgwr4rjfln17CbqUpctQxYm3IU7_Hj_FGJdkmxAAdYn5FAqNnXA6FIscy_xDnblurWYevt9UiEiQ4rXIf4qqioaRrVEhBAO8kUjPb-VjeU9trI--IMGhTsYk22qhsf7UDAzP7ylVKphIEPXg",
+          "width": 3456
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116637935865389838996/photos\">Keenen Milner</a>"
+          ],
+          "photo_reference": "CmRaAAAAko3YPwJtFCibED2lkYWcUWTaEkda9vYd3YcP2t4iLNwW9wO1fHgy3rdXqby6RB5MkJKMXj5jRlG7DK48xHobFQfPXYmkh9rTZkp05EX-x2gb4nzg6AXlckXhFYp6WPyyEhCp4a5leZN5OhD3TSKaAiNJGhSVOupIWlxCi603oGeBcrF6czeEJw",
+          "width": 4048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102882858763501870911/photos\">Evelyn Colon</a>"
+          ],
+          "photo_reference": "CmRaAAAA9VUjGQuQRdlKmeGzaJOwo6WewUr-KXjTzMZanWXJTx0s_jeArLI7kWwoKBwTVG1pqEMpEtxoo-cV18aVbq-Ndlasce_6WdIu9uaVBzBrdLqcyJqTB1-s-d1qQNTcrvF0EhCjX4jFJPxFKTSDf5LnO--TGhQSKpqchNeHymdhrZj_JpJOxFC9dA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104260452229729227456/photos\">Pedro Claudio</a>"
+          ],
+          "photo_reference": "CmRaAAAAqILx0_g_qC-RF226GnTJ70F0hJ3kYbSRoCaewsYPfPXv49PruAzAv-CmzV4HIIREznVS8TXfGm8jE-yHJq3Zjerpy0fLMuzSQnJEuf4cODg3bjx9SyiXnU5zlXKQ0kAaEhDn_UwetGi4GgCaGC5-MkfXGhQ4ryxTnZSiIqHNZyYNSK6rqw0O3A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJF7GMl01YwokRmRIs_AxP9r0",
+      "plus_code": {
+        "compound_code": "Q263+4J New York, United States",
+        "global_code": "87G8Q263+4J"
+      },
+      "rating": 3.7,
+      "reference": "CmRSAAAALkig5331d0HhEbuXCV4RYoCh-pafqWOm8Evo-dbbs6Osg2-OA8vlFY5v0zm2SRxlwmQR5jfy21W__inx4aweEpT7zrzTBWy0mD8VpxBvLSKtxYOsl3Qa1inzS1HBmjghEhDggcEby3BK2-9paoB9mT5_GhS8Q67vC4AcuQaYEByX5uNlaDCJfA",
+      "reviews": [
+        {
+          "author_name": "Meqren AL-Mutairi",
+          "author_url": "https://www.google.com/maps/contrib/108829313747370739256/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-WIDLEeNr3bk/AAAAAAAAAAI/AAAAAAAAAE8/6sh0uQ15zfY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "Clean, good beds. (We asked for the upgrade to recently-renovated rooms) A bit noisy if you get a room facing 42nd St. - Swimming pool a great bonus (water a bit cold though). The 15-min-walk distance to Times Square is very convenient. Lots of options to choose from to eat near by. There's a bus stop on the corner as well.",
+          "time": 1535349122
+        },
+        {
+          "author_name": "Rafael Dominguez",
+          "author_url": "https://www.google.com/maps/contrib/109212264632655336231/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-OQcfqSGTqH4/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPdwcmqxY42ko7u37DKh3_QOKNCpA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "in the last week",
+          "text": "Clean, good beds. (We asked for the upgrade to recently-renovated rooms) A bit noisy if you get a room facing 42nd St. - Swimming pool a great bonus (water a bit cold though). The 15-min-walk distance to Times Square is very convenient. Lots of options to choose from to eat near by. There's a bus stop on the corner as well.",
+          "time": 1535151643
+        },
+        {
+          "author_name": "rose denardo",
+          "author_url": "https://www.google.com/maps/contrib/115460552871553086961/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-Cue3Mik10ts/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNqtt9GR9IsJuBnbU2kvI0aAqgJGA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "2 weeks ago",
+          "text": "The 1st room had a mouse in it so they moved us to the smallest darkest room ,the air conditioner was lacking. I got out of bed my feet were soaking wet from rug (wet from leaking air conditioner) we reported it so the threw a sheet over the wet rug. Not worth the $  roomed smelled cat pre just awful",
+          "time": 1533915248
+        },
+        {
+          "author_name": "Monique Pascual",
+          "author_url": "https://www.google.com/maps/contrib/112806417104554536023/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/--cThwqKMqoY/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaM2w9WAOEouWFboAo66PrjVfhRkHQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "We stayed one night in the hotel.  The location was excellent.  The hotel was older but very clean and comfortable.  Any problems we had was quickly handled by the front desk. (key card didnt work, no towels in the room) Pool was a big plus. Reasonable  parking. Diner was delicious and affordable. I would stay here again.",
+          "time": 1531236679
+        },
+        {
+          "author_name": "Kyle Shelton",
+          "author_url": "https://www.google.com/maps/contrib/107258782714565459658/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-qde9Kxu2Wzc/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOEEKdSKTxYfU27fN4tsN2LDRJGVA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
+          "relative_time_description": "a month ago",
+          "text": "BED BUGS\n\nHotel room had bed bugs. \n\nShower didn’t work. \n\nFront desk staff lacked compassion. \n\nOverall, the Travel Inn Hotel is a great option if you’re currently homeless. \n\nP.S. Can I rate things lower than 1 stat? Asking for a friend.",
+          "time": 1531398777
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=13688215034628149913",
+      "utc_offset": -240,
+      "vicinity": "515 West 42nd Street, New York",
+      "website": "http://www.thetravelinnhotel.com/"
+    }
+  },
   "image": {
-    "name": "Abercrombie & Fitch",
-    "file_name": "Abercrombie & Fitch",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/2017-08-06.png",
+    "name": "Travel Inn Hotel",
+    "file_name": "Travel Inn Hotel",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045018/045.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032907",
+    "date_added": "2018-08-29-045018",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 1050,
-    "file_size": 1940093,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/large_2017-08-06.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/medium_2017-08-06.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/small_2017-08-06.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/xsmall_2017-08-06.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032907/thumb_2017-08-06.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.97453949999999,
-    "vicinity": "720 5th Ave, New York",
-    "place_id": "ChIJsVBPZ_pYwokR7wTmH3SeAA8"
+    "width": 683,
+    "height": 683,
+    "file_size": 753366,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045018/large_045.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045018/medium_045.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045018/small_045.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045018/xsmall_045.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045018/thumb_045.png"
   }
 }

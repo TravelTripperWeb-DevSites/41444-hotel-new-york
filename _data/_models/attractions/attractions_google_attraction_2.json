@@ -1,48 +1,31 @@
 {
-  "name": "Gap",
+  "name": "Royalton New York",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7584628,
-  "longitude": -73.9812311,
+  "latitude": 40.7554202,
+  "longitude": -73.98237759999999,
   "description": null,
-  "image": {
-    "name": "Gap",
-    "file_name": "Gap",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-080342/2017-11-02.png",
-    "tags": "",
-    "description": "",
-    "date_added": "2018-08-21-080342",
-    "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 1050,
-    "file_size": 1680582,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-080342/large_2017-11-02.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-080342/medium_2017-11-02.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-080342/small_2017-11-02.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-080342/xsmall_2017-11-02.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-21-080342/thumb_2017-11-02.png"
-  },
+  "photo_reference": "CmRaAAAA9tZM9SFMGUJdoL0NS2UlL-L-XcNNHX3YFdhOSPX0ISzsfe_95RCezyP8NBWXidanTMRSedFfWmc2aSt7-n8UZFzL6sMMvSvGF3X83pfHNVrfFWmxoyKPAsdDDuy_f0flEhCs_AaGLYixoBMB7APzhKGSGhQApQVgpF42VYcC4dB_SaUTHdUwlA",
   "location": {
-    "latitude": 40.7584628,
-    "longitude": -73.9812311,
-    "vicinity": "1212 6th Ave, New York",
-    "place_id": "ChIJU-vWFP9YwokRrVzm0qa5YLg",
+    "latitude": 40.7554202,
+    "longitude": -73.98237759999999,
+    "vicinity": "44 West 44th Street, New York",
+    "place_id": "ChIJpSMN7_9YwokRkCnu6yqV-Rk",
     "google_place": {
       "address_components": [
         {
-          "long_name": "1212",
-          "short_name": "1212",
+          "long_name": "44",
+          "short_name": "44",
           "types": [
             "street_number"
           ]
         },
         {
-          "long_name": "6th Avenue",
-          "short_name": "6th Ave",
+          "long_name": "West 44th Street",
+          "short_name": "W 44th St",
           "types": [
             "route"
           ]
@@ -96,266 +79,218 @@
           ]
         }
       ],
-      "adr_address": "<span class=\"street-address\">1212 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
-      "formatted_address": "1212 6th Ave, New York, NY 10036, USA",
-      "formatted_phone_number": "(212) 730-1087",
+      "adr_address": "<span class=\"street-address\">44 W 44th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "44 W 44th St, New York, NY 10036, USA",
+      "formatted_phone_number": "(212) 869-4400",
       "geometry": {
         "location": {
-          "lat": 40.7584628,
-          "lng": -73.9812311
+          "lat": 40.7554202,
+          "lng": -73.98237759999999
         },
         "viewport": {
           "northeast": {
-            "lat": 40.7598502302915,
-            "lng": -73.9799732697085
+            "lat": 40.7569278302915,
+            "lng": -73.98094866970848
           },
           "southwest": {
-            "lat": 40.7571522697085,
-            "lng": -73.9826712302915
+            "lat": 40.7542298697085,
+            "lng": -73.98364663029149
           }
         }
       },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
-      "id": "babc287719ea7f1040992461dc4f7fc672beafd8",
-      "international_phone_number": "+1 212-730-1087",
-      "name": "Gap",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "a369de9949dd6cfba5785481cdf6928b3c7d2e46",
+      "international_phone_number": "+1 212-869-4400",
+      "name": "Royalton New York",
       "opening_hours": {
         "open_now": true,
         "periods": [
           {
-            "close": {
-              "day": 0,
-              "time": "2000"
-            },
             "open": {
               "day": 0,
-              "time": "1000"
-            }
-          },
-          {
-            "close": {
-              "day": 1,
-              "time": "2100"
-            },
-            "open": {
-              "day": 1,
-              "time": "0800"
-            }
-          },
-          {
-            "close": {
-              "day": 2,
-              "time": "2100"
-            },
-            "open": {
-              "day": 2,
-              "time": "0800"
-            }
-          },
-          {
-            "close": {
-              "day": 3,
-              "time": "2100"
-            },
-            "open": {
-              "day": 3,
-              "time": "0800"
-            }
-          },
-          {
-            "close": {
-              "day": 4,
-              "time": "2100"
-            },
-            "open": {
-              "day": 4,
-              "time": "0800"
-            }
-          },
-          {
-            "close": {
-              "day": 5,
-              "time": "2100"
-            },
-            "open": {
-              "day": 5,
-              "time": "0800"
-            }
-          },
-          {
-            "close": {
-              "day": 6,
-              "time": "2000"
-            },
-            "open": {
-              "day": 6,
-              "time": "1000"
+              "time": "0000"
             }
           }
         ],
         "weekday_text": [
-          "Monday: 8:00 AM – 9:00 PM",
-          "Tuesday: 8:00 AM – 9:00 PM",
-          "Wednesday: 8:00 AM – 9:00 PM",
-          "Thursday: 8:00 AM – 9:00 PM",
-          "Friday: 8:00 AM – 9:00 PM",
-          "Saturday: 10:00 AM – 8:00 PM",
-          "Sunday: 10:00 AM – 8:00 PM"
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
         ]
       },
       "photos": [
         {
-          "height": 3024,
+          "height": 3456,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117768608905090782733/photos\">anthony gopar</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
           ],
-          "photo_reference": "CmRaAAAAU8vhSYiNnOmSZ0VPSlwA0Wl1Vfn7vLYC8M_zNl31jkS0pAx6e4aIp-jWnZOvjBINHHrYmZDVffBu4o6HXQOG-j9Ytp-K--wt9VgEQTZ3r8bZhyx84JcXphTBgbzw5yH6EhAGaIFdGfmcZWoi8B9LFYsWGhRNm9ZZJnm92YsKzzXM-5qJwBivGw",
-          "width": 4032
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117768608905090782733/photos\">anthony gopar</a>"
-          ],
-          "photo_reference": "CmRaAAAAt4hTXgA-h3l4VsplS1liJTUdvUpizzXUosj186oz_6os-k_0VT487nKodmyRpkYFGP1EZ-3Nuf4xo00bADaijNpgXLTaPHmbZ4vCK5NFgqCzbqiHDpYQD5TVj0nqjXaqEhCLI5q9qQUPoktoXSGkKxqjGhThNOdEBSuLsIW5GoOsim5awGeTLA",
-          "width": 4032
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105087209971363617499/photos\">Marc Avila</a>"
-          ],
-          "photo_reference": "CmRaAAAA3h-O3K-61mJw4d0QOBXiQaVVWnuicPzEqR5-8nqeeFtS_vOMyM7L_t7q7hjBM3SsHzq7_Kiu-IpKBXwcglip8ZtqBwbJVzC4bXPsjpuIIVFFmjwoFdWZFx3R1z99TVinEhCVvi044B3V0g-mM6ot1j6SGhThzpsbSBzt7OYoVRIJwplOJws54g",
-          "width": 4032
-        },
-        {
-          "height": 2464,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107363106919756818879/photos\">eduardoj40</a>"
-          ],
-          "photo_reference": "CmRaAAAA8Jwdx6TulGZ4nIFYBuakmChLaIgpvlwtK-kqhnfqZ-EZSve1pY0uMyns4dd4gmnjO-xEEkfUBMPLytlh0Ttu2G83hk_eg1NfNh7nzRXSf4tdrsWTLYK33qrQWP65axo4EhA-47Xdwww65teD2jzqiQMdGhSnjbj_QpuX0o8sF8OYRd9G6BLbIw",
-          "width": 4421
-        },
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104807353243578127574/photos\">Robert Petrin</a>"
-          ],
-          "photo_reference": "CmRaAAAAx1l06N6SYcoWVRG9g3tfQA4vAaVgUjZGVsAZiTtIQ-0iTDPPcR4e93rsDbg7C7FryX1mnlVRnJTq8mc60tbHP6jFaXujm-ubyDV3ETJ_yDZc-4MoYQdOecGI0cD1phmSEhAwX8rOJw-fef0JhD1bSQl5GhQRmjG4lqupKq_svCtsHt7SIu01-Q",
-          "width": 5312
-        },
-        {
-          "height": 2448,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117768608905090782733/photos\">anthony gopar</a>"
-          ],
-          "photo_reference": "CmRaAAAA2nYHHmpyQ8hgMUYZ8FOnJNNnMCQU4uf6D4z60mFcR5YLMddTHCt9ntdpyEcuY-HKHz_FGfnPUpTFrTI9KGra2JZk4Q5NadfxECsCLr1prtzhY3UjxeZr5FAzb0RiePLoEhDLNV39UC-8C4kO8tTqmwFYGhTIPShedjnTAXrqJi5nXbMP8bj3Lw",
-          "width": 3196
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\">mamrak s</a>"
-          ],
-          "photo_reference": "CmRaAAAAaZguuOHIezDRCxDNX9lON2s662NhI30t5rLPCySI1S6KiVG5NXznJvGqv5Cz0OqMgUcGSBEKbM9NZ6_tEfM9ohXbTkj866ruOdvG7R_Z0g3ujQK8RXIJhw65umWcMaQQEhB3iAjnCanEopsaIcw4AC8eGhQvCg0ycaaIc-8TEnpPji_x9yDEpQ",
-          "width": 4032
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105087209971363617499/photos\">Marc Avila</a>"
-          ],
-          "photo_reference": "CmRaAAAAe1VavK24NGtMJwo_WMYz81ZfcQdB-vbHLrcz2aqWYUuysaDk7UlFD0CA7mdS0YW4oPK9HioWkupnCx8dO2g0ugHkb3mQlRV-OwhDuo6kbUsn5FGXayAVdnldgIuTGEhPEhAFnLdu8LxEl0G_QUeLnhHvGhS3k4g3zTUTuYyPIoaV0mMfDK9sjQ",
-          "width": 3024
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117768608905090782733/photos\">anthony gopar</a>"
-          ],
-          "photo_reference": "CmRaAAAAVTiNZQQ073Qb3llTcuGBMwGEh9qC1NQ5J6Iq3-M4iMaKNBiTpM3KAU9MoMaabyIG0nA5MJSHffLm3hMMwF3T8zSSlJsqlHrVFhh5bTo8u706h7i4pEC2ccfHE8PvQ7AKEhAvoMZRiI9YMuRL-JzYHErGGhQlBpEPHNj7hru187fUzGuEGfdmeQ",
-          "width": 3024
+          "photo_reference": "CmRaAAAA7qBwk6IoymRXx_QCLzfYqx9vtbhxOMQlsy6hNO4LOvpMdiM3SEkuBCI7h41IS8NK3U6DWHsn7p-FnOMib4eDwUirGgojd1BDx6m2J-YwkBVcLxNg6PbTLhlqpCHZo19TEhBdQaOg3Y1XY-k8NY6zIvvGGhT7BF9DxjsEEwIlduyNGo7WqrGT2g",
+          "width": 5184
         },
         {
           "height": 3456,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115591956106808335102/photos\">Vivek Khandelwal</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
           ],
-          "photo_reference": "CmRaAAAAStzrC1aJyq6HpqlacoTaqCzaLW6AUXXF0-8ydPY7O0gcKc4xONsHBNkf9FtPY2SysPEdlFOAks1ph5NvYm7wpX6r0_1q88jq9kMqA51_UNSr4Dc8b9aeumPfkIYf_vWsEhCvT17sc2_X5_lqrAACm_9dGhTs4mXSJfKuiXdvEYNfMmcYJ9jfYQ",
-          "width": 4608
+          "photo_reference": "CmRaAAAAA3oOIWGomaV_XLqts7TXy8KDz_VWDG8l5IbcZUxTEzxvBSwoJc8vYhzM9NMHI18tPHbJETnW7vQbqOKSc-0UEXT8LADB55wNfhwSjM4SvW6DfzH_BESndYaxOaXObvH2EhCjdH7PbgiqdSkt9cAtoos4GhTuwAjjKAflLHmNDCDU1l0W-6rt4g",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAa3A7XBL07HqIhVim4NJgMW4L_DMH5LGTMD_4aTIG7dBuwqm6KW3LT4PP3Y7WY_0fBXslfZr6LIy2iQ8G_UnCXmGkdCo-mArS615EB3hRWb0BlYrzNl0EScLk8Jv4P72BEhARpXwmERpZRGpvDrUHKdLTGhTNJcEeoC402sLK5x3qOHM05Rp9tQ",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAlhcd89NDrUPKohlPun7vROeZ2f-FvikUbr_GcweyvnBc1EgAmDj-T76emc06E-yEtTCF7gIHA6CN3SQ61dncuAoU9rx8refVM11hbeRc8112Key8xswKjbViDsal6mp6EhAlfEJOJqLIZ1ZLVZoiA1kiGhR2wULVvF6G0GFrDnLtL0p3lsgjMA",
+          "width": 5184
+        },
+        {
+          "height": 3271,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAlLK5GXD1j-UK-wY5B5y1fJIhEf7Iv36O5qcLIww1AsDvLt_mZNoNqq7RCVpDRsUkOE0fsmuv4bIydaNULEPZXnmNZk-wY_Ucj86ItBbnpu4ftZ_WCtxjByzVHPc_b7vFEhBG8DSKL3uTbxnWapOi8kBpGhQZtEvaOHBpzQ_YXrVUeqVYCh1RrA",
+          "width": 4906
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAdkswMQHk5m22nMhAKo9ATP92QMzGm9H5I821l_2vxTDVHBgoYVKSRXisTzrPr6GqzDZBisODrwEZlMCiGemdzPV-ZvBAAE7WJKLL8ahrV9no4cnZkp26oGI_mr1fN_4gEhA85kCa-ZkG1bfIX6pUiEelGhQizxrkFngoK40YkF5WqTEmFrVGTA",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAXlKTmF6E-8mKwAiMONw_RHhT4p9LKf0KxeV0Q9HkT3tuBlaEsAOPN7omDb3wmI0Ng3RWBNtavUfN6SWzU3Soi2S7l4Wzj8LDVT48ToVz5D5cxhLvr6iETkDFM7LcPRAjEhCWY4_KBUcgig05krlflL7mGhTXxucYsbkdN9gcDet88SyBOn2OIQ",
+          "width": 5184
+        },
+        {
+          "height": 3400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA_8Zb6fEx5ro1SdPr3Y-eipj0gypLO68hV1br_3Cbz2SSfth4cpC1lGBxvGvho7dgjbK2LBlEjpSgFX4Q-R-0lrDzSEl9D8c4co9xEQU3hBGnCc5tqjL46ABMOOQyerUrEhARZ-2Rt0ItiOa1bCxGDPXvGhSaoJRsz-pV8n0fvD9Hvxp_Qq1ACw",
+          "width": 5100
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA72L9zd8Dlca27wlDcsjnbgaKJWhdllNN4JYdRfi7RUuYaPvR3_nLclYAhAgzdt61ubjx2ixxfPQFL_JgjaVq1iZk44fzOOm97nADwlEh3T1geHbqsr54qyTTPs-mjgy2EhDNufEqTAADuJXXIVr_yabEGhTtjxfum2h4u3BnX8ZI-Jv7tb4YAQ",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113220422812727181278/photos\">Royalton New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAAutCIFGmWkRsXQ6fTAVhpFtpJK5YNYHRk_Ef2UTDkrP8cPHwP4XERjz1TYFACN90mqtmiRtAkpuiKhl6S6ggbpS22SOgOrj6f8UbODmbCpug4Bp4nuvCJNfPlzmuam4ZEhBaPAySBugRnOXv3y_0P04tGhTX6XlX4WK8sQo56p_I-QxZ_mrIRQ",
+          "width": 5184
         }
       ],
-      "place_id": "ChIJU-vWFP9YwokRrVzm0qa5YLg",
+      "place_id": "ChIJpSMN7_9YwokRkCnu6yqV-Rk",
       "plus_code": {
-        "compound_code": "Q259+9G New York, United States",
-        "global_code": "87G8Q259+9G"
+        "compound_code": "Q249+52 New York, United States",
+        "global_code": "87G8Q249+52"
       },
-      "price_level": 2,
+      "price_level": 3,
       "rating": 4.1,
-      "reference": "CmRSAAAADYUExOnGWgjRuuo5vtG77lZjCfGaG1DrFcSinaTOmEC8zqiLa-K_Z05l5tKOwfcZMJAFqQM2VLdw0N2432mSEupimDiYfwKk--5XYr9gYzTWbivw_lOC25_V_g-g-a-5EhD_NkwtBrUUZT4yIPARW74DGhRvoZ1aPluQSljDoaUm9T-qCGjdpQ",
+      "reference": "CmRRAAAA7O4LtTFw-mMt1DrPQtS9z8AJO794ASHpzQir_6wmoQC1catCC7yV-3PlLcmEuQmf0HTR14XqdSX-oCdFwCaqY8U8IOytLMMA7Cae58N3fySYopT8vOWtqqKl4MmGg15OEhAJ3UoaotzUZ5pFUH79RPGRGhTngjEDo6FDG4D8Ta59_7J-tcSgSw",
       "reviews": [
         {
-          "author_name": "cheyenne graham",
-          "author_url": "https://www.google.com/maps/contrib/111511400948759612700/reviews",
+          "author_name": "Sherrine Dunn",
+          "author_url": "https://www.google.com/maps/contrib/111513103448140851285/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.googleusercontent.com/-rp09pxaaRPo/AAAAAAAAAAI/AAAAAAAAAC0/Bo0T_jELuV0/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
+          "profile_photo_url": "https://lh5.googleusercontent.com/-udPQEkvdV60/AAAAAAAAAAI/AAAAAAAALS8/naSLMn6xPSM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Decent size room. Like the sofa as additional seating in the room. Bathroom was clean but had a slight odor.\n\nReally liked the dark and cozy atmosphere in the lobby.  Service was good. Location is great and very accessible to subway and major attractions.",
+          "time": 1531012807
+        },
+        {
+          "author_name": "Alex Fitz-Gerald",
+          "author_url": "https://www.google.com/maps/contrib/104002459157860256736/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-enG6ee7Q8jI/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMrODFKRfzDd9hY32moufSXN-orXA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "This was a nice place. I felt the rooms were just the right size. The bathroom was much larger than other reviews led me to believe. Everyone here was very helpful and nice and it is walking distance to grand central station and times square.",
+          "time": 1532868049
+        },
+        {
+          "author_name": "Lorena Ascolani",
+          "author_url": "https://www.google.com/maps/contrib/110248989435239586439/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-0hJLiRr5wbU/AAAAAAAAAAI/AAAAAAAAAEY/bU21-fBYf0E/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 1,
           "relative_time_description": "3 weeks ago",
-          "text": "There were some great sales. Also I was struggling to find my size and an employee named Natasha went above and beyond looking for my size. It's hard to get that great if service.",
-          "time": 1532447211
+          "text": "I had the most awful experience here yesterday. \nI’m on vacation in NY and decided to meet here for drinks. I accidentally left my husbands credit card there after paying. I came back 45 minutes to an hour to pick it up. \nI didn’t have my husbands ID on me but I figured since I was just there this wouldn’t be a problem at all. Even after the waiter vouched for me and remembered me it took 3 different male managers to ask me what “the situation was”.  I  want to point out that even the waiter was shocked with the managements treatment towards me. The rooms division manager Eliot foster was extremely rude to me when resolving this. The whole thing felt very racist and it was embarrassing and awful. Never want to go back there ever again.",
+          "time": 1533640810
         },
         {
-          "author_name": "Marc Avila",
-          "author_url": "https://www.google.com/maps/contrib/105087209971363617499/reviews",
+          "author_name": "jummy akintomide",
+          "author_url": "https://www.google.com/maps/contrib/102539263283001272238/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.googleusercontent.com/-UbNj1JoPe0E/AAAAAAAAAAI/AAAAAAAAAY8/hA06hmZ8Ur0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-CemWzVEsdd4/AAAAAAAAAAI/AAAAAAAABsQ/x2cK-6xwnpY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
           "rating": 3,
-          "relative_time_description": "3 months ago",
-          "text": "There is nothing about this GAP that makes it any different from a typical GAP experience in other parts of the city. They do have a clearance section downstairs which is cool. And their window displays give me a view of what is likely to be considered currently fashionable. It’s worth a visit if you’re looking for an archetypal GAP experience, particularly if you happen to be visiting Rockefeller Center.",
-          "time": 1525634243
+          "relative_time_description": "in the last week",
+          "text": "Was a bit disappointed as i came here for my bday. Not sure if maybe it's because i used hotel tonight but the room we had was small and dingy. Nothing like any of the pictures i saw. Bathroom was dusty and rusty. And i was glad we were there for a quick stay. My sis put a towel on the bed because she didn't want to touch it. On the flip side the staff was very helpful and friendly. I don't know that i would stay there again but i would come to the lounge for drinks.",
+          "time": 1535400139
         },
         {
-          "author_name": "Tinamarie Giovanni",
-          "author_url": "https://www.google.com/maps/contrib/114501147750959610542/reviews",
+          "author_name": "Joe Considine",
+          "author_url": "https://www.google.com/maps/contrib/102546051084476061885/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.googleusercontent.com/-vDlKGG20Gec/AAAAAAAAAAI/AAAAAAAADjw/TBF499xOyYI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "a month ago",
-          "text": "I got some back to school shirts 4 my 14 yr old niece here on sale...thicker than an average tshirt, with sleeves u can roll up n look stylish for 40% off...not bad...",
-          "time": 1532146292
-        },
-        {
-          "author_name": "Carmen Rodríguez",
-          "author_url": "https://www.google.com/maps/contrib/114747332234988160076/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.googleusercontent.com/-0sJjTdx-omc/AAAAAAAAAAI/AAAAAAAAAB0/_4VbmTmtaN8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-0AW19Y8HFdU/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMgbAm3JXQ31baYuKeZYs50gEMdCw/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Nice place and shirts on sale. I got 3 lovely shirts at a really good price",
-          "time": 1531684189
-        },
-        {
-          "author_name": "ivan casella",
-          "author_url": "https://www.google.com/maps/contrib/111560373463036719530/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.googleusercontent.com/-LB5n9G2-nuI/AAAAAAAAAAI/AAAAAAAAAAA/qtoeGQ9qePY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 2,
-          "relative_time_description": "4 weeks ago",
-          "text": "There are not all sizes, specially of the best clothes (Star Wars, Marvels etc), and the customer service usually is not attentive and helpful",
-          "time": 1532349926
+          "relative_time_description": "3 months ago",
+          "text": "This is second stay here after a couple of years. Great location to be an Englishman abroad. Suite was clean & tidy with plenty of space. Staff were engaging & polite at all times. We are really glad that came back (stayed in one of “brands” for four days prior to arrival & not a patch on the Royalton). Rates were good & cannot fault value for money. It you want a great boutique experience, you will enjoy this place.",
+          "time": 1527698336
         }
       ],
       "scope": "GOOGLE",
       "types": [
-        "clothing_store",
-        "store",
+        "lodging",
         "point_of_interest",
         "establishment"
       ],
-      "url": "https://maps.google.com/?cid=13285823026896985261",
+      "url": "https://maps.google.com/?cid=1871691131728570768",
       "utc_offset": -240,
-      "vicinity": "1212 6th Avenue, New York",
-      "website": "https://www.gap.com/products/new-york-ny-store-7232.jsp?tid=gpss000001"
+      "vicinity": "44 West 44th Street, New York",
+      "website": "http://www.royaltonhotel.com/"
     }
+  },
+  "image": {
+    "name": "Royalton New York",
+    "file_name": "Royalton New York",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044201/2017-08-31.png",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-08-29-044201",
+    "file_type": "image/jpeg",
+    "width": 1400,
+    "height": 934,
+    "file_size": 2072614,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044201/large_2017-08-31.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044201/medium_2017-08-31.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044201/small_2017-08-31.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044201/xsmall_2017-08-31.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044201/thumb_2017-08-31.png"
   }
 }

@@ -1,35 +1,302 @@
 {
-  "name": "Express",
+  "name": "Comfort Inn Times Square West",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7585309,
-  "longitude": -73.9748939,
+  "latitude": 40.7595,
+  "longitude": -73.990719,
   "description": null,
+  "photo_reference": "CmRaAAAA9ebtNceNBYuwlONwDoxcSsoXtR1KKlrOA5hkwX_S36vhR0ROSRhqeI0XDdjspVYzFupEJrI2JEKhVl-646y5k2L2f7Vw96mkdUVpZIInnvpZ-rG0THu4yYitVvtq4MjSEhC-EQ1ptaCtIbhK0oYMDeB5GhQ5v_O6BluSBNYUqbewu4xo82Jm9A",
+  "location": {
+    "latitude": 40.7595,
+    "longitude": -73.990719,
+    "vicinity": "343 West 44th Street, New York",
+    "place_id": "ChIJqwmGhlVYwokRugWRyD4-Wb8",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "343",
+          "short_name": "343",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 44th Street",
+          "short_name": "W 44th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5402",
+          "short_name": "5402",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">343 W 44th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-5402</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "343 W 44th St, New York, NY 10036, USA",
+      "formatted_phone_number": "(520) 505-2362",
+      "geometry": {
+        "location": {
+          "lat": 40.7595,
+          "lng": -73.990719
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7607822802915,
+            "lng": -73.98941861970849
+          },
+          "southwest": {
+            "lat": 40.7580843197085,
+            "lng": -73.9921165802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "a0d0644d79506bf05bc9516ff196692aa3c2ba1d",
+      "international_phone_number": "+1 520-505-2362",
+      "name": "Comfort Inn Times Square West",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAAW267oIb1T4AuBSDLOJfAb6PkSk9dr6lG7GdE_WTbHLkUPNQl6ywBIOXIU5sCl0CvPRFypiR4NCw2B8q1RZd1zAXr7EP_Pa4ln5jP8PbikrR8o0k1352JHtU7_q3ABBaxEhCu0gLBuO_WI6mAFOByJJmVGhQs1yfzb7te8IJk7nKfyRO9QuNcug",
+          "width": 500
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAAHYsU1VNrWpCP5bXw9egYJqF74IV0PHmjD6ujLwHfoOmEyRSwF9BlwwjCnOI4Du-wHvuWB7LfYijFvVlm8kywzicPJwtZ3-stKhiZ-b-AdHXCrXetixD7kAC8YEYPR29zEhCkhG8etxLHsbo-hOY9_JxtGhT9bvTrWyr83lgQYR9VjdrZjeP_Ug",
+          "width": 2048
+        },
+        {
+          "height": 2952,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116125922137140294397/photos\">Rudi Bester</a>"
+          ],
+          "photo_reference": "CmRaAAAAQMjtGCAlKK6aVxKVRUSNuo4k00x5H39APUuRmGH-f7mY5goBtZjxnGdNepz_Kb4UWu2RNVKDv2Bw2ZXLxtehloqYLLSdJCCb0EOn1FAnuZIqAOtKJhdTy5g3TJqwyKD8EhC29C3il1dW3sJaLqS6DcAnGhRbV0VX2YeoGEU7uL-tzJ0oiz5Zaw",
+          "width": 5248
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAAfPQBTaxb8A2MK0ns3W3bkvUfhGm6DNvuo8klghXhFI-ihK5cvVOqxA_OhC36lCzQVDa0Gd8eBtDv1PRefsEUuUPPZMwj75hEifU-PU74168n-gnIk1KgbhLq4RQp6NNSEhAVf7oa90-kR4KBmy68Dzh1GhTSiJ7xAqCTW36NGnvKll1CDBK5hQ",
+          "width": 2048
+        },
+        {
+          "height": 759,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAA03OgGZDpIsBQZO7s8XiB8mwVmuI5B6yTyDXt8r4pdVNa-IrSZgs3HsflQGDYaAdWYyUOFwWYLC6OdYKQUGAkFc-5vKrKfu6-_dfwJs6ofXpIubczau76mdgPFD4hNuKNEhCWxQLcTGbxtDqsfNaVUzQDGhSQP1uJ4mzQIq7s5zIsg1z37BnjTQ",
+          "width": 1350
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAABkERfybHZ3L96bEYS6ioeHwNkqEg1VD81D9_TrsF1IDZxdJVPfcy54ptC2DCEr9xHcmvbVSiWi9Y4GwqnSzwCgMTv_SEaX99Kcjjlajtjy5oOxMHWQnPJonE0h4c6VdkEhCCVq1EAR95DuGeUAfKiz4xGhSZ7HdJLXwEt5Owo_L2jwKtiS7z_Q",
+          "width": 2048
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAACqYQV9Ngn1CH-E8PwxanmC8UpdmNsPnyLysb7_7yF7dkWzLeA7-rJrlovS5vVK9Agnl4Xs5pE1TZbA9cACeUUibdMccic47458v9_MPtYYFpafPNd8n9eza-pAMYa9kjEhA7camxL49O2dFm0rirMmVhGhRSTIkyf2UPZ3AfGU-8hUGbykFJ4w",
+          "width": 2048
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAAf-4-7DuREE8UsvI71uQ-6G-wA973-63pAyiBOkov4nJeBujxwpqwi8Ge6ThgG6ibXAHwWy8K2vnqSk0SmeTfzzQeKA_CFyMKhakfeFg4GMqIO3H0pHQg3kHpj7GrEPxzEhBWrkD7tPjSUp03NJPXNsK-GhS6cpQBpok6MSkLoQyqy4h4iWatiA",
+          "width": 2048
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAAItmv9PJZh1990yirzQofdxCdwb8vjl6yCdFYOKyOARsWvUXowQUBGWyujmNxOuYqWaps2B_KiMXahGncsDNeawtsJeBVOUvX7emtVvDtZHg4I-CVorOke-ORo9Z7qXFFEhBHA-3MiRE-h5gqzYQLO571GhTdLQ1Rlt35PEhcxjLx1Bf8BO4DcQ",
+          "width": 1350
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118202635702697024192/photos\">Comfort Inn Times Square West</a>"
+          ],
+          "photo_reference": "CmRaAAAAyyv7NLnhu3JT1WEpb2VfGmfp6YT3FTo9vSN4VvnXpDZLv0xaIL6v4hueSQNZXeaSlZnd_-enI9mI7GNlLcCuGryRotOaQ-lzvOCjwYZRJtCsoFIPp3X2vDpEjVneJTt5EhA7WgnwTprFjAYOA7wZ_xgHGhSPHIQOYyAcbcQsx3cRHV1y-FLc1w",
+          "width": 1350
+        }
+      ],
+      "place_id": "ChIJqwmGhlVYwokRugWRyD4-Wb8",
+      "plus_code": {
+        "compound_code": "Q255+RP New York, United States",
+        "global_code": "87G8Q255+RP"
+      },
+      "rating": 3.8,
+      "reference": "CmRSAAAA26tsBLE2utYCthNRZ2L8A9xX3O3yaQ5a_Ee7-RmXxWS-LQUqCaIufqZjvTH--TRHrhk4STi7Ef1-uiiv-MwutqS_HfagwDPV1tsO4qd2OLUrlL3W9RoZdB33abO_Jp39EhAKNhyiehoiTcdIxsw-uqMWGhR73P6aZAAb5jjNyAx2YfVLKg7UxQ",
+      "reviews": [
+        {
+          "author_name": "Caitlin Hayes",
+          "author_url": "https://www.google.com/maps/contrib/109731191239482270348/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-dGrAmqrptec/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOs9RN4vIKYKiZzvlqWcI8jYGbYmw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "I have stayed at this hotel twice now. The staff is wonderful. The rooms are clean. The location is ideal. Recently 6 of us got to NYC around 11:30 am and the staff allowed us to check into both rooms early. Not only were we able to check in early, but the next day we wanted to check out but still stay in the city for a while. The staff had a room that we could keep our bags so that we could site see. The breakfast was wonderful as well. The rooms were very clean. I would highly recommend this hotel to anyone coming to stay near Times Square.",
+          "time": 1533143070
+        },
+        {
+          "author_name": "Jackson Lee",
+          "author_url": "https://www.google.com/maps/contrib/114183076265484454781/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-kxvXgdxCunA/AAAAAAAAAAI/AAAAAAAAAEU/rfmF9oFCSbk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "I recommend this hotel to anyone who is here to see a lot of broadway shows. It was very convenient to stop by our room before shows. The rooms were small (which is common around Times Square), but they made as much space as possible. Breakfasts were good and well-stocked. The staff was very friendly and helpful.",
+          "time": 1532710592
+        },
+        {
+          "author_name": "Monique Toi",
+          "author_url": "https://www.google.com/maps/contrib/103063005558899665742/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-xy7epHp113M/AAAAAAAAAAI/AAAAAAAAACo/l4y-XciZ7I4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 months ago",
+          "text": "I would definitely return to this hotel.  The staff was extremely friendly and the location was great.  I went to the hotel to see if I could leave my luggage at the front desk until check in time.  I was extremely surprised to find out I was able to check into my room at 11 AM instead of the 3 PM. The room was nicely decorated.  The bed was very comfortable to sleep in. The bathroom was a little small. There wasn’t too much space between the door, toilet and tub.  There were great variety in the breakfast and an abundance in quantity.  All in all, I enjoyed my stay here.",
+          "time": 1529869000
+        },
+        {
+          "author_name": "Cliff Abeles",
+          "author_url": "https://www.google.com/maps/contrib/115940121939057623422/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-IwZMeNE65iQ/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPv19FaTqu9zoUNSbW3fiNg-9w2YQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "Excellent value. The hotel was clean. The staff was friendly. Nice to have breakfast included to get you started in the morning. Location is great. Subway station is down the street and Times Square is just a couple of blocks away. If you are looking for a basic and affordable hotel in Manhattan this is a very good option.",
+          "time": 1528976092
+        },
+        {
+          "author_name": "Gus M",
+          "author_url": "https://www.google.com/maps/contrib/111235472837800716557/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-pmfZ-0BFZdo/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNBvbJ3-jtJ1E_nwwLReGmjgUZ9uw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "2 weeks ago",
+          "text": "Reasonably priced right in the theater district.  It is what it is. Clean rooms. Yes they are small but if you want luxury, there's a 5 star hotel 500 feet away. You'll pay triple and still get a bed, bath and t.v..",
+          "time": 1534216101
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=13788120173545326010",
+      "utc_offset": -240,
+      "vicinity": "343 West 44th Street, New York",
+      "website": "https://www.choicehotels.com/new-york/new-york/comfort-inn-hotels/ny464?source=gyxt"
+    }
+  },
   "image": {
-    "name": "Express",
-    "file_name": "Express",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/2016-12-12.png",
+    "name": "Comfort Inn Times Square West",
+    "file_name": "Comfort Inn Times Square West",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044445/profile_picture.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032351",
+    "date_added": "2018-08-29-044445",
     "file_type": "image/jpeg",
-    "width": 1200,
-    "height": 1600,
-    "file_size": 2291443,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/large_2016-12-12.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/medium_2016-12-12.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/small_2016-12-12.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/xsmall_2016-12-12.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032351/thumb_2016-12-12.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9748939,
-    "vicinity": "477 Madison Ave, New York",
-    "place_id": "ChIJcRHhe_xYwokRciDc-jsZywA"
+    "width": 500,
+    "height": 500,
+    "file_size": 400026,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044445/large_profile_picture.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044445/medium_profile_picture.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044445/small_profile_picture.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044445/xsmall_profile_picture.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044445/thumb_profile_picture.png"
   }
 }

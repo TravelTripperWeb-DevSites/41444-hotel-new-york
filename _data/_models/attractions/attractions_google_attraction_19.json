@@ -1,35 +1,295 @@
 {
-  "name": "Superdry™",
+  "name": "Crowne Plaza Times Square Manhattan",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7493924,
-  "longitude": -73.98608569999999,
+  "latitude": 40.76061099999999,
+  "longitude": -73.9850757,
   "description": null,
+  "photo_reference": "CmRaAAAAW1_AU_G08OsDdRILrt9T7Ma1pREDXcYRNR_J4caz4Sg9U7aOZIQpXmvnEUDfRgX3ZAQgRBcQZcg-lmDVMNfsXFfFa4_U6cTHIMcwsSKlke2_5ixrhr5IRgmRi6qs1_6qEhATHuoc48Bn7S5I-RVfPilqGhSw6drIXtZMeLDUQLuFzU3TQWFsDg",
+  "location": {
+    "latitude": 40.76061099999999,
+    "longitude": -73.9850757,
+    "vicinity": "1605 Broadway, New York",
+    "place_id": "ChIJP79nc1ZYwokRkfeUgsDBspQ",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "1605",
+          "short_name": "1605",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Broadway",
+          "short_name": "Broadway",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10019",
+          "short_name": "10019",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">1605 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "1605 Broadway, New York, NY 10019, USA",
+      "formatted_phone_number": "(212) 977-4000",
+      "geometry": {
+        "location": {
+          "lat": 40.76061099999999,
+          "lng": -73.9850757
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7620550802915,
+            "lng": -73.98376711970849
+          },
+          "southwest": {
+            "lat": 40.7593571197085,
+            "lng": -73.9864650802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "0f3ca129f753c8271835a9c71aeed31053f5b65e",
+      "international_phone_number": "+1 212-977-4000",
+      "name": "Crowne Plaza Times Square Manhattan",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 1990,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAANvwjvXKX0J-L8jHetmqpB76tbWzw5lHTvs2Ux7VaR01yclW9MvV0im2FmpODolsyQiS2qaKptKwuf8he5tycu-4ZMU-5_rIOKG9PYSeOk04Xsjqwkob6lmvCWr5qy0eXEhDnm6nhb0qFaHxcWMKLi8khGhQtJV2IFE7AAPRoe_yyLJApOPJavg",
+          "width": 3001
+        },
+        {
+          "height": 638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAUxfAjwLHZOQk1XwrKB0fcytcNFCi71C_6eTjqUKWjI9Fr6b3haGU5ZzZ85y59yRgrjWmj5GDgMMF1fv3_2Nyi2afwp2zFcv4gm-zp4a4t5bdBHH1oHMROvWSgqpfCFBWEhBxqkTYPoYF1rKcbxWTL9FIGhQDKlJEqFHQFn1KhYD-YmExKYRcFA",
+          "width": 990
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAA_VnDG6d5pri56Qo6g6iY5CDAhP10DaIhf2M0gT7whDyOmMYd7NHuBNGWJMMbAnR1I_32AenlwJqNLv2W0XusKkhGXpkF2TjiWD280wWokdWUH8qeEtnJURq6Pa4UkzeIEhBnWZySXfvQd_0w1jWm7cEKGhT4tD0QMo9Fots0TW-yUSpu2u3_Dw",
+          "width": 4000
+        },
+        {
+          "height": 597,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAeiZLqw2-fdtYCLUPpbHwodcmtQL1kPefy5Boahz7SBxybMXVbCsf3pd5IRDkYt9jJ7E3UIiCwPsXWJZwjeon_FoTOSeFRbWQ9Mn21rqq-uNWWctynIgzx9whx1_bJzthEhBud_n9BIouxm0tcl09MkCEGhTw3GFlMQQsDsM_UF3ATOIZfPMUyw",
+          "width": 898
+        },
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAIjmcSxME3Ul8bv89mBcfhL2tSTQl1EbLKrmGuDHcaaCv0POjek2_-hYcyTlQnQv9S_0vqbjwfEf1mrcygJOFTlpVwmKZVDyRT37XCkc9NG8VbCdWjwdVixt2NDYPtG_JEhAzhnzJ9YITy6uUQP0XB0guGhQGXGJdyMbaexpEh2VG_sYqAfueZQ",
+          "width": 1600
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAe9utcmv6mxduQ2WzQ5_-gnp3umPDNhMd5g4RhHw3IO975xWVXmKHzBw1WadgIow84XybE__V6apjLL-VFLsxaKhUcJ7rZyRYn4nOXGy5DOxJbd2xUDU7-WJkN1bKe1NzEhAPW4QGA0c_zXJ53pkJGMxUGhTHy9wfb1xw4rIULm1elQwFQJSJCQ",
+          "width": 4000
+        },
+        {
+          "height": 1070,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAA--m_Twxrp5TyOBUhAI12xsb_-7HwJTA1uDCh4p4mKq0p9N5cJrKtvNJx0T_BdgBeG2cmKINrPCAzeJ7YiaA8fHnljlIDZO8KmQvocrC4RszbcVcSGuxxNmwbKu-8KtPTEhBBGRcegXwKcSHjZ7qSet0-GhQ4ar3VF6OKI3i-JQeMngjqMtubdw",
+          "width": 1600
+        },
+        {
+          "height": 594,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAMh0XXvv2kIjbA637zDHFlPwMKewKTxycgPWE5H1W7LmjBI3i_Vkg5oEncuBFU7ruTgT7_ev6C6ux-8jguMd8Bq4AfuGeS17PuCANdKwVGDZrROMEzQgC1Y2ChiSz3vNsEhCauDH9R00Kf0jld359Qq8RGhSAeMrLK4jUvTy3q8dz75r201oHuQ",
+          "width": 931
+        },
+        {
+          "height": 2667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAhh8ms7abXJtjmRyguCA1SvCeim9oFYUXn4hD4Gd3cJhN-BIoF9WPeUL6ntwmwIapU0OX6ZpmACnMvKxkpUIADeGyhQZL0NkNwm0p0bs338rXK_wxFzK6nADCbO0HqgfTEhC3dX39TVRN1Z7uL8ogLyQJGhQBwfcgPsVCIdvJX9jhTTOd5V07Zg",
+          "width": 4000
+        },
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109258798045815477078/photos\">Crowne Plaza Times Square Manhattan</a>"
+          ],
+          "photo_reference": "CmRaAAAAO1Pt7al3zJX3ss-YXWEhq7MgCSgPCqaD86xMyfJFVNg8eIXYVDHTNXtF1piWWMpu_GWClEAsmo25rVxBwAwOTqpryeMAYF3tkjXGlE5Qwow_uWIunF0KCYWOZLVSBpavEhBTesqH7rlPjsM4fhsKaS3OGhSnPQqH6xdUaQnHvudL7koPRPZXbA",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJP79nc1ZYwokRkfeUgsDBspQ",
+      "plus_code": {
+        "compound_code": "Q267+6X New York, United States",
+        "global_code": "87G8Q267+6X"
+      },
+      "rating": 4.2,
+      "reference": "CmRSAAAAozHqL6YW1U_zn-3UTvKhShfEGR5jEaT5T6sXJDzUkbRNgfmMqgLwBC2zCcUsmRDCVoCxk5djcyF98Izo3YJ73r3e8tkOsmVt6dWdri7PZjumEYN7Nb09VlJzFH7QXhJ_EhBiGRUomTMPnXfPTTOJf4eOGhRwF11kei0mSohiErl_M36KmpvFyw",
+      "reviews": [
+        {
+          "author_name": "Autumn Goulding",
+          "author_url": "https://www.google.com/maps/contrib/116497415397774531137/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-jF5CIxkWcmo/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMwbXqkJwHR9lLg-WBTmpUREWwhGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "This place is amazing! Me and my family went on a wonderful trip to New York as my mum is from Long Island, and this exceededmy expectations by miles. It was in an incredible location with great views, fantastic food and lovely people who are always happy to help. The person at the front desk helped us with our bags and went out of her way to make sure we were pleased. The only thing that was disappointed is we asked for a trundle bed to be put out whilst we were out for a couple hours, but when we got back they weren’t there and we had to call. Other then that, a great stay.",
+          "time": 1533242907
+        },
+        {
+          "author_name": "Adriel Michelle B",
+          "author_url": "https://www.google.com/maps/contrib/113060278965928870472/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-K5AJF31j6dI/AAAAAAAAAAI/AAAAAAAACA4/1VGYWOZQN-o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "I stayed at this hotel for a family trip my fiancé and I had. The customer service was beyond my expectations. I expected it to be good but it was more than that. At check-in a fella named Isaac was extremely kind! He made sure that we were comfortable with our room being on the highest floor due to some people not being fond of heights. Explained where everything we needed in the hotel was thoroughly. Going that extra mile really made me feel welcomed and comfortable. \n\nThe room was beautiful and very clean, I didn’t have anything to complain about considering that I’ve traveled a lot and stayed in a few hotels when traveling this is my top 5 favorite! \n\nThe food at breakfast was amazing! During check out we also had a lovely encounter with a wonderful woman by the name of Victoria! She also made sure we enjoyed our stay and made great conversation. It’s all about a warm welcome and a fond farewell they provided just that. \n\nThank you again so much for being so accommodating!",
+          "time": 1532188128
+        },
+        {
+          "author_name": "Isabelle Tran",
+          "author_url": "https://www.google.com/maps/contrib/107301438362214008475/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-WpV1g6FUJTs/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaNIcS0DmO5lnMcINT4GY95sMaiJCw/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 weeks ago",
+          "text": "Rooms were great - the size was comfortable, beds, beds were large, recently refurbished so it’s modern, and has all your basic amenities. Only thing it doesn’t have is a mini fridge. \n\nSelected a room on a high floor and the view is stunning, including being able to see the hustle and bustle of Times Square below. \n\nPrices are reasonable for its location. Overall, it’s a good place for value.",
+          "time": 1533440951
+        },
+        {
+          "author_name": "Roxanne Keller",
+          "author_url": "https://www.google.com/maps/contrib/111679423284379902481/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-uTu3876gU4g/AAAAAAAAAAI/AAAAAAAAAQo/jbRlT2PbnR4/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a week ago",
+          "text": "I love this place. I felt like my family and I were underdressed but we were treated with as much respect as anyone else. The room had great views as did the hallways. The carpet was fabulous as were the beds. I slept like a baby. The breakfast buffet was to die for, it was the best breakfast I’ve had in my life. There was your usual staples, amazing fruit, and great juice. I’d go there again if I could afford it.",
+          "time": 1534713433
+        },
+        {
+          "author_name": "Seán Ó Gallchobhair",
+          "author_url": "https://www.google.com/maps/contrib/115923131242719612370/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-wpzNZrGeDds/AAAAAAAAAAI/AAAAAAAABJw/-YzlWlJVpgY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a week ago",
+          "text": "Lovely hotel located right in the centre of Manhattan. The food at breakfast isn’t that nice but the service is good. Manager in the bar (Karim I think?)  was very unfriendly but the rest of the staff were lovely. Handy water bottle filling station next to the reception restrooms.",
+          "time": 1534524351
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=10714839496036513681",
+      "utc_offset": -240,
+      "vicinity": "1605 Broadway, New York",
+      "website": "https://www.ihg.com/crowneplaza/hotels/us/en/new-york/nycmh/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-US-_-NYCMH"
+    }
+  },
   "image": {
-    "name": "Superdry™",
-    "file_name": "Superdry™",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/2018-04-28.png",
+    "name": "Crowne Plaza Times Square Manhattan",
+    "file_name": "Crowne Plaza Times Square Manhattan",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045643/unnamed.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-033615",
+    "date_added": "2018-08-29-045643",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 1050,
-    "file_size": 1487317,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/large_2018-04-28.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/medium_2018-04-28.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/small_2018-04-28.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/xsmall_2018-04-28.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033615/thumb_2018-04-28.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.98608569999999,
-    "vicinity": "21-25 W 34th St, New York",
-    "place_id": "ChIJ6cHAdKlZwokRz-_LnrfX5wU"
+    "height": 928,
+    "file_size": 2177231,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045643/large_unnamed.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045643/medium_unnamed.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045643/small_unnamed.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045643/xsmall_unnamed.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045643/thumb_unnamed.png"
   }
 }

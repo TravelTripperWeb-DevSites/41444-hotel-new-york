@@ -1,35 +1,295 @@
 {
-  "name": "Aéropostale",
+  "name": "The Time New York",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7491669,
-  "longitude": -73.9891134,
+  "latitude": 40.760978,
+  "longitude": -73.985501,
   "description": null,
+  "photo_reference": "CmRaAAAAn8G_oLmmIJfGNFrsTTy9OawmHwEVuAnkM8hb5wOcR61Ho1iatlZxkvYMFXq1E9u8GOixsvM50Ph2UJJpZGdgeaFLdP7tMJl_Vf5ldLfRs-wdDJTiF7PUhv6IPIi2skf2EhBlh1qPtvab8nZLs2WVN0hvGhT8Mr00EF3zmqLSdzMfXSPhEm7QJQ",
+  "location": {
+    "latitude": 40.760978,
+    "longitude": -73.985501,
+    "vicinity": "224 West 49th Street, New York",
+    "place_id": "ChIJGSNzZVZYwokRJWw6Ji1jta0",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "224",
+          "short_name": "224",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 49th Street",
+          "short_name": "W 49th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10019",
+          "short_name": "10019",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">224 W 49th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "224 W 49th St, New York, NY 10019, USA",
+      "formatted_phone_number": "(212) 246-5252",
+      "geometry": {
+        "location": {
+          "lat": 40.760978,
+          "lng": -73.985501
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7624120802915,
+            "lng": -73.9840731197085
+          },
+          "southwest": {
+            "lat": 40.7597141197085,
+            "lng": -73.9867710802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "a7160671eba571bfcb30c5d44174e519e252281f",
+      "international_phone_number": "+1 212-246-5252",
+      "name": "The Time New York",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 2574,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAsER7rlHgvmm24w3g3rqsuam9IGnSlTTRcH72Wp1rn5wEr8KjgHI-H9nc8nT50_MBk0JCWHPV5qMI9YpUEMiOXs6G2ufaHGFVnyrGZkYo97Q5mbg7oyfdzwlUNxvAr8WbEhB_wXuo95AVyjCaS5inO6aiGhTStROCpLPyxTGj761UePgc22GiwA",
+          "width": 4372
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA9ZKh7gCA8iljdpAYhSFca9g3OXiGgysgQhSbdmKylqOhizVdyOfz06ZqJzdgdwOTeL2Z74O3iTH4xSc2p5rzbrGqstCA_yolSD3oOMSlHJSpFyoqGpo8tySJJwpGxb53EhDr8T2CnmrjVC1HEG1hjH4JGhSYpHrobpEp391u46PZpoNXtNiqXA",
+          "width": 1051
+        },
+        {
+          "height": 654,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAHfYP_61JMwbK5Y25xmUrjYUYD3r1IySBUxXJCTGZ1eabaLuZvWy8EtCXcaijmyeov_yfuc-yjNV_clWdNM3m4nq9ZJ8qewJJ6cPFgcXoq6zEFHNdSVGkLs_GrnJ764L7EhD2KafwlW-ZMpez1QJXO086GhSGJ6o5BYx9UjijJJ2-wByUnnzh4g",
+          "width": 980
+        },
+        {
+          "height": 654,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAJtjVOyqB9b3PVdsi6jv5plz2hMHdjtBzjWzWP3z7oKmJpc7jDoWdI2B09igqyYB6XcUMEpsMmdUVOUlq3Sgnv7xdAxIlkU3GNIQg9lxETz5dPixGzfY-C8Ki8FYkffi5EhBnrNpKjKCNwL0O9KA3iP_JGhS7T8bdZ-IzTzW7ekJFDyJtWwHWOg",
+          "width": 980
+        },
+        {
+          "height": 551,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ0bv0gewn0lOaC0GNDkluBp8GPtUAGncyGs1rp5XWry6E2NYkQ4DJsqXVNSpdUBzenbNFY5TMHs_ZPreRcKLXClll_HMFi_HxEjNeLdtJmIPb2-xDTCz0-wseux5rjMDEhDij34EZ19kJxFfHzsAKfmwGhTuslenSK-9-mlT3FgcfcTlAZq9IA",
+          "width": 980
+        },
+        {
+          "height": 654,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAECgJZYWPTZl87c711ZyxKhRgkuWkWL_X4PpeIi-AYd6p0DmXzN7KtCdBxlN34peB_-6IUzbQqeVcEczR1nufQaTezJGw6P_FYGxLALar3_gIaclwBM1Y3L3L8fu91rVXEhBosujSZh6Fgm1R-Q6SNMoSGhS1I-GTEq3b9Lfd1URvgv9iuYKGSQ",
+          "width": 980
+        },
+        {
+          "height": 654,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAuGAHhKIRrbGvbnWyoYT6DbP0DkGzbETAPLF0ZaRU1hr29cauvVEAWaWT6uOjdw3zcEIBi4x0Su6SVSr_8-yZ8ocIq0Q1BSD7JQPviZXHdhKWgxXP9E2M7tYcEOBLhPaJEhBTaZEipo3woHgcsDVpvg1yGhTVgMdykd-l9zij6atEOR-8U2Werg",
+          "width": 980
+        },
+        {
+          "height": 614,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAUkvE9DPtTTpAaBLs0vi0YqUaYyeB5C1dJz4RsNbbI4KTTnf5Lr_Qv64jkeYoFReImBPn8DNmkKgWy7U48ZC7bTN1XSp2FMRDyrN83X-7oa8AferHYh_5cP4qN48xccuvEhBaCnOde7YyCWDyqEWOc3SGGhS-XwqIVIu2QiZaorW8tS6U8h5Dtw",
+          "width": 1024
+        },
+        {
+          "height": 614,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAA_74WchZvHvAHxWmy3UIAlZetdJCRqGzsxoRRoxSxwkP61fwf5b6m91_6jBlRrMx7XGeIl-50sdKV06SvI990F9aYnN2cH-JmNbW_cOCLVu4Th4lFpok2S8LzDi8BBmfREhC0Pa2xSGZGTkISAASnUKpcGhQ9wjJl5kp0Kgr6CFQg5R81o7Du1w",
+          "width": 1024
+        },
+        {
+          "height": 3701,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102964294511607599190/photos\">The Time New York</a>"
+          ],
+          "photo_reference": "CmRaAAAAaUfPJUDNgoa4oAYvQf63qb5jyJZr8F330-AXsq5_k7dek5nRjeW6oXhkK9HU4z34gJakMjoJS3Tkm_OMUdWiFZ6UnU9vESl5h0LEDMALimwd1hiJfe1VkGnv0cPj3iMmEhBCoOx_v9eruNc9QBh3gsjkGhTn06IrZ9cBMH16Q_f9UfHoVYvV8w",
+          "width": 5381
+        }
+      ],
+      "place_id": "ChIJGSNzZVZYwokRJWw6Ji1jta0",
+      "plus_code": {
+        "compound_code": "Q267+9Q New York, United States",
+        "global_code": "87G8Q267+9Q"
+      },
+      "rating": 4.1,
+      "reference": "CmRSAAAABzXvVNP1NTC_GIwmUciJDJ4TPuxS32nj8JNO4vWdJcE-MRP_DW80OS7CV7ZFVSV1OlSUuB6Md2TNVDxt-r7ojKv9-6npdwAfbSAIYDvN4fxrWTWfGBm7apgznz_TuxtFEhCqqePimMFzJ47vOgn0HCLPGhShPzOz9Y9ALqo53-tSEh9pk4Vtyw",
+      "reviews": [
+        {
+          "author_name": "matthew han",
+          "author_url": "https://www.google.com/maps/contrib/116832216065541611758/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-cgvVxyfbomc/AAAAAAAAAAI/AAAAAAAAXTU/sa2aHILZeuo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a week ago",
+          "text": "Overall was great. However, not a perfect 5/5 because it took 30 minutes just to check in... (They had to remove the alcohol from our room because I was under 21- understandable, but not something that should take half an hour, especially when we were eager to start exploring the city). Room was clean, bed was a king size. The room was small, but that's what you gotta deal with in NYC. AC was strong and worked 100%, bathroom was clean, shower was good. No complaints here. Would recommend a stay here.",
+          "time": 1534720370
+        },
+        {
+          "author_name": "Sarah Hagen",
+          "author_url": "https://www.google.com/maps/contrib/106099698682221489506/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-d_rE3L7BTSI/AAAAAAAAAAI/AAAAAAAAAAc/nyRubuBPuGE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "This hotel is so hip & modern, we loved staying here. My husband and I are from Texas and we are in our 20's - we truly enjoyed the feel of this place. I have never stayed in a hotel as nice and aesthetically pleasing as this. We stayed in a \"Deluxe King\" room - it was decently sized. The TV *IN* the mirror was super fascinating (yes I said in - it was actually disguised when it was turned off), as well as the all glass dresser that you could hang your clothes in. The lights in the bathroom we're top notch to do your make up in, as well as the rainfall shower head. I felt top notch getting ready to go out in the city in this room. It is perfectly placed very close to Times Square - you walk out of the hotel and it's about less than a 3 minute walk to the heart of Times Square. The location is right next to the theater that plays \"the Book of Mormon\" - which was convenient because that was the only show we went to see during our stay. If we were to plan another stay near Times Square - this would be where we would go again. HIGHLY RECOMMEND!!!",
+          "time": 1533148698
+        },
+        {
+          "author_name": "Sajid Sanwari",
+          "author_url": "https://www.google.com/maps/contrib/112388603634538280006/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-IlRk127yA7c/AAAAAAAAAAI/AAAAAAAAAa4/tleoRbzQRlk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 weeks ago",
+          "text": "Amazing hotel, love the reception area. It is very brilliantly made with the watches that make up ‘The Time’. The rooms are a bit small but are decent enough for 2 people. The most interesting part of this hotel is the hidden television set which is behind the mirror. It took me a while to find it. But what a brilliant concept & excellent space management. I would strongly recommend to stay here as its centrally located and is just a minute walking distance from The Times Square.",
+          "time": 1534309019
+        },
+        {
+          "author_name": "John Moua",
+          "author_url": "https://www.google.com/maps/contrib/100731166361981208141/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.googleusercontent.com/-bCw-elJLd7Q/AAAAAAAAAAI/AAAAAAAAAaY/LaBWmHQmavY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "in the last week",
+          "text": "So far the staff here is great! The service is great. On our first night, they called our room to ask if we needed anything and if our stay so far has been good. They were all courteous and welcoming to my husband and I. Super accommodating to say the least. There's plenty of eye candy for gays and girls to check out, so that is a huge plus :). Too bad when they ask if we need anything else we couldn't tell them the whole truth! Haha! Anyway, would totally stay here again, especially if all you need is a place to sleep.",
+          "time": 1535063916
+        },
+        {
+          "author_name": "Josiah Maddox",
+          "author_url": "https://www.google.com/maps/contrib/106991434579898074181/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-Ii98uzBsmkc/AAAAAAAAAAI/AAAAAAAAADs/7lPZIWcGkoA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 weeks ago",
+          "text": "We celebrated our anniversary with an overnight in Manhattan and stayed here. We loved the room, beautiful and comfortable. There was no view but as the front desk said, they're not know for their view. The amenities were great. The staff was friendly. The location was perfect. We definitely made the right choice.",
+          "time": 1533263777
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=12517019784912202789",
+      "utc_offset": -240,
+      "vicinity": "224 West 49th Street, New York",
+      "website": "http://www.thetimehotels.com/new-york?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect"
+    }
+  },
   "image": {
-    "name": "Aéropostale",
-    "file_name": "Aéropostale",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/2016-11-15.png",
+    "name": "The Time New York",
+    "file_name": "The Time New York",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045454/Exterior2_high-res.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-033430",
+    "date_added": "2018-08-29-045454",
     "file_type": "image/jpeg",
     "width": 1400,
-    "height": 1050,
-    "file_size": 1847445,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/large_2016-11-15.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/medium_2016-11-15.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/small_2016-11-15.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/xsmall_2016-11-15.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-033430/thumb_2016-11-15.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9891134,
-    "vicinity": "901 6th Ave, New York",
-    "place_id": "ChIJ6zyw0a5ZwokRBAQDDRUROxg"
+    "height": 824,
+    "file_size": 1520900,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045454/large_Exterior2_high-res.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045454/medium_Exterior2_high-res.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045454/small_Exterior2_high-res.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045454/xsmall_Exterior2_high-res.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-045454/thumb_Exterior2_high-res.png"
   }
 }

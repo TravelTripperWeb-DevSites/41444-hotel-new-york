@@ -1,35 +1,302 @@
 {
-  "name": "Express",
+  "name": "Econo Lodge Times Square",
   "category": [
-    "clothing_store",
-    "store",
+    "lodging",
     "point_of_interest",
     "establishment"
   ],
-  "latitude": 40.7586139,
-  "longitude": -73.9848382,
+  "latitude": 40.76039600000001,
+  "longitude": -73.987764,
   "description": null,
+  "photo_reference": "CmRaAAAAWBQFf4EvePhZTz5KrJ7ngDceBDOKGmYI7-66PePEusJiEsGC79omRZLLX2x9vyUwbcK7XGuX7jLYcy5C1VqugEz6YIeu0RuoZ6Tqmp4dk02HzHtV0Wt_CpL_kdW4Z21CEhD7D3CWWllvwl4Y8L6n1WakGhSBT9b2I-b-PFiaIOmr-Ja0NsTShg",
+  "location": {
+    "latitude": 40.76039600000001,
+    "longitude": -73.987764,
+    "vicinity": "302 West 47th Street, New York",
+    "place_id": "ChIJ-4dOHFRYwokRS2MaHOVd3WM",
+    "google_place": {
+      "address_components": [
+        {
+          "long_name": "302",
+          "short_name": "302",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 47th Street",
+          "short_name": "W 47th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10036",
+          "short_name": "10036",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3101",
+          "short_name": "3101",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "adr_address": "<span class=\"street-address\">302 W 47th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-3101</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "302 W 47th St, New York, NY 10036, USA",
+      "formatted_phone_number": "(520) 257-4598",
+      "geometry": {
+        "location": {
+          "lat": 40.76039600000001,
+          "lng": -73.987764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7617022302915,
+            "lng": -73.98629981970849
+          },
+          "southwest": {
+            "lat": 40.7590042697085,
+            "lng": -73.9889977802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "54ac77e8348d57c336f246c85f853a3e5fb3b5e5",
+      "international_phone_number": "+1 520-257-4598",
+      "name": "Econo Lodge Times Square",
+      "opening_hours": {
+        "open_now": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAA95BvlMHwkwNp4ZcMqEWo9hkwHF7D7c0ftLA3OO56P2qHeMEid9JkBxVk3hSznmkZhrEFKmM6Royteq_8zuA2R2TYylAKecod59vQcpYlriUtb8S31VX4CBeZtxNm1PTEhDBwaqcVqFrheJZT8zrMo6PGhR3g61Cf0bxBweEvqpG3yqH6wlLyw",
+          "width": 1280
+        },
+        {
+          "height": 686,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAA93g3THvmRzhPOLgHEhe4cDqcZbIRLeEKoeRlbmrNH94o2ljOVPsiCzmAr6LHwspKwaeO4OELiByP1gYQyCKWKICIxDoFtX8Ru0MT3rZksL99xOdw2yuyP-3-dK86eHuCEhBPayJspvXnMuNxw8XhB8uRGhTJHdQpxSkH4EBEForOSEkSyE04dA",
+          "width": 1024
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAI8vj3h9RxBQRfZdiQjwGdE0S1Ug2KGlCZWYqWgqtzIlOuahQPVomPmOxPbA6a9ZxNehu1Wn25hGh2dQx50a3Pc2bT0TTpfn5U_xGAHB_-QdTkn5xAozbQWRvNqP3nTEnEhDT3g4pzdLEFNpxiWUFnIk_GhS-NmtsyfAl7RJ9UDzUe0JnM2iSig",
+          "width": 853
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAYdSEemfhf3G204dEkY2tjAvxSoNwfusHwKfbqksJDAhaA5f-RqK1WOpY4xchyVcdWdtlLRppDf2L0NCeLCHoNsxi7KwojRYDsN_97zt1uxQuTMh4wAhb5u5SLhwtQgXREhDKtMyP0-ot4jx7Cq0eD1bcGhSKnXm4kkGdwrcsIndIqvj9pXgPag",
+          "width": 2048
+        },
+        {
+          "height": 288,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAc5V5tO8_QlDtK3ivOiA_BBJXXWMJmzaG2AagigXIcyorVXzCAbjyCGmmQwmgueeccbDwzOMUcatxBLzc0v5zmc0sGIh4uP4Ofz8hg93nbUvm6b9yKQ3SEwYRUFRrJcXoEhA_Q6xlt9sawti_-wgMjULEGhRgOWp_q-1ABycDLyxT_JeiDh7XuA",
+          "width": 512
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAokpZpk2nggtea7Tq1DdzSZkIgbhqmFuI-wgpiW6VOFG-auiL4h6Tiqk47VzzFVrpvi2FoU-WxkETJEFjeAGvyLHXG77Xgo7u7oi_4IyfOuskk0ok5ibEjqsJHys6UOc9EhCr5jCvEUZ5zk56Rr3R4D-OGhT5x7bxCuHvUr-M4xgMjII26MxIOw",
+          "width": 2048
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAP3AkrHZzlr2V6EsnC5f1Dlqh1OjYe0LwuPJAcKJrQF1TsIy0cQPlEcwSfiQhDb1fT-i0ZeKAE_x4vdMQTjdskdJ4qIo0Std-4qe60zFy73njuiBxrp2KsqpKoAFhirnuEhB0bEG3D_QWFk-ww54hBB6uGhScSThlIxxV2jN4cn1srQQLZbRnxQ",
+          "width": 2048
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAqVBI_j6FG5YOR4hGucYT3PubCukvvrDcTuib_yqj_VE3jFjOmwmmoXRiFbxIjJqBTyjYVebkVBYvC1mG7aUG2diHS3wrU6DaQ2pwoXqIcPDseVTKqII2yivdmDuqdC7SEhAww-4XKG_ae4Jf4__cwN0jGhRGnjeyDJDq8EPJbUi4PC4Bt-LDlA",
+          "width": 2048
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAeV0Ws_Y373O1HvYMjBlNwjqh8nKWwzejdWurT7tV-hKYc5-dGmjasVevg2ko2datRKhAOD8_pvOtctGvwFRFgC0NI7kAf58mtTtl-Uq-O4E_rvQZH9Ob-0Lafk5JGdUXEhCUUpYoWJLzu9xjNLvdV3WzGhQy5zcVnAOaGR1b_QX-kf0QZoVVMw",
+          "width": 2048
+        },
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111932335910046174201/photos\">Econo Lodge Times Square</a>"
+          ],
+          "photo_reference": "CmRaAAAAWC2f1zfof7QN9_zwl2QNuz5qg6z6XbdZkZQNBgSOeHHLmAaTbBcNavf6TXozCATLi_gAomVpuRSfWMvagPuSVwF17FIAN4hEQqutmP-4sTyL62SshoAB_wyjme_YQWNZEhCsMfFvjgGkL-fPQG0WFMnkGhSToyzU_J0plZA6yg1vWHNl2lhkTA",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ-4dOHFRYwokRS2MaHOVd3WM",
+      "plus_code": {
+        "compound_code": "Q266+5V New York, United States",
+        "global_code": "87G8Q266+5V"
+      },
+      "rating": 3.8,
+      "reference": "CmRRAAAAxOh_CEVzMET4T4J6v0IuuKUA9uNdwHd5uAc2z13TqbaFMqorp5W1f-CJXvS_9mysidSyVznhFlNEKy53KghUc13979M7w7OUtdRfzWawwiEYU2lcgmLieDMA4PGz9oeCEhCjWcowBEB5W1cW2y0-2kSmGhS1R0Jln43U0u3peEeeJtrdl04cAQ",
+      "reviews": [
+        {
+          "author_name": "Philip Browne Jr.",
+          "author_url": "https://www.google.com/maps/contrib/109220038047162004658/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-OhFnlvXom_w/AAAAAAAAAAI/AAAAAAAAAXQ/XowX5kZk_nA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a week ago",
+          "text": "So this is my first time staying in a hotel in NYC. I'm not used to the big price tags and tiny accommodations, especially right around Time Square and Broadway. The staff was extremely friendly, everything was clean and the breakfast wasn't half bad, but the rooms are SO tiny! Just a word of warning to anyone making an overnight stay to NYC for the first time, every place will be like this unless you are paying a premium on top of the premium of being in NYC. I do have to say though the location was great, very close to everything you could possibly need!",
+          "time": 1534718267
+        },
+        {
+          "author_name": "Aditi Shah",
+          "author_url": "https://www.google.com/maps/contrib/113787755768151996283/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-rK-dsJZErK0/AAAAAAAAAAI/AAAAAAAAHfM/fhxIo510D8c/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "in the last week",
+          "text": "The rooms were tiny. The first room we were given smelled smoky even though this is a non smoking hotel. The front desk people were helpful and gave us another room. The location is pretty awesome, but this is not the place for you if you're a light sleeper",
+          "time": 1535323470
+        },
+        {
+          "author_name": "Misty LeAnn",
+          "author_url": "https://www.google.com/maps/contrib/106039158050850492618/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.googleusercontent.com/-jUy4dIbe5V8/AAAAAAAAAAI/AAAAAAAAABo/SfwNoGXgAhA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "I enjoyed my stay here even though the room was quite small. It IS New York so I was expecting a smaller room. They have a small, quick breakfast, and the staff was MORE than pleasant and helpful! The location can’t be beat for the price! I highly recommend this hotel for all out of town visitors that want to enjoy themselves without going broke!",
+          "time": 1527278809
+        },
+        {
+          "author_name": "Thomas Edmond",
+          "author_url": "https://www.google.com/maps/contrib/107534467989786620620/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.googleusercontent.com/-c4Vxsm3Y1D0/AAAAAAAAAAI/AAAAAAAAADc/e8hdGFz8HYE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "4 weeks ago",
+          "text": "I really enjoyed my stay at this hotel I loved the fact the staff was very friendly. location is everything thing everything is a 4 to 10 min walk this place is great if you are trying to take in the full experience of NYC but if u are looking for peace and quiet..lol  this is not the location for you but its still a great small hotel",
+          "time": 1532997186
+        },
+        {
+          "author_name": "cecille casadores",
+          "author_url": "https://www.google.com/maps/contrib/116374995351294016063/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/-UAElIvG-Fso/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaN_KcC9xrxktTFdJ_jfYKqRX2-R2Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 2,
+          "relative_time_description": "a month ago",
+          "text": "Room is really small. If youre a family of 3,i would not recommend to stay here. You are just paying the location of the lodge coz its only 2 blocks away from time square. Other than that,room is only good for 2 people because the space is really small.",
+          "time": 1531971222
+        }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=7196011018208305995",
+      "utc_offset": -240,
+      "vicinity": "302 West 47th Street, New York",
+      "website": "http://www.econonyc.com/"
+    }
+  },
   "image": {
-    "name": "Express",
-    "file_name": "Express",
-    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/20180419_223217.png",
+    "name": "Econo Lodge Times Square",
+    "file_name": "Econo Lodge Times Square",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044540/pg7ZXNYutuiD5W_XFstYoKO3mN6pEWO9smToVN2g930_i5WpQKjs9OmtoPKH-8PRVS9TLrPDqvgyj8vdDP27OkM__QKH8NOty8aAiCtw4UN1QEXM-e2B87NKLVLGGHR6xHE_vdqXVEeIitAnd8Xlh1Fw_KWLojfW6JeZSiXtXN8kOKg.png",
     "tags": "",
     "description": "",
-    "date_added": "2018-08-02-032445",
+    "date_added": "2018-08-29-044540",
     "file_type": "image/jpeg",
-    "width": 1400,
-    "height": 1050,
-    "file_size": 1899281,
-    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/large_20180419_223217.png",
-    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/medium_20180419_223217.png",
-    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/small_20180419_223217.png",
-    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/xsmall_20180419_223217.png",
-    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-02-032445/thumb_20180419_223217.png"
-  },
-  "location": {
-    "latitude": null,
-    "longitude": -73.9848382,
-    "vicinity": "1552 North Broadway, New York",
-    "place_id": "ChIJmQJIxlVYwokRHu7tKzvxtM4"
+    "width": 1280,
+    "height": 853,
+    "file_size": 1827145,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044540/large_pg7ZXNYutuiD5W_XFstYoKO3mN6pEWO9smToVN2g930_i5WpQKjs9OmtoPKH-8PRVS9TLrPDqvgyj8vdDP27OkM__QKH8NOty8aAiCtw4UN1QEXM-e2B87NKLVLGGHR6xHE_vdqXVEeIitAnd8Xlh1Fw_KWLojfW6JeZSiXtXN8kOKg.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044540/medium_pg7ZXNYutuiD5W_XFstYoKO3mN6pEWO9smToVN2g930_i5WpQKjs9OmtoPKH-8PRVS9TLrPDqvgyj8vdDP27OkM__QKH8NOty8aAiCtw4UN1QEXM-e2B87NKLVLGGHR6xHE_vdqXVEeIitAnd8Xlh1Fw_KWLojfW6JeZSiXtXN8kOKg.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044540/small_pg7ZXNYutuiD5W_XFstYoKO3mN6pEWO9smToVN2g930_i5WpQKjs9OmtoPKH-8PRVS9TLrPDqvgyj8vdDP27OkM__QKH8NOty8aAiCtw4UN1QEXM-e2B87NKLVLGGHR6xHE_vdqXVEeIitAnd8Xlh1Fw_KWLojfW6JeZSiXtXN8kOKg.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044540/xsmall_pg7ZXNYutuiD5W_XFstYoKO3mN6pEWO9smToVN2g930_i5WpQKjs9OmtoPKH-8PRVS9TLrPDqvgyj8vdDP27OkM__QKH8NOty8aAiCtw4UN1QEXM-e2B87NKLVLGGHR6xHE_vdqXVEeIitAnd8Xlh1Fw_KWLojfW6JeZSiXtXN8kOKg.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_40_87/media/2018-08-29-044540/thumb_pg7ZXNYutuiD5W_XFstYoKO3mN6pEWO9smToVN2g930_i5WpQKjs9OmtoPKH-8PRVS9TLrPDqvgyj8vdDP27OkM__QKH8NOty8aAiCtw4UN1QEXM-e2B87NKLVLGGHR6xHE_vdqXVEeIitAnd8Xlh1Fw_KWLojfW6JeZSiXtXN8kOKg.png"
   }
 }
